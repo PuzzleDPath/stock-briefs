@@ -1,68 +1,65 @@
 # ServiceNow (NOW) — Brief
-Generated: 2026-06-08
+Generated: 2026-06-10
 
 ---
 
-## Snapshot
+## 1. Company snapshot
 
-ServiceNow ขาย "Now Platform" cloud platform สำหรับ automate workflow ภายในองค์กร ลูกค้าหลักคือองค์กรขนาดใหญ่และหน่วยงานรัฐ ~97% ของรายได้เป็น subscription recurring multi-year contracts กำลัง pivot pricing model จาก seat-based ไปเป็น token/connector-based ตาม AI adoption
-Revenue FY2025: $13.28B (+21% YoY) | FCF Margin: 35% (FY2025), 44% (Q1 2026) | GAAP Gross Margin: 77.5% / Non-GAAP: 81% | Market cap: ไม่มีราคาหุ้น real-time ใน source
-
----
-
-## Bull case
-
-- **Switching cost สูงที่สุดใน enterprise software** — 97% renewal rate, 603 ลูกค้า >$5M ACV, Total RPO $28.2B (+26.5% YoY) คือ 2+ ปีของรายได้ที่ lock-in ไว้แล้ว ลูกค้าออกยากมากเพราะ workflow ฝังลึกทั่วทั้งองค์กร (source: 10-k-latest.md)
-- **AI upsell กำลัง inflect จริง** — AI revenue target ปรับขึ้นจาก $1B เป็น $1.5B สำหรับปี 2026, 50% ของ net new business เป็น non-seat-based (tokens/connectors) แล้ว และ $1M+ deal cohort โต 130% YoY — สัญญาณว่า AI ไม่ใช่แค่ upsell เล็กๆ แต่กำลัง reshape deal structure (source: q-latest-call.md)
-- **FCF engine ที่แข็งมาก** — FCF FY2025 $4.6B (+34% YoY), Q1 2026 FCF margin 44%, debt สุทธิเพียง $1.5B เมื่อเทียบกับ FCF ต่อปี บริษัทซื้อหุ้นคืน $5B + accelerated $2B ได้โดยไม่กระทบ growth (source: 10-k-latest.md, q-latest-call.md)
+ServiceNow ขายซอฟต์แวร์ cloud-based ให้กับองค์กรขนาดใหญ่และหน่วยงานรัฐ ผ่าน Now Platform ที่ช่วย automate workflow ในส่วน IT, HR, customer service และ security รายได้กว่า 97% มาจาก subscription ภายใต้สัญญาหลายปี ทำให้กระแสเงินสดคาดเดาได้ในระดับสูง ปัจจุบัน NOW กำลัง monetize ความสามารถด้าน AI ที่ฝังอยู่ใน platform (AI Agents, Now Assist) โดยตรงผ่านการขยาย contract กับลูกค้าเดิม และเพิ่ง launch Autonomous Workforce พร้อม Action Fabric ที่ให้ external AI agents (รวมถึง Claude, Copilot) เชื่อมต่อ platform ได้ในงาน Knowledge 2026
 
 ---
 
-## Bear case
+## 2. Fundamentals signal
 
-- **Revenue deceleration ต่อเนื่อง** — growth ลดจาก 23.8% (FY2023) → 22.4% (FY2024) → 21% (FY2025) → Q2 2026 guided 21-21.5% CC แม้ AI ช่วยแต่ยังไม่ re-accelerate ชัด ถ้า AI upsell ไม่ offset base slowdown จะกดราคาหุ้น (source: 10-k-latest.md, q-latest-call.md)
-- **Acquisition spree กดทั้ง margin และ focus** — Armis (security), Veza (identity), Pyramid Analytics ทยอยเข้ามา Armis สร้าง 125 bps Q2 operating margin drag โดยเฉพาะ ระหว่าง integrate หลายตัวพร้อมกัน execution complexity สูง (source: q-latest-call.md)
-- **Geopolitical risk ใหม่ที่เพิ่งโผล่** — Q1 มี 75 bps headwind จาก delayed on-premise deals ในตะวันออกกลาง เป็น risk ที่ไม่เคยพูดถึงมาก่อน ถ้าขยายไปภูมิภาคอื่นจะกระทบ guidance (source: q-latest-call.md)
-
----
-
-## Latest earnings
-
-**Quarter:** Q1 FY2026 (ended March 31, 2026, reported April 22, 2026)
-**Revenue:** Subscription $3.671B (+19% CC) — beat high end of guidance; cRPO $12.64B (+21% CC) 100 bps above guidance
-**Key management commentary:**
-- CEO McDermott: 50% ของ net new business เป็น non-seat-based แล้ว — pricing model กำลัง shift ไปสู่ token/connector model ตาม AI adoption อย่างมีนัยสำคัญ
-- AI revenue target ปี 2026 ยกขึ้นจาก $1B → $1.5B หลังจาก Q1 deal velocity แข็งแกร่งกว่าคาด
-- Armis integration เร็วกว่ากำหนด แต่ยังกด Q2 margin 125 bps — short-term drag ที่จะหายเมื่อ integrate เสร็จ
+- **Revenue เติบโตสม่ำเสมอ:** FY2025 $13,278M (+21% YoY) ต่อจาก FY2024 $10,984M — ทิศทางยังเป็น double-digit growth ต่อเนื่อง (source: sources/NOW/10-k-latest.md)
+- **Margin ผสม:** GAAP gross margin 77.5% (FY2025) / Non-GAAP operating margin 31.0% — SBC ดึง GAAP ต่ำ ตัวเลข non-GAAP สะท้อนเศรษฐกิจธุรกิจได้ดีกว่า (source: sources/NOW/10-k-latest.md)
+- **Cash flow แข็งแกร่ง:** FCF $4,636M (35% FCF margin) สูงกว่า GAAP net income $1,748M อย่างมีนัยสำคัญ (source: sources/NOW/10-k-latest.md)
+- **Balance sheet ไม่น่ากังวล:** Cash + marketable securities $7,497M vs long-term debt $1,491M — net cash positive (source: sources/NOW/10-k-latest.md)
+- **Pipeline lock แน่น:** cRPO $12,850M (+25% YoY), Total RPO $28,200M (+26.5%) — growth ปีหน้ามีการ lock ในสัญญาไว้แล้ว (source: sources/NOW/10-k-latest.md)
 
 ---
 
-## Recent news & catalysts
+## 3. Latest earnings (Q1 FY2026 — April 22, 2026)
 
-- **มิ.ย. 2026** — Wipro ขยาย partnership ผลักดัน agentic AI บน ServiceNow platform ให้ enterprise clients
-- **มิ.ย. 2026** — Cognizant integrate Neuro AI Trust เข้ากับ ServiceNow workflows สำหรับ AI governance
-- **พ.ค.–มิ.ย. 2026** — หุ้น rally ~40% ใน 1 เดือน (+4.9% ใน 7 วันล่าสุด) แต่ยังต่ำกว่า 6-month high ~30%
-- **18 พ.ค. 2026** — BofA: Maintain Buy, PT $130 | UBS (10 เม.ย.): downgrade, PT cut $100 — range กว้างมาก ($100–$314) ใน 33 analysts
-- **Next earnings:** คาด late July 2026 (Q2 FY2026) — ครั้งแรกที่จะเห็น Armis margin drag ครบ quarter
-
----
-
-## Kill conditions
-
-1. **AI revenue ไม่ถึง $1.5B target ปี 2026** — ถ้า AI deal momentum ชะลอหลังจาก raise target แปลว่า upsell thesis พัง
-2. **Revenue growth ลงต่ำกว่า 18% CC** — signal ว่า base business ช้าและ AI ไม่ offset ได้ทัน
-3. **Renewal rate ลดลงจาก 97%** — switching cost เป็น moat หลัก ถ้า churn เพิ่มแม้แค่เล็กน้อยต้อง re-examine thesis ทันที
-4. **Geopolitical disruption ขยายออกนอกตะวันออกกลาง** — ถ้า government/large enterprise deals ถูก delay หลาย region พร้อมกัน RPO จะชะลอ
+- Subscription Revenue $3.671B (+19% CC) beat high end of guidance (source: sources/NOW/q-latest-call.md)
+- cRPO $12.64B (+21% CC) — 100 bps above guidance; Total RPO $27.7B (+23.5% CC) (source: sources/NOW/q-latest-call.md)
+- Non-GAAP Operating Margin 32% (50 bps above guidance); FCF Margin 44% (source: sources/NOW/q-latest-call.md)
+- AI Revenue Target raised $1B → $1.5B สำหรับ FY2026; 50% ของ net new business เป็น non-seat-based (tokens/connectors) แล้ว; 3+ product deals โต 70% YoY (source: sources/NOW/q-latest-call.md)
+- Q2 guide: Subscription Revenue $3.815–3.820B (+21–21.5% CC); Operating Margin 26.5% รวม 125 bps Armis headwind; Full-year guide raised เป็น $15.735–15.775B (source: sources/NOW/q-latest-call.md)
 
 ---
 
-## What to ask before owning it
+## 4. Bull case / Bear case
 
-1. **AI revenue $1.5B target ปี 2026 — signed contract แล้วกี่ % ที่เหลือเป็น pipeline?** — ถ้า $1.5B ส่วนใหญ่เป็น pipeline ยังไม่ close โอกาส miss สูงกว่าที่ตัวเลขดูเหมือน
-2. **50% net new เป็น non-seat-based — revenue per customer เปลี่ยนไปยังไง?** — token/connector pricing ให้ revenue สูงขึ้นหรือต่ำลงเมื่อเทียบกับ seat แบบเดิม ถ้าลูกค้าใช้น้อยกว่าที่คาด ARPU จะหด
-3. **Armis integration เสร็จเมื่อไหร่ และ 125 bps margin drag จะหายไปเมื่อ Q ไหน?** — ต้องรู้ก่อนที่จะเปรียบ margin กับ guidance ใหม่ได้ถูกต้อง
-4. **รายได้จาก government / Middle East กี่ % ของ total?** — 75 bps headwind จาก delayed deals ใน Q1 ถ้าตัวเลขนี้ใหญ่กว่าที่ management บอก risk จากภูมิรัฐศาสตร์ underpriced
-5. **97% renewal rate วัดอย่างไร — net revenue retention คือเท่าไหร่?** — renewal rate 97% ฟังดูดี แต่ถ้า upsell/expansion ต่ำ NRR อาจต่ำกว่า 110% ซึ่งจะบอก growth story ที่ต่างออกไป
+**Bull**
+- **Switching cost สูงมาก** — 97% renewal rate กับ cRPO $12.64B บอกว่า revenue ปีหน้าส่วนใหญ่ lock in แล้ว workflow ฝังลึกใน IT/HR/security ของลูกค้าจนออกได้ยาก
+- **AI upsell กำลัง inflect** — AI target ยก $1B → $1.5B, 50% net new เป็น token/connector, deals กับ 3+ products โต 70% YoY — signal ว่า AI ไม่ใช่ add-on เล็กๆ
+- **FCF engine แข็งแกร่ง** — 35% FCF margin บน revenue กว่า $13B คือเครื่องจักรที่ผลิตเงินสดได้สม่ำเสมอโดยไม่พึ่ง GAAP accounting
+
+**Bear**
+- **Revenue deceleration เป็น multi-year trend ไม่ใช่แค่ quarter เดียว** — 23.8% → 22.4% → 21% → Q1 +19% CC → Q2 guide 21–21.5% CC ทิศทางเป็นขาลงต่อเนื่อง Armis drag อธิบายได้ 1 quarter แต่ไม่ reverse trend ที่สะสมมาหลายปี สำหรับหุ้นที่ trade ที่ premium multiple การชะลอต่ำกว่า 20% CC อย่างต่อเนื่องคือ re-rating risk
+- **AI revenue story คือ management aspiration ยังไม่ใช่ verified contract** — $1.5B target ไม่มีการแยก signed vs pipeline; 50% non-seat stat คือ net new เท่านั้น ไม่ใช่ installed base; "3+ product deals +70% YoY" คือ relative figure ไม่มี denominator — ตัวเลขเหล่านี้ดูดีแต่ยังไม่พิสูจน์ว่า AI กำลัง convert เป็น recognized revenue จริงๆ
+- **สาม acquisition integrate พร้อมกันบวก geopolitical drag** — Armis (125 bps op margin headwind), Veza, Pyramid Analytics integrate พร้อมกัน บวก Middle East on-premise deal delay 75 bps ใน Q1 — execution complexity สูงมากในช่วงที่ต้องพิสูจน์ AI thesis กับตลาด
+
+---
+
+## 5. Kill conditions
+
+1. **cRPO growth ≤15% CC สองไตรมาสติดกัน** — cRPO คือ leading indicator ที่ honest ที่สุด ปัจจุบัน +21% CC ถ้าลงต่ำกว่า 15% สองไตรมาสโดยไม่มีคำอธิบายที่ verify ได้ แสดงว่า renewal flywheel ชะลอจริง observable ทุก earnings
+2. **AI recognized revenue ต่ำกว่า $1.1B สิ้นปี 2026 หรือ management ไม่เคย disclose ตัวเลขนี้เลย** — management raise target แต่ถ้าไม่ disclose ตัวเลขที่ verify ได้ภายใน Q2 earnings ตัวเลข $1.5B ควรถูก treat เป็น pipeline ไม่ใช่ revenue ถ้า miss >25% หรือไม่เคยแยก line out = upsell thesis ไม่ convert
+3. **Non-seat share ของ net new business กลับต่ำกว่า 35%** — 50% non-seat คือหลักฐานว่า pricing model กำลัง shift จริง ถ้ากลับต่ำกว่า 35% แสดงว่า AI adoption อ่อนกว่า narrative
+4. **Full-year subscription growth ต่ำกว่า 19% CC หลัง back out Armis contribution** — organic growth ที่ guidance midpoint อยู่ที่ ~21.75% CC ถ้า organic ต่ำกว่า 19% แสดงว่า base business ชะลอเร็วกว่าที่ headline บอก observable ใน annual filing
+5. **Armis op margin drag ยังเกิน 50 bps ใน Q4 2026** — ถ้า 125 bps drag ไม่ normalize ลงต่ำกว่า 50 bps ภายใน Q4 แสดงว่า integration ช้ากว่าแผนและ full-year margin จะ undershoot 31.5% guidance
+
+---
+
+## 6. What to ask before owning it
+
+1. **AI $1.5B target — signed contract แล้วกี่ %?** ที่เหลือเป็น pipeline หรือเปล่า? ถ้าส่วนใหญ่เป็น pipeline โอกาส miss สูงกว่าที่ตัวเลขดูเหมือน
+2. **Non-seat pricing (token/connector) ให้ revenue สูงหรือต่ำกว่า seat แบบเดิม?** ถ้าลูกค้าใช้น้อยกว่าที่คาด ARPU จะหด แม้ % non-seat จะสูง
+3. **Armis drag 125 bps — หายไป Q ไหนจริงๆ?** management บอก transitional แต่ไม่ได้ให้ timeline ชัด ต้องรู้ก่อนเปรียบ margin กับ guidance ได้ถูกต้อง
+4. **Middle East delay กี่ % ของ total revenue?** ถ้าตัวเลขนี้ใหญ่กว่าที่ management acknowledge risk จาก geopolitical underpriced อยู่
+5. **Autonomous Workforce / Action Fabric pricing** — built-in ทุก tier หรือ add-on? ถ้าเป็น add-on attach rate จะบอก AI adoption ที่แท้จริง
 
 ---
 
@@ -70,8 +67,14 @@ Revenue FY2025: $13.28B (+21% YoY) | FCF Margin: 35% (FY2025), 44% (Q1 2026) | G
 
 **WATCH**
 
-Moat แข็งจริง (97% renewal, RPO $28.2B, switching cost ฝังระดับ workflow) และ AI upsell มี signal จริง (AI target raise $1B → $1.5B, 50% net new เป็น non-seat-based แล้ว) แต่ราคาวิ่ง ~40% ใน 1 เดือน ทำให้ margin of safety หายไปมาก ต้องรอ Q2 earnings (late July 2026) เพื่อดู Armis drag ครบ quarter และ AI revenue vs. $1.5B target จริงก่อนกดซื้อ
+NOW มี switching cost จริง — 97% renewal rate กับ cRPO $12.85B บอกว่าลูกค้าออกยาก แต่ที่กด BUY ไม่ได้คือ AI revenue story ยังเป็น management aspiration $1.5B target ไม่มีการแยก signed vs pipeline และ kill condition 5 ข้อยังไม่ผ่านการ verify แม้แต่ข้อเดียว ประกอบกับ portfolio ปัจจุบัน NOW อยู่ที่ 36.37% แล้ว — ถ้า add เพิ่มตอนนี้คือ concentrate ตัวที่ขาดทุนอยู่โดยไม่มี cash buffer เลย
 
-Moat: Strong | Momentum: Flag (40% ใน 1 เดือน — fundamental รองรับ long-term แต่ entry ตอนนี้มี momentum premium)
+**Moat: Strong** — switching cost ชัดมากจาก 97% renewal rate และ multi-year subscription ที่ lock revenue ล่วงหน้า
 
-_ข้อมูลจาก brief วันที่ 2026-06-08 | ไม่ใช่คำแนะนำการลงทุน_
+**Momentum flag: ผ่าน** — ไม่มีสัญญาณ momentum trap ราคาลงมาจาก avg cost แล้ว ความน่าสนใจมาจาก fundamental FCF และ cRPO ไม่ใช่ราคาวิ่ง
+
+**Next reassess: Q2 FY2026 Earnings (ประมาณ ก.ค. 2026)** — ดูว่า cRPO growth ยัง 21%+ ไหม, Armis drag เริ่มลดหรือเปล่า, และ management เริ่ม disclose AI recognized revenue แยกออกมาได้หรือยัง
+
+---
+
+_Research summary only — ไม่ใช่คำแนะนำซื้อขาย_
