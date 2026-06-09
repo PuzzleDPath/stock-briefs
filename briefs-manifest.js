@@ -46,8 +46,8 @@ window.MANIFEST = [
         "tk":  "LLY",
         "co":  "Eli Lilly and Company",
         "date":  "",
-        "verdict":  "none",
-        "one":  ""
+        "verdict":  "watch",
+        "one":  "ธุรกิจมีข้อได้เปรียบจริง"
     },
     {
         "tk":  "MSFT",
