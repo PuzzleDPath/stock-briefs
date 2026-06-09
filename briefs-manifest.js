@@ -16,9 +16,9 @@ window.MANIFEST = [
     },
     {
         "tk":  "AVGO",
-        "co":  "Broadcom",
+        "co":  "Broadcom Inc.",
         "date":  "",
-        "verdict":  "buy",
+        "verdict":  "watch",
         "one":  "Custom XPU moat แข็งแกร่งจริง"
     },
     {
