@@ -1,76 +1,80 @@
 # CrowdStrike Holdings (CRWD) — Brief
-Generated: 2026-06-08
+Generated: 2026-06-09
 
 ---
 
-## Snapshot
+## 1. Company snapshot
 
-CrowdStrike เป็น AI-native cybersecurity บน Falcon platform — cloud-delivered, single-agent architecture ที่รวม EDR/XDR, identity protection, cloud security, next-gen SIEM และ threat intelligence ไว้ในที่เดียว รายได้ 95%+ เป็น SaaS subscription จาก 74,000+ องค์กรทั่วโลก
-Market cap ~$170B | Revenue TTM ~$5.4B | FCF margin Q1 FY2027: 34% | ARR: $5.51B (+24% YoY)
-
----
-
-## Bull case
-
-- **Platform consolidation moat ที่วัดได้** — Falcon Flex ARR $1.9B (+99% YoY, 300+ new accounts Q1) บอกว่าลูกค้าไม่แค่ renew แต่ซื้อ module เพิ่มขึ้นเรื่อยๆ single-agent architecture ทำให้ migration cost สูงมาก (source: q1-2027-call.md)
-- **AI inflection เป็น demand catalyst ใหม่** — AIDR ARR +250% QoQ, CrowdStrike เป็น cybersecurity vendor เดียวที่ทั้ง OpenAI และ Anthropic เลือกตั้งแต่เริ่มต้น ยิ่ง AI workload โต attack surface โตตาม TAM ก็โต (source: q1-2027-call.md)
-- **FCF machine ที่มี revenue visibility สูง** — FCF $468M ใน Q1 เดียว (34% margin, all-time high), Rule of 40 score: 59, ARR backlog ให้ visibility 12+ เดือน ไม่ต้องพึ่ง macro (source: q1-2027-call.md)
+CrowdStrike Holdings เป็นบริษัท cybersecurity ที่ขายซอฟต์แวร์ป้องกันภัยไซเบอร์ในรูปแบบ subscription ให้กับองค์กร รัฐบาล และบริษัท IT security ทั่วโลก จุดขายหลักคือ Falcon platform ซึ่งเป็น single agent ที่ครอบ endpoint security, identity protection, cloud security, threat intelligence และ next-gen SIEM ไว้ในระบบเดียว ลูกค้า 74,000+ ราย รายได้ ~95% มาจาก subscription ที่ต่ออายุทุกปี ทำให้ revenue predictable สูง Net Dollar Retention 112% บอกว่าลูกค้าเดิมไม่แค่อยู่แต่จ่ายเพิ่มทุกปีจากการ add module ใหม่
 
 ---
 
-## Bear case
+## 2. Fundamentals signal
 
-- **Valuation ไม่มีที่ให้ผิดพลาดเลย** — ~$170B market cap บน $5.9B FY2027 revenue คือ ~29x forward revenue, ~90x run-rate FCF ต้องรักษา 20%+ ARR growth หลายปีติดต่อกัน และต้องเพิ่ม net new ARR $1B+ ทุกปี miss ครั้งเดียว multiple compress ทันที ไม่มี cushion (source: q1-2027-call.md, 10-k-latest.md)
-- **July 2024 outage ทิ้งรอยไว้ structural ไม่ใช่แค่ one-time** — NRR ลดจาก 120%+ มาอยู่ที่ 112% คือ -800bps ใน expansion velocity, GAAP net loss -$19.3M จาก customer commitment packages (บริษัทจ่ายให้ลูกค้าเพื่อรั้งไว้) และตัวเลขนี้ยังไม่ recover ใน Q1 FY2027 ที่ valuation 29x revenue การที่ NRR อ่อนลง structural คือ thesis breaker (source: 10-k-latest.md, q1-2027-call.md)
-- **Microsoft risk ไม่มีข้อมูลพอจะ size ได้** — brief ระบุ Defender/Sentinel bundle เป็นภัยกด pricing แต่ไม่มีข้อมูล: % ลูกค้าที่เป็น SMB vs enterprise, % new logo ใน Q1 ที่มาจาก Microsoft displacement vs greenfield, หรือ NRR 112% ที่ลดลงสัมพันธ์กับ segment ที่ Microsoft กำหนดเป้าไหม ไม่สามารถ size risk นี้ได้จากข้อมูลปัจจุบัน (source: 10-k-latest.md)
-
----
-
-## Latest earnings
-
-**Quarter:** Q1 FY2027 (reported June 3, 2026)
-**Revenue:** $1.39B (+26% YoY) — beat guidance high end | Net New ARR $256M (+32% YoY) — fiscal Q1 record
-**Key management commentary:**
-- CEO George Kurtz เรียก Q1 ว่า "Mythos Moment" — AI emergence ทำให้ cybersecurity กลายเป็น critical AI infrastructure ไม่ใช่แค่ risk management
-- AIDR pipeline $50M+, Next-Gen SIEM ผ่าน $600M ARR, cloud+identity+SIEM รวมกัน $2B+
-- FY2027 guidance (raised): revenue $5.915–5.959B (+23–24%), FCF margin 30%+ floor
+- **Revenue โตต่อเนื่อง** — FY2024 $3.1B → FY2025 $4.0B (+29%) → FY2026 $4.81B → Q1 FY2027 $1.39B/quarter (+26% YoY); ARR $4.24B ณ ต้น FY2026 (source: sources/CRWD/10-k-latest.md)
+- **Gross margin ทรงตัวสูง** — GAAP GM ~78%; non-GAAP subscription GM ~81%; ไม่มี compression แม้ scale ใหญ่ขึ้น (source: sources/CRWD/10-k-latest.md)
+- **FCF ขึ้นต่อเนื่อง** — FCF FY2025 $1.07B (record); Q1 FY2027 FCF $468M (34% of revenue, all-time quarterly high); FY2027 FCF floor 30%+ guided (source: sources/CRWD/10-k-latest.md, sources/CRWD/q1-2027-call.md)
+- **Balance sheet แข็ง** — cash $4.55B; LT debt $744.7M; net cash ~$3.8B; ไม่มีความเสี่ยงด้านสภาพคล่อง (source: sources/CRWD/10-k-latest.md)
+- **GAAP กลับมาเป็นบวก** — GAAP net income $27.8M Q1 FY2027 (พลิกจาก loss FY2025 ที่เกิดจาก July 2024 outage); non-GAAP op margin 24%; Rule of 40 = 59 (source: sources/CRWD/q1-2027-call.md)
 
 ---
 
-## Recent news & catalysts
+## 3. Latest earnings (Q1 FY2027 — reported June 3, 2026)
 
-- **1 มิ.ย. 2026** — CRWD แตะ all-time high $782.17 ก่อน earnings
-- **3 มิ.ย. 2026** — Q1 FY2027 beat: EPS $1.10 vs consensus $0.88; ประกาศ 4-for-1 stock split (record June 25, effective July 2); แต่งตั้ง Chief AI Officer จาก NVIDIA
-- **3–4 มิ.ย. 2026** — CEO ขายหุ้น $2.76M ที่ $672–766/หุ้น หลัง earnings
-- **4 มิ.ย. 2026** — JPMorgan ปรับ PT $475 → $800 (Overweight); Jefferies PT $500 → $775 (Buy); Mizuho PT → $700
-- **2 ก.ค. 2026** — วันแรก trade บน split-adjusted basis (4-for-1)
-- **~26 ส.ค. 2026** — Q2 FY2027 earnings คาดการณ์
-
----
-
-## Kill conditions
-
-1. **Net New ARR ต่ำกว่า $200M ใน quarter ใด หรือต่ำกว่า $220M สองไตรมาสติดกัน** — Q1 FY2027 ทำได้ $256M (+32% YoY) เป็น fiscal Q1 record ถ้าตกต่ำกว่า $200M แปลว่า competitive displacement เร่งขึ้นหรือ post-outage acquisition stall ดูครั้งแรกที่ Q2 earnings ~26 ส.ค. 2026
-2. **Dollar-based NRR อยู่ที่ 112% หรือต่ำกว่าใน Q2 FY2027 (ไม่ recover จากระดับปัจจุบัน)** — pre-outage NRR คือ 120%+ ปัจจุบัน 112% ถ้า Q2 ไม่ขยับขึ้นแม้แต่ quarter เดียวแปลว่า trust damage จาก July 2024 เป็น structural สองไตรมาสที่ 112% หรือต่ำกว่า = exit trigger
-3. **Falcon Flex ARR growth ลดต่ำกว่า 60% YoY และตัวเลข absolute ไม่เติบโต QoQ** — ปัจจุบัน $1.9B (+99% YoY) คือ proof of platform consolidation ถ้า YoY ลดเพราะ base effect ดู sequential growth ด้วย ถ้า Falcon Flex ARR flat หรือลด QoQ ในขณะที่ YoY ยังดูดี = red flag จริง ดูตัวเลขใน Q2 earnings call
+- Revenue $1.39B (+26% YoY); net new ARR $256M (+32% YoY) (source: sources/CRWD/q1-2027-call.md)
+- Non-GAAP GM 79% record Q1; non-GAAP op income $326M (+62% YoY, 24% margin); EPS $1.10 beat consensus $0.88 (~25% beat) (source: sources/CRWD/q1-2027-call.md)
+- FCF $468M (34% of revenue all-time high); GAAP net income $27.8M; cash $4.55B (source: sources/CRWD/q1-2027-call.md)
+- Falcon Flex $1.9B ARR (+99% YoY), 300+ accounts ใหม่; Next-Gen SIEM $600M+ ARR; AIDR ARR +250%+ sequential; cloud+identity+SIEM รวม $2B+ ARR (source: sources/CRWD/q1-2027-call.md)
+- FY2027 guidance raised: revenue $5.915-5.959B (+23-24%); net new ARR $1.279-1.303B (raised +$50M); FCF margin 30%+ floor (source: sources/CRWD/q1-2027-call.md)
 
 ---
 
-## What to ask before owning it
+## 4. Bull case / Bear case
 
-1. **Net New ARR $256M แบ่งเป็น new logo vs expansion เท่าไหร่?** — ถ้า expansion เป็นส่วนใหญ่ new logo acquisition ชะลอลงหรือเปล่า
-2. **NRR 112% — กำลัง recover ขึ้นหรือยังทรงอยู่?** — ถ้าต่ำกว่านี้ใน Q2 แปลว่า outage trust damage ยังไม่หาย อ่านตัวเลขนี้ใน Q2 earnings
-3. **AIDR +250% QoQ — absolute ARR คือเท่าไหร่?** — ถ้าเริ่มจาก base เล็กมาก % สูงไม่มีความหมาย อยากรู้ตัวเลขจริง
-4. **CEO sell $2.76M หลัง earnings beat ทันที — เป็น pre-planned 10b5-1 หรือ discretionary?** — ถ้า discretionary ต้องทำความเข้าใจ signal ก่อนซื้อ
+**Bull**
+- **Switching Cost ที่ขยายตัวเองตาม module** — ลูกค้าที่ฝัง Falcon agent บนทุก endpoint + add identity + SIEM ออกไปได้ยากมากขึ้นเรื่อยๆ; Falcon Flex $1.9B ARR (+99%) คือ proof ว่า expansion motion เดินจริง; NDR 112% + gross retention 97% ยืนยัน
+- **AI inflection สร้าง demand ใหม่ที่คู่แข่งตามไม่ทัน** — AIDR ARR +250%+ sequential; OpenAI/Anthropic เลือก CrowdStrike from day one; CEO ประกาศ AI security กลายเป็น critical infrastructure; New Chief AI Officer ดึงตรงจาก NVIDIA
+- **Platform breadth ไม่ใช่แค่ endpoint อีกต่อไป** — combined cloud security + identity + SIEM เกิน $2B ARR แล้ว ยิ่งลูกค้าใช้กว้างขึ้น switching cost ยิ่งสูงขึ้น ไม่ใช่ single-product dependency
+
+**Bear**
+- **July 2024 outage ยังกิน deal velocity** — NDR ลดจาก 120%+ pre-outage มาอยู่ที่ 112% (-800bps); ถ้า Q2-Q3 FY2027 Net New ARR ยังต่ำกว่า pre-outage trajectory (~$250M+/quarter) แปลว่า trust damage ยังอยู่ ไม่ใช่ recovered
+- **Valuation ~29x forward revenue ไม่มี cushion** — ถ้า revenue growth ลดจาก 26% → 18-20% ใน FY2028 นักวิเคราะห์จะ re-rate multiple พร้อมกัน; ประวัติ SaaS อย่าง Zoom/Okta ร่วง 40-60% ก่อน fundamental จะพังจริง
+- **Microsoft Defender กิน new logo segment จาก below** — Defender ฟรีกับ M365 license ที่ SMB มีอยู่แล้ว; ถ้า win rate ใน new logo ที่ ARR <$100K เริ่มตก เป็น leading indicator platform commoditize ในกลุ่มล่าง
 
 ---
 
-## Verdict (Neon) — 2026-06-08
+## 5. Kill conditions
+
+- **NDR ต่ำกว่า 108% สองไตรมาสติดกัน** — ปัจจุบัน 112%; ลงต่ำกว่า 108% สองไตรมาส = expansion motion หยุด core thesis แตก; 105% ยังผ่อนเกินไปสำหรับ CRWD ที่เคยอยู่เหนือ 120%
+- **Net New ARR miss guide >5% + management ลด FY guidance ในไตรมาสเดียวกัน** — miss อย่างเดียวได้ แต่ miss + guide down พร้อมกันคือ pipeline หด หรือ management visibility ผิดพลาด; checkpoint แรก **Q2 FY2027 ~ส.ค. 2026**
+- **Customer count growth ต่ำกว่า 10% YoY สองไตรมาสติดกัน** — ปัจจุบัน ~14% YoY; ต่ำกว่า 10% = new logo acquisition หยุด หรือ competitive win rate ลด
+- **Outage ซ้ำกระทบ Fortune 500 มากกว่า 50 องค์กรพร้อมกัน** — government + regulated industry จะบังคับ diversify vendor ทันที; ดู CRWD 8-K ภายใน 48 ชั่วโมงหลัง incident
+- **George Kurtz ลาออกหรือ terminate โดยไม่มี succession plan** — หยุด add position ทันที review thesis ใน 90 วัน
+
+---
+
+## 6. What to ask before owning it
+
+1. July 2024 outage กระทบลูกค้าใหญ่รายไหนออกไปบ้าง? gross retention 97% = 3% ที่หายไปคือใคร? NDR ลดจาก 120%+ มา 112% = มาจาก upsell ช้าลงหรือ churn จริง?
+2. Microsoft Defender ฟรีกับ M365 — CRWD defend new logo segment ใน mid-market ยังไง? win rate vs Defender มีตัวเลขไหม?
+3. AIDR ARR +250%+ sequential — absolute ARR ตอนนี้คือเท่าไหร่? มาจาก base เล็กไหม? ถ้า absolute ยังต่ำกว่า $100M ตัวเลข % สวยแต่ impact จริงยังน้อย
+4. Falcon Flex model — ลูกค้าใช้ modules ได้ยืดหยุ่นขึ้น แต่ pricing ต่อ module ดีหรือแย่กว่า fixed contract? กระทบ ARR per customer ยังไง?
+5. Stock split 4-for-1 ก.ค. 2026 — เป็น cosmetic ราคาหน้าจอจะเปลี่ยนเป็น ~¼ ของปัจจุบัน fundamental ไม่เปลี่ยน แต่ต้องรู้ก่อนดู portfolio
+
+---
+
+## Verdict (Neon)
 
 **WATCH**
 
-Moat ชัดเจนจริง — Falcon Flex $1.9B (+99% YoY), single-agent architecture, FCF 34% margin แต่ NRR ที่ยังอยู่ที่ 112% (-800bps จากก่อน outage) และ valuation 29x forward revenue ที่ไม่มีที่พลาด ทำให้ยังไม่ควรซื้อตอนนี้ จุดที่ควรรอคือ Q2 FY2027 earnings ~26 ส.ค. 2026 — ถ้า NRR เริ่ม recover และ Net New ARR ยืนเหนือ $270M+ ค่อยพิจารณาเข้า ราคา ATH $782 เมื่อต้นเดือนบวกกับ analyst upgrade พร้อมกัน 3 house บอกว่า upside จากจุดนี้แคบแล้ว
+Switching Cost ชัดเจนและวัดได้จริง — Falcon Flex $1.9B ARR (+99%), FCF 34% margin, Rule of 40 = 59 บอกว่า business คุณภาพสูงและ thesis ไม่พึ่ง macro ตรงกับสไตล์ถือยาว 1 ปี+ แต่ NDR ยังอยู่ที่ 112% (-800bps จาก pre-outage 120%+) และยังไม่มีหลักฐานว่า recover สมบูรณ์ — จนกว่า Q2 FY2027 จะพิสูจน์ได้ว่า trust damage เป็น one-time หรือ structural การซื้อก่อนดูตัวเลขนี้คือซื้อโดยไม่เข้าใจ ซึ่งเป็นสิ่งที่เคยเจ็บมาแล้ว
 
-Moat: Moderate (เอียงไป Strong ถ้า NRR ฟื้น) | Microsoft risk: ยังไม่สามารถ size ได้จากข้อมูลปัจจุบัน
+รอดู Q2 FY2027 earnings **~ส.ค. 2026** — ถ้า NDR เริ่มขยับขึ้นจาก 112% และ Net New ARR ยืนเหนือ $270M+ ค่อยเปิด position
 
-_ข้อมูลจาก brief วันที่ 2026-06-08 | ไม่ใช่คำแนะนำการลงทุน_
+**Competitive Advantage Score: Moderate → Strong (ถ้า NDR ฟื้น)** | **Momentum flag:** ราคา ATH + analyst upgrade 3 house พร้อมกัน + CEO ขายหุ้น $2.76M หลัง earnings — fundamental แข็งแต่ราคาสะท้อนข่าวดีไปหมดแล้ว
+
+**Next reassess: Q2 FY2027 Earnings ~2026-08-26**
+
+---
+
+_Research summary only — ไม่ใช่คำแนะนำซื้อขาย_
