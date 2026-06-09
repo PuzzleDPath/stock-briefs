@@ -1,68 +1,66 @@
-# AAPL — Apple Inc.
+# Apple Inc. (AAPL) — Brief
+Generated: 2026-06-09
 
-_Brief generated: 2026-06-07_
+## Snapshot
+Apple ออกแบบและขาย hardware (iPhone, Mac, iPad, Wearables) + ecosystem ของ software และ services ที่ผูกติดกับ device base 2.5B+ เครื่องทั่วโลก ลูกค้าหลักคือผู้บริโภคทั่วไปและองค์กร ผ่านช่อง direct (Apple Store, 38%) และ indirect (carriers, resellers, 62%)
 
----
-
-## 1. Company snapshot
-
-Apple ออกแบบและขายสมาร์ทโฟน (iPhone), คอมพิวเตอร์ (Mac), แท็บเล็ต (iPad), อุปกรณ์สวมใส่ (Apple Watch, AirPods) และบริการดิจิทัล รายได้มาจากสองฝั่ง: Products ซึ่ง iPhone ใหญ่สุด กับ Services (App Store, iCloud, Apple Music, AppleCare, Apple TV+ และอื่นๆ) Services กำลังกลายเป็น engine หลักของกำไรเพราะ margin สูงกว่า hardware มาก และเข้ามาทุกเดือนโดยไม่ต้องรอคนซื้อเครื่องใหม่ ลูกค้าหลักอยู่ในกลุ่มผู้บริโภค ธุรกิจขนาดกลาง-เล็ก การศึกษา องค์กร และภาครัฐ ทั่ว 5 ภูมิภาค
-
----
-
-## 2. Fundamentals signal
-
-- **Revenue FY2025 $416.2B (+6% YoY)** หลังจากปีก่อนโตแค่ 2% โมเมนตัมเร่งขึ้น; Services โต 14% YoY ไปที่ $109.2B (source: sources/AAPL/10-k-fy2025.md)
-- **Gross margin โดยรวมขยับจาก 46.2% เป็น 46.9%** ใน FY2025 — Services gross margin 75.4% vs Products 36.8%; ยิ่ง Services mix เพิ่มขึ้น margin โดยรวมยิ่งดีขึ้น (source: sources/AAPL/10-k-fy2025.md)
-- **งบดุลแข็งแกร่ง** เงินสด + หลักทรัพย์ $132.4B ณ สิ้น FY2025 หนี้ $91.3B สุทธิเป็น net cash positive (source: sources/AAPL/10-k-fy2025.md)
-- **Capital allocation ชัดเจน: คืนเงินผู้ถือหุ้นหนัก** FY2025 buyback $89.3B + dividend $15.4B = คืน $104.7B; ประกาศ buyback ใหม่อีก $100B ใน Q1 FY2026 (source: sources/AAPL/10-k-fy2025.md)
-- **Products gross margin ลดเล็กน้อย** จาก 37.2% เป็น 36.8% ใน FY2025 ส่วนหนึ่งมาจากต้นทุน tariff — ต้อง monitor ว่า FY2026 จะ normalize ไหม (source: sources/AAPL/10-k-fy2025.md)
+- **Market cap:** ~$4.56T (ณ 2026-06-09)
+- **Revenue FY2024:** $391B | Q2 FY2026 quarterly: $111.2B (+17% YoY)
+- **Net margin:** ~26.6% (Q2 FY2026: $29.6B / $111.2B)
 
 ---
 
-## 3. Latest earnings
+## Bull case
+- **Services = moat ที่แท้จริง:** $31B ในไตรมาสเดียว (+16% YoY), gross margin 76.7% vs hardware 38.7% ยิ่ง device base โต Services ก็โตตาม โดยไม่ต้อง invest incremental มาก — installed base 2.5B+ เครื่องคือฐาน recurring ที่แข็งมาก
+- **Apple Silicon + on-device AI = ข้อได้เปรียบที่ copy ยาก:** Neural Engine ทำให้ privacy + performance บน device เป็นข้อต่างจริง Cook บอก enterprise และ AI researcher เริ่มเลือก Apple platform เพื่อ run agentic AI โดยเฉพาะ — ถ้าจริง นี่คือ moat ที่ขยาย
+- **Demand กว้างกว่า US:** iPhone +22% YoY ใน Q2 FY2026 ทั้ง India และ Greater China โตสองหลัก — ไม่ใช่แค่ US upgrade cycle
 
-_Source: Q1 FY2026 earnings call — ทุก bullet ใน section นี้มาจากไฟล์นี้โดยตรง_
-
-- รายได้รวม $111.2B (+17% YoY) March record แม้มี supply constraints; FX tailwind ~2.5pp; EPS $2.10 (+22% YoY) March record; operating cash flow $28.7B (source: sources/AAPL/q2-2026-call.md)
-- iPhone $57B (+22% YoY) — Mac $8.4B (+6%) — iPad $6.9B (+8%) — Wearables/Home/Accessories $7.9B (+5%); ทุก geographic segment โต double digit รวมถึง Greater China (source: sources/AAPL/q2-2026-call.md)
-- Services $31B all-time record (+16% YoY) gross margin 76.7%; installed base 2.5B+ active devices all-time high; both transacting and paid accounts all-time high (source: sources/AAPL/q2-2026-call.md)
-- June guidance: revenue +14-17% YoY, gross margin 47.5-48.5%; guidance assumes tariff rates ไม่เปลี่ยน และ macro ไม่แย่ลงจากวันที่ call (source: sources/AAPL/q2-2026-call.md)
-- CEO transition ประกาศแล้ว; net cash neutral ยกเลิกเป็น formal target; $100B buyback ใหม่; dividend ขึ้น 4% เป็น $0.27/share (source: sources/AAPL/q2-2026-call.md)
-
----
-
-## 4. Bull case / Bear case
-
-**Bull**
-- **Switching Cost (Helmer):** ยิ่งใช้ iPhone + Mac + iPad + Watch + AirPods + iCloud พร้อมกัน การออกไปแพงมากในแง่เวลาและความเคยชิน — ลูกค้า retain ตัวเองโดยไม่ต้องให้ Apple ทำอะไรเพิ่ม และ installed base 2.5B+ อุปกรณ์เป็นฐานที่ Services จะโตต่อได้นาน
-- **Services $31B/quarter, margin 76.7%, ยังโต 16%:** recurring revenue ที่ไม่ขึ้นกับ upgrade cycle ถ้า Services โตต่อได้อีกหลายปี profitability ของ Apple จะเพิ่มขึ้นเรื่อยๆ แม้ iPhone growth ชะลอ
-- **WWDC 2026 (8 มิ.ย.) + Apple Intelligence:** Siri 2.0 และ iOS 27 อาจเป็นตัวชี้วัดว่า AI คือ upgrade cycle จริงหรือไม่ — ถ้า developer ecosystem ตอบรับดี thesis ที่ว่า Apple เป็น best platform for AI มีน้ำหนักขึ้น
-
-**Bear**
-- **CEO transition คือ risk ที่ track ยาก:** Tim Cook วาง supply chain, negotiation, และ partner relationships ทั้งหมดมา 14 ปี ผู้นำใหม่มี execution risk ที่ยังไม่รู้ขนาด
-- **Google search deal คือ time bomb ของ Services:** Apple รับรายได้หลายหมื่นล้านดอลลาร์/ปีจาก Google เป็น default search บน Safari — DOJ คดียังไม่จบ ถ้า deal พัง Services revenue กระทบทันทีและรุนแรงโดยไม่มีทางทดแทนระยะสั้น
-- **Products gross margin ถูก tariff กดดัน:** FY2025 ลดลงแล้วจาก 37.2% เป็น 36.8% ถ้า tariff ยกระดับขึ้นอีกหรือ supply chain ปรับตัวช้า margin ฝั่ง Products อาจกดภาพรวมต่อเนื่อง
+## Bear case
+- **Valuation แพง และ Services ต้องโตต่อ:** market cap $4.56T หมายความว่าตลาดกำหนดว่า Services จะโตต่อเนื่องหลายปี ถ้า Services decelerate จาก ~16% ลงมา single-digit แม้แค่ 2-3 ไตรมาส multiple จะถูกตั้งคำถามทันที
+- **Google Search deal คือ time bomb ของ Services revenue:** Apple รับเงิน Google ~$20B/ปีเป็น default search — ถ้า DOJ บังคับยกเลิก deal กระทบ Services revenue ทันทีโดยไม่มีทางทดแทนระยะสั้น ไม่รู้ขนาดความเสียหายจริงเพราะ Apple ไม่เคย disclose ตัวเลขนี้ชัด
+- **CEO transition ยังไม่มี successor:** Tim Cook ส่งสัญญาณ WWDC 2026 เป็น keynote สุดท้ายของเขา ยังไม่มีประกาศ successor — Cook วาง supply chain, partner relationships, และ capital allocation ทั้งหมดมา 14 ปี execution risk ของ leadership change ที่ Apple ประเมินยากมาก
 
 ---
 
-## 5. Kill conditions
+## Latest earnings
+**Quarter:** Q2 FY2026 (March quarter, reported 2026-04-30)
+**Revenue vs estimate:** $111.2B, +17% YoY — above high end of guidance; March quarter record
 
-ถ้าเห็นสิ่งเหล่านี้เกิดขึ้น ควรทบทวน thesis จริงจัง:
-
-- **Services revenue growth ลดต่ำกว่า mid-single digit สองไตรมาสติดกัน** โดยเฉพาะถ้ามาจาก Google deal ถูก block — นั่นแปลว่า recurring engine ที่ทั้ง thesis พึ่งอยู่มีรอยแตก
-- **iPhone ไม่สามารถรักษา unit market share ใน US และ Greater China ได้พร้อมกัน สองไตรมาสติด** — สัญญาณว่า Switching Cost อ่อนลงจริงๆ ไม่ใช่แค่ macro cycle
-- **CEO ใหม่เปลี่ยน capital allocation อย่างมีนัยสำคัญ หรือ Products gross margin ลดลงต่อเนื่อง 3 ไตรมาสในขณะที่ Services ไม่ชดเชย** — thesis ที่ว่า management จะ compound ให้ผู้ถือหุ้นจะผิด
+**Key management commentary:**
+- iPhone $57.0B (+22% YoY); Services $31.0B (+16% YoY, all-time record); EPS $2.10 (+22% YoY)
+- Gross margin 49.3% (above guidance high end); Services GM 76.7%; Products GM 38.7%
+- Q3 FY2026 guidance: +14-17% YoY revenue growth, GM 47.5-48.5% — ถือว่า current tariffs ไม่เปลี่ยน
+- Apple ยกเลิก "net cash neutral" target อย่างเป็นทางการ — ยังไม่ชัดว่า capital allocation framework ใหม่คืออะไร
+- ประกาศ buyback $100B เพิ่ม + dividend ขึ้น 4% เป็น $0.27/share
 
 ---
 
-## 6. What to ask before owning it
+## Recent news & catalysts
+- **2026-06-08 — WWDC 2026 (June 8-12):** Apple เปิดตัว next-gen Siri และ Apple Intelligence platform ใหม่ ใช้ model ตัวเองบวก Google Gemini รองรับ multimodal + context-aware features ข้ามอุปกรณ์
+- **2026-06-08 — Tim Cook ส่งสัญญาณ last keynote:** ประกาศว่า WWDC นี้คือ keynote สุดท้ายในฐานะ CEO — ยังไม่มี successor อย่างเป็นทางการ
+- **2026-06-08 — AAPL ปิดที่ $301.54 ลง 1.89%** หลัง WWDC; แต่ใน 30 วันที่ผ่านมาหุ้นขึ้นมาแล้ว ~14%, market cap $4.56T
+- **2026-06-05 — Analyst targets raised:** Wedbush Outperform PT $400; BofA raise PT $380; Melius raise PT $385; consensus median ~$310-312
+- **2026-07-30 — Q3 FY2026 Earnings (upcoming):** รายงาน June quarter — จะวัดได้ว่า demand ยืนหยัดได้จริงหลัง tariff uncertainty และ leadership signal หรือเปล่า
 
-1. CEO transition — ใครจะมาแทน Tim Cook? มี track record อะไรที่ verify ได้? thesis ของ Apple เปลี่ยนไหมถ้าคนใหม่ทำงานต่างออกไป?
-2. Google search deal กับ DOJ — ถ้า deal หาย Services revenue จะหายเท่าไหร่ต่อปี? Apple มีแผนทดแทนอะไรที่ concrete ไหม?
-3. WWDC 2026 (8 มิ.ย.) — Siri 2.0 และ iOS 27 ที่ออกมาทำให้คนรู้สึกอยากเปลี่ยนเครื่องจริงไหม? ลองถามคนรอบข้างที่ใช้ iPhone ว่า AI features มีผลต่อการตัดสินใจอัพเกรดไหม?
-4. Net cash neutral ไม่ใช่ target อีกต่อไป — เงิน cash ที่เพิ่มขึ้นจะไปไหน? ถ้า buyback ต่อเนื่อง EPS โตเพราะ shares น้อยลง ไม่ใช่ business โตขึ้นจริง
-5. Products gross margin ถูก tariff กด — ใน FY2026 มีแผน concrete อะไรในการย้าย supply chain? Mac mini จาก Houston แล้ว แต่ iPhone จะตามทันแค่ไหน?
+---
+
+## Kill conditions
+สิ่งที่ทำให้ขายหรือไม่ซื้อตั้งแต่แรก:
+
+1. **Services growth หล่นต่ำกว่า 10% YoY ต่อเนื่อง 2 ไตรมาส** โดยเฉพาะถ้า trigger มาจาก Google deal ถูก block — นั่นแปลว่า recurring engine ที่ทั้ง thesis พึ่งอยู่มีรอยแตก high-margin revenue หายโดยไม่มีทางทดแทนระยะสั้น
+2. **DOJ บังคับยกเลิก Google Search default deal อย่างสมบูรณ์** — Apple ไม่เคย disclose ตัวเลขนี้ชัด แต่ประมาณการอยู่ที่ ~$18-20B/ปี ซึ่งตกสู่ Services revenue เกือบทั้งหมด กระทบ Services margin ทันที
+3. **CEO ใหม่ถูกประกาศแล้วไม่ใช่ internal Apple lifer หรือ board ต้องหาข้างนอก** — สัญญาณ succession planning ล้มเหลว และ culture/capital allocation อาจเปลี่ยน
+4. **US-China escalate จนทำให้ Apple ถูก boycott อย่างเป็นทางการในจีน** — China 17%+ ของ revenue และ manufacturing concentration อยู่ที่นั่น ความเสียหายไม่ใช่แค่ quarterly miss แต่เป็น structural break
+
+---
+
+## What to ask before owning it
+
+1. **Apple Intelligence ทำให้คนซื้อ iPhone ใหม่จริงไหม?** Cook บอก iPhone 17 เป็น "most popular lineup in history" แต่ supply constraint เป็น factor ด้วย — ยังไม่รู้ว่า AI features เป็น upgrade driver จริง หรือแค่ marketing cycle ถัดไปจะบอก
+2. **Google Gemini partnership ใน Apple Intelligence มี economics อย่างไร?** Apple ใช้ Gemini เป็น optional model — ถ้านี่คือ revenue stream ใหม่ก็ดี แต่ถ้า Apple ต้องจ่าย Google กลับ มันเป็น cost ใหม่ใน Services margin ผมยังไม่รู้
+3. **"Net cash neutral" ถูกยกเลิก — framework ใหม่คืออะไร?** Apple พูดถึงการ "evaluate independently" แต่ไม่บอก logic ใหม่ — buyback จะช้าลงไหม? จะ deploy cash ไป M&A ไหม? capital allocation ที่เปลี่ยนมักเป็น signal สำคัญใน Apple history
+4. **Successor คือใคร และมี track record อะไรที่ verify ได้?** Cook สร้าง Services engine, supply chain ใน Asia, และ partner network ทั้งหมด — successor ที่ไม่เข้าใจ capital allocation logic นี้จะเป็นความเสี่ยงที่ประเมินยากจากข้างนอก
+5. **China demand โตสองหลักจริง หรือ base effect?** Q2 FY2026 Greater China โตสองหลัก แต่ต้องดูว่า base ปีก่อน weak แค่ไหน — demand จริง vs. rebound จาก prior weakness ผมตอบไม่ได้จากข้อมูลที่มี
 
 ---
 
