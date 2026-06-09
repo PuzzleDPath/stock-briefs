@@ -1,66 +1,79 @@
-# Microsoft Corporation (MSFT)
-_Brief วันที่: 2026-06-07 | Source: 10-K FY2025 + Q3 FY2026 earnings call + news 7 วันล่าสุด_
+# Microsoft Corporation (MSFT) — Brief
+Generated: 2026-06-09
 
 ---
 
 ## 1. Company snapshot
 
-Microsoft ทำธุรกิจซอฟต์แวร์และ cloud ผ่าน 3 กลุ่มหลัก: Productivity & Business Processes (Microsoft 365, Teams, LinkedIn, Dynamics 365 — ขายให้องค์กรและบุคคล), Intelligent Cloud (Azure, GitHub, Windows Server — ขายให้นักพัฒนาและองค์กรที่ต้องการ cloud และ AI), และ More Personal Computing (Windows, Xbox, Surface, Bing — ขายผ่าน OEM, ผู้บริโภค และโฆษณา) รายได้หลักมาจาก cloud และ subscription — Microsoft Cloud รวม $168.9B ในปี FY2025 คิดเป็น >59% ของรายได้ทั้งหมด $281.7B และ Azure คือตัวขับที่โตเร็วที่สุด
+Microsoft ขายซอฟต์แวร์ cloud และ AI ให้กับองค์กร นักพัฒนา และผู้บริโภคทั่วโลก แบ่งธุรกิจ 3 กลุ่ม: Microsoft 365/Teams/LinkedIn/Dynamics 365 (Productivity & Business Processes), Azure cloud + AI services (Intelligent Cloud), และ Windows/Xbox/Bing/Surface (More Personal Computing) รายได้หลักวันนี้มาจาก Azure และ Microsoft Cloud รวมกัน ~60% ของรายได้รวมและกำลังเติบโตเร็วที่สุด Azure โต 40% YoY ใน Q3 FY2026 ขับด้วย AI workloads และ Commercial RPO $627B (+99% YoY) คือ signed contracts ที่ลูกค้าผูกพันแล้วล่วงหน้าหลายปี
 
 ---
 
 ## 2. Fundamentals signal
 
-- **Revenue เร่งตัวต่อเนื่อง:** $245.1B (FY2024) → $281.7B (FY2025, +14.9%) และ Q3 FY2026 แค่ quarter เดียวทำ $82.9B +18% YoY in constant currency — ทุก segment โตพร้อมกัน ไม่มีตัวไหนติดลบ (source: Microsoft 10-K FY2025, EDGAR 0000950170-25-100235)
-- **Operating leverage กำลังทำงาน:** Operating income FY2025 โต +17.5% เร็วกว่า revenue +14.9% แปลว่าทุก 1 บาทรายได้ใหม่ กำไรที่ตามมาสูงกว่าเฉลี่ย (source: Microsoft 10-K FY2025)
-- **Azure คือเครื่องยนต์หลัก:** Intelligent Cloud segment โต +21.5% YoY เป็น $106.3B — Azure โต +34% ทั้งปี FY2025, Q4 FY2025 เร่งเป็น +39%, Q3 FY2026 +40% in constant currency — trajectory กำลังขึ้น ไม่ใช่ลง (source: Microsoft 10-K FY2025; q3-2026-call.md)
-- **Balance sheet มีความยืดหยุ่นสูง:** Cash & short-term investments $94.6B เทียบกับ debt ~$43.2B net cash เป็นบวก ~$51B+ บริษัทไม่ต้องพึ่ง capital market เลยในช่วงที่ลงทุน AI หนัก (source: Microsoft 10-K FY2025)
-- **Capital return สเกลใหญ่คู่กับการลงทุน:** FY2025 คืนเงิน $42.5B (ปันผล $24.1B + buyback $18.4B) ขณะที่ capex FY2026 กำลังพุ่งไป ~$190B ต่อปี — ทำทั้งสองพร้อมกันได้เพราะ FCF base ใหญ่มาก (source: Microsoft 10-K FY2025; q3-2026-call.md)
+- **Revenue โตสม่ำเสมอ ~15% ต่อปี** — $211.9B → $245.1B → $281.7B (+14.9% FY2025); Intelligent Cloud เร็วสุดที่ +21.5% YoY; Azure +34% FY2025 (source: sources/MSFT/10-k-latest.md)
+- **Gross margin ทรงตัวแถว 69%** — 68.9% → 69.8% → 68.8% ลดเล็กน้อยใน FY2025 สะท้อน AI infrastructure cost ที่เพิ่มขึ้น แต่ยังแข็งมากสำหรับบริษัทขนาดนี้ (source: sources/MSFT/10-k-latest.md)
+- **Operating margin ขยับขึ้นทุกปี** — 41.8% → 44.6% → 45.6% operating leverage จริงแม้ CapEx พุ่งสูง (source: sources/MSFT/10-k-latest.md)
+- **FCF ถูกกดจาก CapEx พุ่ง** — FCF FY2025 $71.6B (ลดจาก $74.1B FY2024) เพราะ CapEx ขึ้น $44.5B → $64.6B (+45%); calendar 2026 CapEx guidance ~$190B ถ้า AI return ช้า FCF จะถูกกดนานกว่าที่คาด (source: sources/MSFT/10-k-latest.md)
+- **Balance sheet แข็งมาก** — net cash ~$51.4B (cash $94.6B vs debt $43.2B); คืนเงิน $42.5B ในปี FY2025 (buyback $18.4B + dividend $24.1B) ขณะที่ยังถือ net cash สูง (source: sources/MSFT/10-k-latest.md)
 
 ---
 
-## 3. Latest earnings
+## 3. Latest earnings (Q3 FY2026 — reported Apr 29, 2026)
 
-Q3 FY2026 (ไตรมาสสิ้นสุด 30 มีนาคม 2026, รายงาน 29 เมษายน 2026):
-
-- Total revenue $82.9B, +18% in constant currency; operating income +20% in constant currency — beat expectations (source: sources/MSFT/q3-2026-call.md)
-- Segment: Productivity & Business Processes $35.0B | Intelligent Cloud $34.7B | More Personal Computing $13.2B (ลดลง 1%) (source: sources/MSFT/q3-2026-call.md)
-- Azure โต +40% in constant currency; Microsoft Cloud revenue $54.5B +29% YoY (source: sources/MSFT/q3-2026-call.md)
-- Gross margin 68% ลดลง YoY เพราะ AI infrastructure investment; CapEx quarter นี้ $31.9B; Operating cash flow $46.7B +26%; Free cash flow $15.8B (source: sources/MSFT/q3-2026-call.md)
-- Guidance Q4 FY2026: total revenue $86.7–$87.8B; Intelligent Cloud $37.95–$38.25B; CapEx Q4 >$40B; FY2027 คาด double-digit revenue และ operating income growth (source: sources/MSFT/q3-2026-call.md)
+- Revenue $82.9B (+18% YoY); Intelligent Cloud $34.7B (+30%); Microsoft Cloud $54.5B (+29%) — beat estimates แม้ Motley Fool ระบุว่า market ตอบรับเป็น "disappointment" ต่อ FCF ที่ต่ำกว่าคาด (source: sources/MSFT/q3-fy2026-call.md)
+- Azure +40% YoY; AI revenue run rate $37B (+123% YoY); Copilot paid seats 20M+ (+250% YoY); GitHub Copilot 140K+ organizations (source: sources/MSFT/q3-fy2026-call.md)
+- GM 68% (down YoY จาก AI infra cost); Operating income +20% YoY; EPS $4.27; OpenAI deal: revenue share ถึงปี 2030 + royalty-free IP ถึงปี 2032 + OpenAI contracted $250B Azure services (source: sources/MSFT/q3-fy2026-call.md)
+- FCF $15.8B (ต่ำจาก CapEx $31.9B ซึ่ง 2/3 เป็น GPU/CPU); OCF $46.7B (+26% YoY); Commercial RPO $627B (+99% YoY — signed contracts backlog) (source: sources/MSFT/q3-fy2026-call.md)
+- Q4 FY2026 guidance: revenue $86.7-87.8B (+13-15%); Intelligent Cloud $37.95-38.25B (+27-28%); CapEx >$40B; FY2027: double-digit revenue growth, headcount declining YoY (source: sources/MSFT/q3-fy2026-call.md)
 
 ---
 
 ## 4. Bull case / Bear case
 
 **Bull**
-- Azure + AI run rate $37B กำลัง compound — Switching Costs ของ enterprise cloud สูงมาก องค์กรที่ migrate workload ขึ้น Azure แล้วแทบไม่ย้ายออก และ Copilot paid seats >20M (+250% YoY) แสดงว่า upsell กำลังทำงานบนฐานลูกค้าเดิมที่มีอยู่แล้ว
-- OpenAI deal reframing ปี 2030 ลด rev share ที่ Microsoft จ่ายให้ OpenAI — margin ระยะยาวจะดีขึ้น และ IP เป็น royalty-free แล้ว ซึ่งเป็น structural shift ที่จะเห็นผลหลังปี 2030
-- Microsoft ไม่ได้พึ่ง AI แค่จุดเดียว — Azure, Office, Teams, Dynamics, GitHub Copilot ต่างมี AI layer ของตัวเอง ถ้า AI หนึ่งช้าตัวอื่นยังรับ
+- **Scale Economies + Cornered Resource ใน AI** — Azure infrastructure + OpenAI deal ($250B committed Azure contracts, royalty-free IP ถึง 2032) คือชุดผลประโยชน์ที่คู่แข่งสร้างไม่ได้ใน short term; Commercial RPO $627B คือ demand จริงที่ signed ไว้แล้ว ไม่ใช่ speculation
+- **Capacity constraint ปัจจุบันคือ good problem** — Azure supply ตาม demand ไม่ทัน ถ้า capacity เพิ่มขึ้น revenue จะ accelerate; ไม่มีสัญญาณว่าลูกค้าลด commitment
+- **Copilot Switching Cost ใน Enterprise** — 20M+ paid seats, GitHub Copilot 140K+ organizations; องค์กรที่ฝัง Copilot ใน workflow จะยาก unwind เพราะต้องเปลี่ยนทั้ง tool stack; ยิ่ง embed ลึกยิ่ง sticky
 
 **Bear**
-- CapEx ~$190B ต่อปี (FY2026) คือเดิมพันขนาดใหญ่ว่า AI demand จะ materialize — ถ้า enterprise AI adoption ช้ากว่าคาด FCF จะถูกกดหนักและนานกว่าที่ตลาดคิด
-- Gross margin กำลัง dip (68% Q3 FY2026, ลด YoY) เพราะ AI infra cost สูง — ถ้า AI revenue ไม่ scale เร็วพอ margin จะถูกกดต่อเนื่องหลายปี
-- AWS และ Google Cloud ลงทุนเชิงรุกใน AI เท่าๆ กัน ถ้า Azure ไม่รักษา growth rate ไว้ได้หรือ customer wins เริ่มช้า narrative ทั้งหมดจะเปลี่ยน
+- **CapEx $190B ไม่แปลงเป็น FCF ใน timeline ที่คาด** — ถ้าถึง Q2 FY2027 (ต้น 2027) FCF margin ยังไม่กลับมาแถว 30%+ (จาก ~29% ปัจจุบัน) แปลว่า CapEx cycle ไม่ได้ผลตอบแทนคุ้ม; Q4 FY2026 CapEx guidance >$40B แสดงว่ายังไม่มีสัญญาณหยุด
+- **FTC บังคับ unbundle เปลี่ยน revenue structure จริง** — ถ้า remedy บังคับขาย Office, Teams, หรือ Azure แยก ราคาต่อ seat ถูก commoditize ทันที customer ที่จ่ายเพราะ bundling convenience จะ renegotiate ใหม่หมด
+- **Windows/MPC structural drag ถาวร** — Windows OEM -23%, Gaming -79% YoY; ถ้า AI PC refresh ไม่เกิดภายใน Q4 FY2026 segment นี้ลาก blended growth ลงต่อเนื่องและ Microsoft ตัดออกไม่ได้ง่ายเพราะ Windows ผูกกับ enterprise licensing
 
 ---
 
 ## 5. Kill conditions
 
-- **Azure growth ลดต่ำกว่า 25% YoY สองไตรมาสติดต่อกัน** โดยไม่มีคำอธิบายด้าน supply constraint — ถ้าเป็น demand ที่ชะลอ หมายความว่า AI adoption อาจ peak แล้ว
-- **Copilot paid seats หยุดโต หรือ churn สูงขึ้นชัดเจน** — ถ้า AI ไม่ convert เป็น net new revenue จริง การลง capex $190B/ปีจะทำลาย FCF โดยไม่มี return ที่สมเหตุสมผล
-- **OpenAI เปลี่ยน exclusive arrangement หรือพัฒนา cloud infra ของตัวเอง** — Microsoft เสีย AI content และ model advantage ที่เป็น core ของ narrative ปัจจุบัน
+- **Azure growth ต่ำกว่า 25% YoY สองไตรมาสติดกัน และ management อธิบายว่าเป็น demand slowdown ไม่ใช่ supply** — ฟัง earnings call ดูคำว่า "demand signals softening" หรือ "consumption below expectations"; ถ้าบอก "capacity constraint" ยังไม่ใช่ kill signal; checkpoint แรก Q4 FY2026 earnings **~28 ก.ค. 2026**
+- **FCF margin ต่ำกว่า 26% สองไตรมาสติดกัน ขณะที่ CapEx ยังเหนือ $15B/ไตรมาส** — ดูจาก cash flow statement โดยตรง ไม่ต้องรอ management guidance; ถ้า FCF หดและ CapEx ไม่ลด แปลว่า AI infrastructure ไม่ generate return
+- **FTC ออก consent decree หรือ injunction ที่ระบุ unbundle M365 + Azure หรือห้าม preferential API pricing ให้ OpenAI** — ต้องเป็น court order จริง ไม่ใช่แค่ investigation หรือ CID; ถ้า remedy แตะ E3/E5 licensing structure ให้ re-evaluate ทันที
+- **Copilot seat count ไม่โตเกิน 50% YoY ภายใน Q4 FY2026** — ถ้า enterprise buyer ไม่ expand license แปลว่า AI revenue thesis ไม่ execute ตามที่คาด
 
 ---
 
 ## 6. What to ask before owning it
 
-1. **CapEx $190B ต่อปี จะเห็น return ใน timeline เท่าไร?** FCF จะถูกกดถึงปีไหนก่อนจะกลับมาขยาย — ผมต้องประมาณตัวเลขนี้ในหัวก่อนกดซื้อ
-2. **Copilot paid seats 20M+ คิดเป็น % เท่าไรของ Microsoft 365 base ทั้งหมด?** ยังมีพื้นที่ upsell เหลืออีกมากแค่ไหน
-3. **OpenAI rev share หมดปี 2030 — margin improvement จะมากแค่ไหนจริงๆ?** ตัวเลขที่ verify ได้คือเท่าไร ไม่ใช่แค่ว่า "ดีขึ้น"
-4. **Azure market share เทียบ AWS และ Google Cloud ปัจจุบันอยู่ที่ไหน และกำลังขึ้นหรือลง?** ถ้า share ลงแต่ revenue โตเพราะตลาดขยาย — เมื่อตลาดชะลอจะเห็นผลทันที
-5. **ถ้า enterprise AI adoption ช้ากว่าคาด Microsoft segment ไหนจะรอด และไหน hurt มากสุด?** Windows กับ Xbox ยัง buffer ได้ไหม หรือทุก segment ผูกกับ AI cycle แล้ว
+1. CapEx $190B ปี 2026 — Microsoft ต้องสร้าง AI revenue เพิ่มเท่าไหร่ถึงจะคุ้มทุน? มี ROI timeline ที่ management ระบุชัดเจนไหม? ผมตอบคำถามนี้ไม่ได้ก่อนกดซื้อไม่ควรซื้อ
+2. OpenAI deal ล็อกถึงปี 2030-2032 — ถ้า OpenAI หา cloud partner อื่นหลังปี 2030 Microsoft สูญเสีย revenue ก้อนไหนบ้าง? เป็น % เท่าไหร่ของ Azure?
+3. Azure capacity constraint จะหมดเมื่อไหร่จริงๆ? management บอก H2 2026 ความตึงลด ถ้าไม่เป็นอย่างนั้น Azure growth ถูก cap ต่อไปนานแค่ไหน?
+4. FTC investigation — investigate ในขอบเขตไหนบ้าง? ระยะเวลาที่คาดว่าจะ resolve คือเมื่อไหร่? มี precedent จาก EU DMA cases ไหม?
+5. Commercial RPO $627B — conversion เป็น revenue ใน timeline ไหน? กระจาย 1-3 ปีหรือ 5 ปีขึ้นไป? ตัวเลขนี้ include upsell potential หรือ committed spend เท่านั้น?
 
 ---
 
-_Sources: Microsoft 10-K FY2025 (SEC EDGAR 0000950170-25-100235), sources/MSFT/q3-2026-call.md, Tracer news 2026-06-07_
+## Verdict (Neon)
+
+**WATCH**
+
+Fundamental แข็งจริง — Azure +40% YoY, Commercial RPO $627B (+99%) เป็น signed contracts ไม่ใช่ speculation, Switching Cost ใน enterprise cloud ที่ฝัง Copilot ไปแล้ว 20M+ seats เหล่านี้คือข้อได้เปรียบที่จับต้องได้ แต่มีสาม blocker ที่ต้องตอบก่อน: (1) CapEx $190B กำลัง compress FCF อยู่ตอนนี้และยังตอบไม่ได้ว่า return timeline คือเมื่อไหร่ — ถือหุ้นที่ตอบ "CapEx คืนทุนเมื่อไหร่" ไม่ได้คือซ้ำรอยสิ่งที่เจ็บมาจาก crypto; (2) FTC investigation ยังเปิดอยู่และถ้า unbundle จริงจะแตะ revenue structure หลัก; (3) ถ้าถือ NVDA หรือ AVGO อยู่แล้ว MSFT concentrate AI buildout cycle เดียวกัน
+
+รอดู Q4 FY2026 earnings (~28 ก.ค. 2026) — ดู Azure growth rate, FCF margin, และ Copilot seat progression ถ้าทั้ง 3 ตัวเลขยืนตามที่ expect ค่อยประเมิน entry ใหม่
+
+**Competitive Advantage Score: Strong** | **CapEx ROI: Unverified** — thesis ถูกต้องแต่ยังขาดตัวเลข return timeline ที่ตอบได้ชัดก่อนซื้อ
+
+**Next reassess: Q4 FY2026 Earnings ~2026-07-28**
+
+---
+
+_Research summary only — ไม่ใช่คำแนะนำซื้อขาย_

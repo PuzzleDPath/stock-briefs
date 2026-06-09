@@ -53,8 +53,8 @@ window.MANIFEST = [
         "tk":  "MSFT",
         "co":  "Microsoft Corporation",
         "date":  "",
-        "verdict":  "none",
-        "one":  ""
+        "verdict":  "watch",
+        "one":  "Fundamental แข็งจริง"
     },
     {
         "tk":  "MU",
