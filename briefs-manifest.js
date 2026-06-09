@@ -11,8 +11,8 @@ window.MANIFEST = [
         "tk":  "ASML",
         "co":  "ASML Holding N.V.",
         "date":  "",
-        "verdict":  "none",
-        "one":  ""
+        "verdict":  "watch",
+        "one":  "Fundamental แข็งจริง"
     },
     {
         "tk":  "AVGO",
