@@ -1,64 +1,82 @@
-# GOOGL — Alphabet Inc.
-
-_Brief generated: 2026-06-07_
+# Alphabet Inc. (GOOGL) — Brief
+Generated: 2026-06-09
 
 ---
 
 ## 1. Company snapshot
 
-Alphabet คือบริษัทแม่ของ Google — รายได้หลักมาจากโฆษณา (Google Search, YouTube) ซึ่งยังเป็น ~75%+ ของรายได้รวม ธุรกิจที่โตเร็วที่สุดคือ Google Cloud (IaaS/PaaS แข่งกับ AWS และ Azure) ส่วน Other Bets เช่น Waymo เป็นโปรเจคระยะยาวที่ยังเผาเงินอยู่ ลูกค้าหลักของ Search/YouTube คือผู้ลงโฆษณาทุกขนาดทั่วโลก ลูกค้าของ Cloud คือ enterprise และ developer ที่ต้องการ infrastructure และ AI tools โดยมี Gemini เป็น AI platform หลัก
+Alphabet เป็นบริษัทแม่ของ Google ทำรายได้หลักจากโฆษณาดิจิทัลผ่าน Search และ YouTube (~72% ของรายได้รวม) ขายให้กับนักโฆษณาจาก SME ไปถึงแบรนด์ระดับโลก ธุรกิจที่โตเร็วที่สุดคือ Google Cloud (+63% YoY Q1 2026) ขาย AI/cloud infrastructure ให้ enterprise ทั่วโลก ส่วน Other Bets อย่าง Waymo ยังขาดทุน $7.5B/ปี
 
 ---
 
 ## 2. Fundamentals signal
 
-> **Sova รายงาน: ไม่มี 10-K source ใน sources/GOOGL/** — ตัวเลขด้านล่างมาจาก training data (ถึงประมาณ mid-2025) ควร verify กับ 10-K ล่าสุดก่อนใช้จริง
-
-- **Revenue direction:** Search ยังโตช้าๆ แต่ Google Cloud เร่งขึ้นชัดเจนในช่วง 2-3 ปีล่าสุด เป็น segment ที่ขับเคลื่อน growth อนาคต (ตัวเลขเฉพาะ ตรวจสอบใน 10-K ล่าสุด)
-- **Margin direction:** Operating margin โดยรวมแข็งแกร่ง แต่กำลังถูกกดจาก capex สูงขึ้นมากเพื่อ AI infrastructure — CapEx 2026 คาด $180-190B ซึ่ง 6 เท่าของปี 2022 (Tracer, Motley Fool 4 มิ.ย. 2026)
-- **งบดุล:** ประวัติเงินสดสะสมสูงมาก buyback ต่อเนื่อง — แต่การตัดสินใจระดมทุนผ่านขายหุ้น $80-85B ในมิ.ย. 2026 (Tracer, CNBC 1 มิ.ย. 2026) เป็นสัญญาณที่ผิดปกติมากสำหรับบริษัทที่ไม่เคยต้องการเงินภายนอก ควร verify ก่อนสรุป
-- **Capital allocation เปลี่ยนทิศ:** ถ้าข่าว stock offering จริง นั่นแปลว่า Alphabet เลือก dilute ผู้ถือหุ้นเพื่อเร่ง AI capex — เป็นการเปลี่ยนจาก buyback-heavy philosophy ที่เคยทำมาตลอด
-- **Waymo ระดมทุน $16B (ก.พ. 2026):** Alphabet ยังเป็น investor หลักใน Waymo แต่ Waymo มีนักลงทุนภายนอกมากขึ้น ลด dilution risk ของ Alphabet ในส่วนนี้ (Tracer, SEC Filing)
+- **Revenue เร่งตัว** — FY2023 $307B → FY2024 $350B (+13.8%) → FY2025 $403B (+15.1%); Search $175B → $225B; Cloud $33B → $59B (+77% ใน 2 ปี) (source: sources/GOOGL/10-k-latest.md)
+- **Gross margin ขยับขึ้นต่อเนื่อง** — 56.6% → 58.2% → 59.7% FY2025; Cloud margin 5.1% → 23.7% FY2025 → 32.9% Q1 2026 (source: sources/GOOGL/10-k-latest.md)
+- **Operating margin stable แถว 32-36%** — Q1 2026 record 36.1%; op margin FY2025 32.0% (source: sources/GOOGL/10-k-latest.md)
+- **FCF flat เพราะ CapEx พุ่ง** — FCF $73.3B FY2025; CapEx $91.4B FY2025 แล้ว guided $180-190B FY2026; equity offering $80B Jun 2026 บอกว่า FCF ไม่พอ CapEx scale (source: sources/GOOGL/10-k-latest.md)
+- **Debt เพิ่ม** — LT debt $10.9B → $46.5B FY2025; buyback ลดเพื่อลงทุน AI infra; capital allocation shift ชัด (source: sources/GOOGL/10-k-latest.md)
 
 ---
 
-## 3. Latest earnings
+## 3. Latest earnings (Q1 2026 — April 29, 2026)
 
-**Vyse รายงาน: ไม่มี earnings call transcript ใน sources/GOOGL/** — ใส่ไฟล์ที่ `sources/GOOGL/q*-call.md` ก่อน แล้วรัน `/brief GOOGL` ใหม่เพื่อดูตัวเลขจริง ห้ามแต่งจาก training memory
+- Revenue $109.9B (+22% YoY); Search $60.4B (+19%); Cloud $20.0B (+63%); EPS $5.11 (+82%) (source: sources/GOOGL/q1-2026-call.md)
+- Cloud operating margin 32.9% (จาก 17.8% ปีก่อน); backlog $462B (nearly doubled); Cloud supply-constrained not demand-constrained (source: sources/GOOGL/q1-2026-call.md)
+- AI Overviews driving Search to "all-time highs"; Gemini ลด AI serving cost >30%; Cloud GenAI revenue +800% YoY (source: sources/GOOGL/q1-2026-call.md)
+- FCF $10.1B Q1; CapEx raised $180-190B FY2026; Wiz = "low single-digit % headwind" Cloud margin; TPU revenue recognition majority in 2027 (source: sources/GOOGL/q1-2026-call.md)
+- SpaceX $29.4B compute deal; $0.22 dividend Jun 8; Q2 2026 earnings Jul 28 (source: Tracer)
 
 ---
 
 ## 4. Bull case / Bear case
 
 **Bull**
-- **Scale Economies + Network Effects ใน Search (Helmer):** Google มี search index ที่ใหญ่ที่สุด, data ที่มากที่สุด, และ relevance feedback loop จากคนค้นหาหลายพันล้านครั้ง/วัน — คู่แข่งที่จะทำ search ใหม่ต้องใช้เวลาและเงินมหาศาลเพื่อให้ได้ quality ใกล้เคียง
-- **Google Cloud + Gemini เป็น platform ที่ไม่ใช่แค่ infra:** enterprise ที่ build AI บน Google Cloud ผูกกับ Gemini API, Vertex AI, BigQuery ฯลฯ — switching cost สูงขึ้นทุกปีที่ใช้ ต่างจากการแค่เช่า compute
-- **TPU hardware revenue เป็น growth leg ใหม่ที่ยังไม่เริ่ม:** Alphabet กำลังเริ่มส่ง TPU hardware ให้ลูกค้าภายนอก คาดว่า revenue ส่วนนี้จะเห็นชัดในปลายปี 2026 และ 2027 (Tracer)
+- **Search resilience ในยุค AI** — AI Overviews ขยาย usage; query volumes all-time highs; serving cost ลด >30%; monetization ยังทำงาน AI เสริม Search แทนที่จะ cannibalize
+- **Scale Economy + Process Power ใน Cloud** — Cloud supply-constrained; backlog $462B; TPU chips ให้ external customers H2 2026; SpaceX $29.4B deal; "only provider with first-party solutions across entire AI stack"
+- **Cloud operating leverage compound** — margin 5.1% → 32.9% ใน 3 ปี; ยังมีที่ไปอีก ยิ่ง revenue โต margin ขยายได้อีก
 
-**Bear**
-- **AI disruption กับ Search คือ kill condition ที่ track ได้จริง:** ถ้า ChatGPT, Perplexity หรือ AI assistant อื่นๆ ดึง query volume ออกจาก Google Search ได้จริง โฆษณา ~75% ของรายได้รวมจะถูกกระทบทันทีและรุนแรง — และนี่คือ threat ที่มาจากในบ้าน (Google เองเป็นคนสร้าง LLM) ต้องตัดสินใจว่าจะ cannibalize ตัวเองหรือไม่
-- **DOJ antitrust เป็น overhang ที่ตัดสินแล้วบางส่วน:** คดี Search monopoly ศาลตัดสินว่า Google ผิดแล้ว ยังรอ remedy — ถ้า remedy บังคับยุติ Google Default Search deal กับ Apple หรือ Samsung กระทบ Search volume และกระทบ Apple Services ด้วย (เชื่อมกับ AAPL brief)
-- **Stock offering $80-85B ถ้าจริง คือสัญญาณว่า free cash flow ไม่พอกับ capex ที่ต้องการ:** บริษัทที่เคย compound ผ่าน buyback ตลอด แต่ตอนนี้ต้องออกหุ้นใหม่เพื่อแข่ง AI race — thesis ที่ว่า Alphabet มี capital allocation discipline จะต้องทบทวน
+**Bear (Rey)**
+- **$80B equity offering บอกอะไรบางอย่างที่ FCF ไม่บอก** — CapEx $91.4B ปีที่แล้วเกิน FCF $73.3B แล้ว FY2026 ยิ่งหนักขึ้น ถ้า Cloud ROI ไม่ return ใน 3-4 ปีตาม bet dilution $80B เป็นต้นทุนถาวร capital allocation thesis เปลี่ยนแบบที่ Alphabet ไม่เคยทำมาก่อน
+- **DOJ remedy ประเมินยาก แต่ไม่ใช่ zero** — Search $224.5B พึ่ง default placement; court order ที่บังคับเปลี่ยน distribution เป็น kill ทันที ยังไม่มีใครรู้ impact ที่แท้จริง ถ้า Apple deal หาย = $18-20B/ปีที่ไม่มีคนมาแทน
+- **Cloud backlog $462B ≠ guaranteed revenue** — customers renegotiate/delay/multi-cloud ได้; ถ้า margin 32.9% ไม่ขยับแม้ scale เพิ่ม unit economics อ่อนแอกว่าที่คิด; Other Bets -$7.5B/ปีไม่มี exit timeline
 
 ---
 
-## 5. Kill conditions
+## 5. Kill conditions (Rey)
 
-ถ้าเห็นสิ่งเหล่านี้เกิดขึ้น ควรทบทวน thesis จริงจัง:
-
-- **Google Search query volume ลดลง YoY เป็นครั้งแรก** ไม่ว่าจาก AI assistant หรือ antitrust remedy — นั่นคือรายได้โฆษณา 75% ของ Alphabet กำลังมีปัญหาเชิงโครงสร้าง
-- **DOJ remedy บังคับให้ยุติ default search deals** (Apple, Samsung, Android) — ทำให้ Search distribution ลดลงทันทีโดยไม่มี revenue ทดแทน และ kill condition นี้ตรงเชื่อมกับ AAPL Services risk ด้วย
-- **Google Cloud growth ชะลอต่ำกว่า 20% YoY สองไตรมาสติด** ในขณะที่ AWS และ Azure ยังโต — แปลว่า Alphabet กำลังแพ้ในสนามที่ต้องชนะเพื่อ offset Search slowdown
+- **Search revenue growth ต่ำกว่า 12% YoY สองไตรมาสติดกัน + Google report query volume ลด** — ไม่ใช่แค่ revenue อาจ mask ได้ด้วย pricing; ดูที่ earnings call commentary เรื่อง query volume; checkpoint Q2+Q3 2026 (Jul 28 + Oct 2026)
+- **DOJ ออก court order ระบุ explicit ให้หยุด default placement deal กับ Apple/Samsung/OEM** — ติดตาม DOJ v. Google docket โดยตรง; แค่ order ออก thesis เปลี่ยนทันที ไม่ต้องรอ execute
+- **Cloud growth ต่ำกว่า 30% YoY + operating margin ไม่ขยับเกิน 33% สองไตรมาสติดกัน** — ทั้งสองต้องเกิดพร้อมกัน; ดู Q3-Q4 FY2026 เป็น checkpoint แรก
+- **ถึง Q1 2027 FCF ยังไม่ recover เกิน $80B TTM + management อธิบาย CapEx ROI ไม่ได้** — capital allocation thesis พัง ดูใน Q1 2027 earnings call (ราวเม.ย. 2027)
 
 ---
 
 ## 6. What to ask before owning it
 
-1. Stock offering $80-85B ที่ Tracer รายงาน — verify ก่อนว่าเกิดขึ้นจริง ถ้าจริง Alphabet ต้องการเงินมากขนาดนี้ทำไม? free cash flow ไม่พอหรือเปล่า? dilution มากแค่ไหน?
-2. DOJ antitrust remedy ที่กำลังรอ — ถ้า Google ต้องหยุด default search deal กับ Apple Google Search volume จะหายไปกี่ % คิดเป็น revenue หายกี่พันล้านดอลลาร์?
-3. Google Cloud ตอนนี้ profitable ไหม — operating income ของ Cloud segment เป็นบวกแล้วหรือยัง? เทียบ margin กับ AWS และ Azure ได้ไหม?
-4. Gemini 3.5 ที่เพิ่ง launch — ใช้ได้จริงไหมในงานประจำวัน? ลองเปรียบกับ ChatGPT ด้วย task เดียวกัน แล้วดูว่า Google ยังตามหรือนำในแง่ product?
-5. Q2 2026 earnings คาดประมาณ 22-28 ก.ค. 2026 — guidance ที่ให้ไว้ใน Q1 call คืออะไร? ใส่ transcript ที่ `sources/GOOGL/` แล้วรัน `/brief GOOGL` ใหม่
+1. $80B equity offering ใช้ทำอะไร? dilution เท่าไหร่? ทำไมไม่ใช้ debt หรือ FCF? นี่คือ capital allocation thesis ที่ Alphabet ไม่เคยทำมาก่อน — ตอบไม่ได้ก็ไม่ควรซื้อ
+2. DOJ remedy timeline ชัดไหม? ถ้า court สั่ง end default search deals จะกระทบ Search revenue กี่ %? มี hearing date อะไรบ้างที่ต้องติดตาม?
+3. Cloud backlog $462B convert เป็น revenue ใน timeline ไหน? 1-3 ปีหรือ 5 ปีขึ้นไป? cancellation/renegotiation terms คืออะไร?
+4. Wiz $32B acquisition ให้อะไรที่ยังขาด? margin headwind "low single-digit %" อยู่นานแค่ไหน? ROI timeline คือเมื่อไหร่?
+5. Other Bets -$7.5B/ปี — Waymo จะถึง commercial profitability เมื่อไหร่? Alphabet มี timeline ชัดหรือยัง หรือเป็น indefinite burn?
+
+---
+
+## Verdict (Neon)
+
+**WATCH**
+
+ธุรกิจแข็งจริง — Search data flywheel และ Cloud AI toolchain (Vertex, Gemini API, BigQuery) สร้าง Switching Cost ที่ลึกขึ้นตาม usage; Search +19%, Cloud +63%, Cloud margin จาก ~5% เป็น 32.9% ใน 3 ปี operating leverage trajectory คือ core ของ thesis และเป็นของจริง
+
+แต่มีสองประเด็นที่ยังเปิดอยู่และตรงกับสไตล์ที่ต้อง name kill conditions ก่อนซื้อ: (1) $80B equity offering คือ capital allocation shift ที่ Alphabet ไม่เคยทำมาก่อน ถ้า FCF ปีที่แล้วต่ำกว่า CapEx อยู่แล้ว และ FY2026 CapEx จะ double อีก ROI timeline ยังไม่ชัด TPU revenue recognition majority ใน 2027 ทำให้รอ; (2) DOJ antitrust remedy คือ binary event ที่ยังไม่มี trigger date ที่แน่ชัด — Search default placement deal อาจหายได้ทันทีถ้า court order ออก kill condition นี้ track ได้แต่ window ยังเปิด
+
+**สิ่งที่จะทำให้เปลี่ยนเป็น BUY:** Q2 2026 earnings (Jul 28) ยืนยัน Cloud >30% + margin >33%, management ให้ concrete answer เรื่อง $80B use of proceeds + ROI timeline, DOJ hearing ให้ภาพชัดขึ้นว่า Search distribution risk กว้างแค่ไหน
+
+**สิ่งที่จะทำให้เปลี่ยนเป็น PASS:** DOJ ออก explicit order หยุด default search deals, หรือ Search query volume ลด YoY ใน Q2/Q3, หรือ Cloud growth <30% ขณะ CapEx ยังพุ่ง
+
+ธุรกิจนี้ดีพอที่จะถือได้ แต่ open questions สองตัวนี้ต้องตอบก่อน รอ Q2 earnings (Jul 28) และ DOJ docket อีก 1 quarter ก่อน entry
+
+**Next reassess: Q2 2026 Earnings 2026-07-28**
 
 ---
 
