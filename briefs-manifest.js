@@ -90,5 +90,12 @@ window.MANIFEST = [
         "date":  "",
         "verdict":  "watch",
         "one":  "Moat มีอยู่จริงในธุรกิจรถยนต์ (brand, supercharger, FSD data flywheel) แต่ $1.28"
+    },
+    {
+        "tk":  "VRT",
+        "co":  "Vertiv Holdings Co",
+        "date":  "",
+        "verdict":  "watch",
+        "one":  "Fundamentals แข็งจริง"
     }
 ];
