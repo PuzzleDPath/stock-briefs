@@ -4,7 +4,7 @@ window.MANIFEST = [
         "tk":  "AAPL",
         "co":  "Apple Inc.",
         "date":  "",
-        "verdict":  "none",
+        "verdict":  "watch",
         "one":  "เครื่องปั๊มเงิน Services margin สูง เรื่อง AI ยังไม่พิสูจน์"
     },
     {
