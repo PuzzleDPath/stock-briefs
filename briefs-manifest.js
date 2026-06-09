@@ -1,4 +1,4 @@
-﻿// Add new stocks here -- one object per ticker
+﻿// Add new stocks here — one object per ticker
 window.MANIFEST = [
     {
         "tk":  "AAPL",
@@ -18,8 +18,8 @@ window.MANIFEST = [
         "tk":  "MU",
         "co":  "Micron Technology",
         "date":  "2026-06-09",
-        "verdict":  "none",
-        "one":  ""
+        "verdict":  "watch",
+        "one":  "Micron เป็น HBM supplier อันดับ 3 ในตลาดที่มีผู้เล่น 3 ราย ไม่ใช่ cornered resource"
     },
     {
         "tk":  "NVDA",
