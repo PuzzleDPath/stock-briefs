@@ -17,7 +17,7 @@ window.MANIFEST = [
     {
         "tk":  "AVGO",
         "co":  "Broadcom Inc.",
-        "date":  "",
+        "date":  "2026-06-10",
         "verdict":  "watch",
         "one":  "Custom XPU moat แข็งแกร่งจริง"
     },
