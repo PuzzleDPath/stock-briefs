@@ -99,6 +99,13 @@ window.MANIFEST = [
         "one":  "Moat มีอยู่จริงในธุรกิจรถยนต์ (brand, supercharger, FSD data flywheel) แต่ $1.28"
     },
     {
+        "tk":  "TSM",
+        "co":  "Taiwan Semiconductor Manufacturing Company",
+        "date":  "",
+        "verdict":  "none",
+        "one":  ""
+    },
+    {
         "tk":  "VRT",
         "co":  "Vertiv Holdings Co",
         "date":  "",
