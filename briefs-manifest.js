@@ -29,6 +29,13 @@ window.MANIFEST = [
         "one":  "Moat ชัดเจนจริง"
     },
     {
+        "tk":  "GLW",
+        "co":  "Corning Incorporated",
+        "date":  "2026-06-10",
+        "verdict":  "watch",
+        "one":  "ข้อมูลจาก brief วันที่ 2026-06-10"
+    },
+    {
         "tk":  "GOOGL",
         "co":  "Alphabet Inc.",
         "date":  "",
