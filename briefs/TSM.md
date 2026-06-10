@@ -1,6 +1,7 @@
 # TSM — Taiwan Semiconductor Manufacturing Company
 *Brief date: 2026-06-10 | Source: Sova (20-F FY2024), Vyse (Q1 2026 earnings call), Tracer (news 7 วัน)*
 
+
 ---
 
 ## 1. Company snapshot
@@ -66,7 +67,7 @@ TSMC (Taiwan Semiconductor Manufacturing Company) คือโรงงานผ
 
 ## Verdict (Neon)
 
-**Verdict: WATCH**
+**WATCH**
 
 TSMC มีความได้เปรียบที่แกร่งที่สุดในอุตสาหกรรม — process know-how 30 ปีที่ลอกไม่ได้ใน 2-3 ปี, gross margin ขยายจาก 54% เป็น 66% พิสูจน์ว่า pricing power มีจริง, ลูกค้า Apple/NVIDIA/AMD หนีไปไหนไม่ได้ในระยะสั้น แต่ยังเป็น WATCH ไม่ใช่ BUY เพราะ (1) development ล่าสุด Jun 2026 เรื่อง Taiwan กำลังพิจารณา AI chip export restriction คือ risk ที่ยังอ่านผลลัพธ์ไม่ออกและมีน้ำหนักพอที่จะเปลี่ยน thesis ได้ทั้งหมด (2) ถ้ามี NVDA และ AVGO อยู่แล้วรวม ~51% การเพิ่ม TSM จะ overlap exposure กับ AI chip sector ซ้ำโดยตรง
 
