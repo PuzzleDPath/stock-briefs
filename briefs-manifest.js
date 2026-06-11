@@ -57,6 +57,13 @@ window.MANIFEST = [
         "one":  "ธุรกิจมีข้อได้เปรียบจริง"
     },
     {
+        "tk":  "MRVL",
+        "co":  "Marvell Technology",
+        "date":  "2026-06-11",
+        "verdict":  "watch",
+        "one":  "### เหตุผล 3 ข้อ"
+    },
+    {
         "tk":  "MSFT",
         "co":  "Microsoft Corporation",
         "date":  "",
