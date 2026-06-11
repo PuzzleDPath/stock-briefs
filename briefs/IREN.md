@@ -1,5 +1,5 @@
 # IREN Limited (IREN) — Brief
-Generated: 2026-06-09
+_Brief generated: 2026-06-09_
 
 ---
 
