@@ -100,8 +100,8 @@ window.MANIFEST = [
     },
     {
         "tk":  "NOW",
-        "co":  "ServiceNow Inc.",
-        "date":  "2026-06-10",
+        "co":  "ServiceNow",
+        "date":  "2026-06-12",
         "verdict":  "watch",
         "one":  "Moat แข็งจริง (97% renewal, RPO $28.2B, switching cost ฝังระดับ workflow) และ AI"
     },
