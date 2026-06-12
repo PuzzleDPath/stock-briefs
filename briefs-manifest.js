@@ -15,6 +15,13 @@ window.MANIFEST = [
         "one":  "Fundamental แข็งจริง"
     },
     {
+        "tk":  "ASTS",
+        "co":  "AST SpaceMobile",
+        "date":  "2026-06-12",
+        "verdict":  "pass",
+        "one":  "ASTS มี thesis น่าสนใจแต่ competitive advantage ยังพิสูจน์ไม่ได้ในโลกจริง Starli"
+    },
+    {
         "tk":  "AVGO",
         "co":  "Broadcom Inc.",
         "date":  "2026-06-10",
@@ -33,7 +40,7 @@ window.MANIFEST = [
         "co":  "Corning Incorporated",
         "date":  "2026-06-10",
         "verdict":  "watch",
-        "one":  "ข้อมูลจาก brief วันที่ 2026-06-10"
+        "one":  "Revenue concentration ใน hyperscaler ทำให้มี cliff risk"
     },
     {
         "tk":  "GOOGL",
@@ -61,7 +68,7 @@ window.MANIFEST = [
         "co":  "Marvell Technology",
         "date":  "2026-06-11",
         "verdict":  "watch",
-        "one":  "### เหตุผล 3 ข้อ"
+        "one":  "ธุรกิจมีข้อได้เปรียบที่ลูกค้าเปลี่ยนไปได้ยาก (switching cost จาก co-design ASIC design cycle) และ cash flow แข็ง"
     },
     {
         "tk":  "MSFT",
