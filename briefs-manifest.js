@@ -36,6 +36,13 @@ window.MANIFEST = [
         "one":  "Moat ชัดเจนจริง"
     },
     {
+        "tk":  "CRWV",
+        "co":  "CoreWeave",
+        "date":  "2026-06-12",
+        "verdict":  "pass",
+        "one":  "Microsoft 67% concentration + กำลังสร้าง Maia 100 in-house = single point of fai"
+    },
+    {
         "tk":  "DELL",
         "co":  "Dell Technologies",
         "date":  "2026-06-12",
