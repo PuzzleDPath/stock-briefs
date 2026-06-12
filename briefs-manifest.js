@@ -8,6 +8,13 @@ window.MANIFEST = [
         "one":  "เครื่องปั๊มเงิน Services margin สูง เรื่อง AI ยังไม่พิสูจน์"
     },
     {
+        "tk":  "AMD",
+        "co":  "Advanced Micro Devices",
+        "date":  "2026-06-12",
+        "verdict":  "watch",
+        "one":  "AMD มีข้อได้เปรียบด้าน CPU ที่วัดได้จากตัวเลขจริง และ AI GPU กำลัง convert เป็น "
+    },
+    {
         "tk":  "ASML",
         "co":  "ASML Holding N.V.",
         "date":  "2026-06-10",
