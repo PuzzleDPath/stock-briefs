@@ -36,6 +36,13 @@ window.MANIFEST = [
         "one":  "Moat ชัดเจนจริง"
     },
     {
+        "tk":  "DELL",
+        "co":  "Dell Technologies",
+        "date":  "2026-06-12",
+        "verdict":  "watch",
+        "one":  "Dell มี revenue ระเบิดจาก AI server แต่ยังตอบคำถาม competitive advantage ไม่ได้จ"
+    },
+    {
         "tk":  "GLW",
         "co":  "Corning Incorporated",
         "date":  "2026-06-10",
