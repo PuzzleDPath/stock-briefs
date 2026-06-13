@@ -92,6 +92,13 @@ window.MANIFEST = [
         "one":  "ธุรกิจมีข้อได้เปรียบจริง"
     },
     {
+        "tk":  "META",
+        "co":  "Meta Platforms, Inc.",
+        "date":  "2026-06-13",
+        "verdict":  "watch",
+        "one":  "Network effect moat จาก user scale แข็งแกร่ง แต่ capex bet ไม่มี disclosed ROI t"
+    },
+    {
         "tk":  "MRVL",
         "co":  "Marvell Technology",
         "date":  "2026-06-11",
