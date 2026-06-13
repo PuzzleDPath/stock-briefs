@@ -1,77 +1,98 @@
 # NVDA — NVIDIA Corporation
+_Brief generated: 2026-06-13_
 
-_Brief generated: 2026-06-07_
+### 1. Company snapshot
 
----
+NVIDIA ออกแบบและขาย GPU และชิปสำหรับ AI infrastructure ให้กับ hyperscalers, cloud providers, รัฐบาล, และบริษัทที่สร้าง AI ทุกขนาด รายได้กว่า 90% มาจากส่วน Data Center ซึ่งขาย GPU clusters, networking chips และซอฟต์แวร์ที่รัน AI ลูกค้าหลักคือ hyperscalers อย่าง AWS, Microsoft Azure, Google Cloud รวมถึงรัฐบาลทั่วโลกที่กำลังสร้าง sovereign AI infrastructure ของตัวเอง นอกจาก GPU สำหรับ training/inference NVIDIA กำลัง expand เข้า CPU (Vera platform) และ Physical AI/Automotive
 
-## 1. Company snapshot
+### 2. Fundamentals signal
 
-NVIDIA เป็นบริษัท full-stack computing infrastructure ที่ออกแบบ GPU, CPU, DPU, networking chip และระบบระดับ data center ครบวงจร ลูกค้าหลักคือ hyperscaler, cloud provider, และรัฐบาลกว่า 40 ประเทศที่กำลังสร้าง Sovereign AI infrastructure ใน Q1 FY2027 (ม.ค.–เม.ย. 2026) Data Center segment ทำรายได้ $75B จากรายได้รวม $82B และ Networking sub-segment (NVLink + InfiniBand) โตเกือบ 3x YoY — แปลว่า NVIDIA ไม่ได้ขายแค่ GPU แต่ขาย entire cluster architecture ที่ลูกค้า lock-in เข้าไปทั้งระบบ
+- รายได้เร่งตัวแรง: $130.5B (FY2025) → $215.9B (FY2026) +65% YoY, Data Center +68%, Networking +142% (source: sources/NVDA/10-k-latest.md)
+- Gross margin 75.0% (FY2025) → 71.1% (FY2026) เพราะ Blackwell product transition + $4.5B H20 inventory writedown จาก export controls; Q1 FY2027 guidance กลับมา ~75% Non-GAAP / 74.9% GAAP (source: sources/NVDA/10-k-latest.md)
+- Balance sheet แข็ง: Total current assets $125.6B (cash & equivalents $10.6B), LT debt $7.5B, Shareholders' equity $157.3B (source: sources/NVDA/10-k-latest.md)
+- FCF มหาศาล คืนผู้ถือหุ้นเป็นหลัก: FCF $96.6B (FY2026), buyback $40.1B + dividend $974M = $41.1B คืนผู้ถือหุ้น, buyback authorization เหลืออีก $58.5B (source: sources/NVDA/10-k-latest.md)
+- Customer concentration สูงผิดปกติ: 2 ลูกค้ารายใหญ่ (ไม่เปิดเผยชื่อ) คิดเป็น 23% + 16% = 39% ของรายได้รวม (~$84B derived — ตัวเลขนี้คำนวณ ไม่ได้ระบุตรงในไฟล์) (source: sources/NVDA/10-k-latest.md)
 
----
+### 3. Latest earnings (Q1 FY2027, reported May 20, 2026)
 
-## 2. Fundamentals signal
+- Revenue $82B +85% YoY, +20% sequential — record sequential increase $13.5B (source: sources/NVDA/q1fy27-call.md)
+- Data Center $75B +92% YoY — computing $60B, networking $15B (nearly tripled YoY) (source: sources/NVDA/q1fy27-call.md)
+- Non-GAAP gross margin 75%, GAAP gross margin 74.9% (source: sources/NVDA/q1fy27-call.md)
+- FCF $49B quarter เดียว (ขึ้นจาก $35B quarter ก่อน) (source: sources/NVDA/q1fy27-call.md)
+- Guidance Q2 FY2027: Revenue $91B ±2%, gross margin ~75% Non-GAAP — China data center compute = $0 ในตัวเลขนี้ (source: sources/NVDA/q1fy27-call.md)
 
-- **Revenue acceleration ยังไม่หยุด:** FY2026 $215.9B (+65% YoY) → Q1 FY2027 $82B (+85% YoY, beat guidance $78B) → Q2 FY2027 guidance $91B ±2% — absolute dollar ที่เพิ่มขึ้นต่อ quarter ยังใหญ่ขึ้นเรื่อยๆ (source: sources/NVDA/10-k-latest.md, sources/NVDA/q1fy27-call.md)
-- **Gross margin ผ่านจุดต่ำสุดแล้ว:** FY2026 ทั้งปี 71.1% (ถูกกดด้วย H20 write-down $4.5B + Hopper→Blackwell transition) แต่ Q1 FY2027 กลับมา 74.9% GAAP ตรงตาม guidance — Q2 guided 74.9-75% เช่นกัน (source: sources/NVDA/10-k-latest.md, sources/NVDA/q1fy27-call.md)
-- **Cash generation ระดับที่ไม่เคยเห็นมาก่อนใน hardware:** FCF Q1 FY2027 เพียงไตรมาสเดียว $49B (จาก $35B ไตรมาสก่อน) — FY2026 ทั้งปี FCF $96.6B บน debt เพียง $8.5B (source: sources/NVDA/10-k-latest.md, sources/NVDA/q1fy27-call.md)
-- **Capital allocation: คืนเงินหนักขึ้นต่อเนื่อง:** Q1 FY2027 คืน $20B ผู้ถือหุ้น; ประกาศ buyback authorization ใหม่ $80B; ขึ้น dividend จาก $0.01 → $0.25/หุ้น (source: sources/NVDA/q1fy27-call.md)
-- **China ถูกตัดออกจาก outlook อย่างเป็นทางการ:** guidance Q2 FY2027 ไม่รวม China data center compute revenue และไม่มี H200 shipment ภายใต้สถานการณ์ปัจจุบัน — explicit acknowledgment ว่า China market หายไปจาก forward numbers แล้ว (source: sources/NVDA/q1fy27-call.md)
+### 4. Bull case / Bear case
 
----
+**Bull case:**
+- CUDA ecosystem — ทีม AI ทั่วโลก optimize code บน NVIDIA architecture ก่อนเสมอ การย้ายออกไม่ใช่แค่เปลี่ยนชิปแต่ต้องเขียน codebase ใหม่ทั้งหมด (switching cost moat) — brief นี้ไม่มีตัวเลข % AI workloads บน NVIDIA vs alternatives ยืนยัน เป็น narrative claim
+- Sovereign AI: ~40 ประเทศกำลังสร้าง national AI infrastructure, Sovereign revenue โต 80%+ YoY — เป็น demand wave นอก hyperscaler แต่ revenue ยังไม่ถูก break out แยกใน financials (source: sources/NVDA/q1fy27-call.md)
+- Vera CPU + Physical AI: production shipments เริ่ม Q3 2026, management ระบุ TAM ~$200B — ยังไม่มี customer announcements หรือ backlog ยืนยัน (source: sources/NVDA/q1fy27-call.md)
 
-## 3. Latest earnings
+**Bear case (Rey):**
+- Customer concentration และ competitive risk คือ risk เดียวกัน: 2 ลูกค้าที่เป็น 39% ของรายได้ (~$84B derived) กำลังพัฒนา custom AI chip ของตัวเองอยู่ (Google TPU, Amazon Trainium, Microsoft Maia, Meta MTIA) ถ้า hyperscaler ย้าย workload มาใช้ in-house silicon มากขึ้นแม้เพียง 20% demand NVIDIA กระทบทันที และ brief นี้ไม่มีข้อมูลว่า in-house chip เหล่านั้นไปถึงไหนแล้ว
+- Export control สามารถทำให้รายได้หายชั่วข้ามคืนโดยไม่มีสัญญาณล่วงหน้า: $4.5B H20 writedown ใน 1 quarter เป็นหลักฐานที่เกิดขึ้นจริงแล้ว ตอนนี้ China = $0 ในทุก guidance และถ้า BIS ขยาย controls ไปยัง Middle East sovereign AI customers (UAE, Saudi Arabia) Sovereign AI bull case พังด้วยพร้อมกัน
+- Gross margin จะ crack ทุก product cycle: 75.0% → 71.1% ใน Blackwell transition เป็น pattern ไม่ใช่ exception Rubin platform กำลังมา ถ้าทำตาม playbook เดิม margin drop อีกรอบเป็น base case ไม่ใช่ tail risk ที่ $91B quarterly revenue ทุก 5 point drop = ~$4.5B gross profit หายต่อ quarter
 
-_Q1 FY2027 Earnings Call, 20 พ.ค. 2026 — ทุก bullet มาจาก sources/NVDA/q1fy27-call.md_
+### 5. Kill conditions
 
-- รายได้รวม $82B (+85% YoY, +20% QoQ) beat guidance $78B; FCF $49B; gross margin 74.9% GAAP / 75% Non-GAAP (source: sources/NVDA/q1fy27-call.md)
-- Data Center $75B (+92% YoY): Computing $60B (+77%), Networking $15B (~3x YoY); Hyperscale $38B, Enterprise/ACIE $37B (+31% QoQ) — ACIE โตเร็วกว่า Hyperscale เป็นครั้งแรก (source: sources/NVDA/q1fy27-call.md)
-- Edge $6.4B (+29% YoY, +10% QoQ); Physical AI trailing-12M รวม $9B+; คืนเงินผู้ถือหุ้น $20B; ขึ้น dividend $0.01→$0.25/หุ้น; buyback authorization ใหม่ $80B (source: sources/NVDA/q1fy27-call.md)
-- Q2 FY2027 guidance: revenue $91B ±2%, gross margin 74.9% GAAP / 75% Non-GAAP ±50bps, OpEx ~$8.5B GAAP; ไม่รวม China compute (source: sources/NVDA/q1fy27-call.md)
-- Vera CPU: $20B standalone CPU revenue ปีนี้, TAM $200B; Vera Rubin production shipments เริ่ม Q3 2026; Sovereign AI supply commitments $145B จาก ~40 ประเทศ (source: sources/NVDA/q1fy27-call.md)
+- ลูกค้า top-2 ประกาศลด capex, delay order, หรือเปิดเผยว่า in-house silicon handle มากกว่า 20% ของ AI training workloads — ติดตามทุก quarter จากภาษาใน earnings call ของ AWS/Azure/Google เกี่ยวกับ "internal silicon" และ AI infrastructure capex guidance
+- AMD หรือ hyperscaler custom chip ได้ verifiable market share: cloud providers เพิ่ม non-NVIDIA GPU option ใน catalog หรือ >15% ของ new GPU cluster deployments ใช้ non-NVIDIA silicon (วัดจาก MLPerf benchmark results + cloud pricing catalogs รายไตรมาส)
+- BIS ขยาย export controls ไปยัง Middle East sovereign AI buyers และ NVIDIA ยืนยัน forward revenue impact >$5B ใน 12 เดือน — watch BIS rule updates + geographic revenue disclosures ใน 10-Q ทุก quarter
+- Gross margin ต่ำกว่า 70% ในไตรมาสใดก็ตาม โดย management อธิบายว่ามาจาก product transition (ไม่ใช่ one-time writedown) — สัญญาณว่า Rubin ramp กำลังทำตาม Blackwell playbook
 
----
+### 6. What to ask before owning it
 
-## 4. Bull case / Bear case
-
-**Bull**
-- **Switching Cost + Scale Economies ที่ทวีคูณกัน (Helmer):** Networking $15B (~3x YoY) คือ evidence ที่ชัดว่า ลูกค้าไม่ได้ซื้อแค่ GPU — ซื้อทั้ง cluster ที่ NVLink, InfiniBand, CUDA ต้องทำงานร่วมกัน การ migrate ออกต้องรื้อ entire stack และ Sovereign AI $145B commitments จาก 40 ประเทศคือ customer base ที่กระจายตัวออกจาก hyperscaler 4-5 รายเดิม (source: sources/NVDA/q1fy27-call.md)
-- **Vera Rubin Q3 2026 + Vera CPU $20B TAM expansion:** production เริ่มเร็วกว่าที่ตลาดคาด + CEO ระบุ CPU revenue $20B ปีนี้จาก TAM $200B — NVIDIA กำลัง expand จาก GPU-only ไปเป็น full data center BOM ถ้าทำได้จริง revenue per rack สูงขึ้นและ switching cost เพิ่มด้วย (source: sources/NVDA/q1fy27-call.md)
-- **ACIE (+31% QoQ) แซง Hyperscale เป็นครั้งแรก:** Enterprise และ sovereign AI กำลังกลายเป็น growth driver ใหม่ ลด concentration risk จาก hyperscaler 2 ราย = 39% ของรายได้ที่เคยเป็นมา (source: sources/NVDA/q1fy27-call.md, sources/NVDA/10-k-latest.md)
-
-**Bear**
-- **China ถูกตัดออกจาก guidance อย่างสมบูรณ์แล้ว แต่ risk ยังอยู่:** H20 inventory write-down $4.5B ใน FY2026 แสดงว่า policy เปลี่ยนเร็วมากจนสต็อกที่สั่งไว้กลายเป็นขยะ ถ้า restriction ขยายไปครอบ Blackwell หรือ Vera Rubin ในตลาดอื่น magnitude จะใหญ่กว่า $4.5B มากเพราะ ASP สูงขึ้นมาก (source: sources/NVDA/10-k-latest.md)
-- **Customer concentration ยังสูงและ sentiment-driven:** top-2 customers = 39% ของรายได้ใน Q2 FY2026 + NVDA ร่วง 6%+ หลัง AVGO guidance soft ทั้งที่ NVIDIA ไม่มีข่าวของตัวเอง (source: sources/NVDA/10-k-latest.md, Stocktwits via Tracer)
-- **Vera Rubin ramp + HBM4 supply เป็น execution risk คู่กัน:** production เริ่ม Q3 2026 แต่ HBM4 certify เพิ่งทำใน 5 มิ.ย. 2026 — yield rate และ volume ramp ของ memory ยังเป็น unknown ถ้า supply ตึงใน early quarters gross margin จะ compress อีกรอบเหมือน Blackwell transition (source: GuruFocus 5 มิ.ย. 2026 via Tracer)
-
----
-
-## 5. Kill conditions
-
-ถ้าเห็นสิ่งเหล่านี้เกิดขึ้น ควรทบทวน thesis จริงจัง:
-
-- **Q2 FY2027 revenue miss จาก guidance $91B อย่างมีนัยสำคัญ และ management ลด Q3 guidance ด้วย** — แค่ miss ครั้งเดียวอาจเป็น noise แต่ถ้า guide ลงพร้อมกัน แปลว่า demand wave ชะลอจริง ดูใน earnings call 26 ส.ค. 2026 ว่า hyperscaler commentary เปลี่ยนไหม
-- **US export restriction ขยายครอบ Blackwell หรือ Vera Rubin** ไม่ใช่แค่ chip ที่ออกแบบสำหรับจีน — China ถูกตัดออกจาก guidance แล้ว แต่ถ้า restriction ไปถึง chip mainstream write-down รอบหน้าจะเจ็บกว่า $4.5B มาก และ TAM หดลงอย่างถาวร
-- **Networking segment ($15B, ~3x YoY) เริ่มชะลอลงเหลือ single-digit growth** — สัญญาณว่าลูกค้าเริ่มซื้อแค่ GPU โดยไม่ซื้อ cluster ทั้งระบบ ซึ่งแปลว่า Switching Cost จาก NVLink/InfiniBand ecosystem เริ่มอ่อนลง
+1. CUDA moat แน่นแค่ไหน — มี case ของ company ที่ย้ายออกจาก NVIDIA ไปใช้ alternative จริงๆ ไหม? ตัวเลข % AI workloads บน NVIDIA vs alternatives หาได้จากที่ไหน?
+2. ลูกค้า 2 รายที่เป็น 39% คือใคร (10-K ไม่เปิดเผย) และ in-house chip ของพวกเขาแต่ละรายไปถึงไหนแล้ว?
+3. China เคยเป็น % รายได้เท่าไหร่ก่อนถูกบล็อก — lost revenue นั้นใหญ่แค่ไหนในภาพรวม?
+4. Vera CPU จะ cannibalize GPU revenue ของ NVIDIA เองไหม หรือจะ expand TAM?
+5. ราคา $199 vs analyst consensus $298-$311 — analyst ตั้ง target บนสมมติฐาน growth rate เท่าไหร่ใน FY2028 และรวม China revenue กลับมาไว้ในโมเดลด้วยไหม?
 
 ---
 
-## 6. What to ask before owning it
-
-1. Vera Rubin production เริ่ม Q3 2026 — HBM4 certify เพิ่งเสร็จ 5 มิ.ย. volume ramp จะทัน Q3 จริงไหม? ถ้าสลิปออกไป gross margin จะ compress เหมือน Blackwell transition ไหม?
-2. ACIE (+31% QoQ) แซง Hyperscale ครั้งแรก — Sovereign AI $145B commitments จาก 40 ประเทศ funding มาจากไหน? ถ้าเป็น one-time government budget จะ repeat ได้ไหมใน FY2028?
-3. China ถูกตัดออกจาก guidance อย่างสมบูรณ์ — ใน FY2026 China คิดเป็น % ของรายได้เท่าไหร่? ดู geographic breakdown ใน 10-K ถ้า restriction ยกระดับไป Southeast Asia หรือ Middle East จะกระทบอีกแค่ไหน?
-4. Baird PT $500 vs Needham $270 — spread กว้างมาก ลอง estimate เองว่าต้องการ revenue growth กี่ % ใน 3 ปีข้างหน้าเพื่อให้ราคาปัจจุบัน justified
-5. FCF $49B ต่อไตรมาส — EPS ที่ "โต" เพราะ business โตหรือเพราะ share count ลดลงจาก buyback? ถ้า buyback หยุดในวันหนึ่ง organic EPS growth จะอยู่ที่เท่าไหร่?
-
----
-
-_Research summary only — ไม่ใช่คำแนะนำซื้อขาย_
-
----
-
-## Verdict (Neon) — 2026-06-08
+## Verdict (Neon)
 
 **WATCH**
 
-NVIDIA เป็น AI infrastructure winner ที่ชัดเจนที่สุดในตลาดตอนนี้ — revenue $82B ใน quarter เดียว, gross margin 75%, FCF $49B/quarter, และ Vera Rubin เริ่ม ship Q3 2026 คือ execution ที่ไม่มีใครทัดเทียมได้ในระยะสั้น อย่างไรก็ตาม market cap ~$5T บน revenue $215.9B (23x revenue, ~41x trailing earnings) หมายความว่าราคาปัจจุบันรวมความสำเร็จในอีก 2-3 ปีข้างหน้าไว้แล้ว สำหรับนักลงทุนมือใหม่ที่ถือยาว risk ที่แท้จริงไม่ใช่ว่า NVIDIA จะล้มเหลว แต่คือซื้อในราคาที่สูงเกินไปแล้วนั่งรอผ่าน drawdown 30-40% หาก kill condition ใดข้อหนึ่งเกิดขึ้น จุดที่ควรพิจารณาเข้าคือ (a) pullback 15-25%+ จากระดับปัจจุบัน หรือ (b) Q2 FY2027 revenue ผ่าน $91B guidance จริงและ Vera Rubin ramp ไม่มี gross margin surprise ในไตรมาสถัด ๆ ไป
+CUDA switching cost มีน้ำหนักจริงแต่ยัง narrative-based, customer concentration circular risk ยังไม่มีคำตอบ, cash = 0% ต่ำกว่า rule 15%, NVDA อยู่ใน portfolio 15.87% อยู่แล้ว
+
+**เหตุผล 3 ข้อ:**
+- CUDA ecosystem สร้าง switching cost จริง — ทีม AI ทั่วโลก optimize code บน NVIDIA architecture ก่อนเสมอ การย้ายออกต้องเขียน codebase ใหม่ทั้งหมด แต่ไม่มีตัวเลข % workloads ที่วัดได้ ยัง narrative-based
+- Fundamentals แข็งมากจริง — revenue +65% YoY, FCF $49B ใน 1 quarter เดียว, gross margin กลับ 75% หลัง Blackwell dip
+- Long-term fit ตรงกับสไตล์ — ถือยาว 1 ปี+, โอกาสเติบโตสูง, Kill conditions ชัดและ track ได้จริงทุก quarter
+
+**Competitive advantage: Moderate** — switching cost จาก CUDA ecosystem มีน้ำหนักแต่ยัง narrative-based, hyperscaler custom chip กำลัง erode moat ที่ปลายน้ำ (inference workloads)
+
+**Momentum trap check:** Flag — revenue +85% YoY กับ gap ระหว่างราคา $199 กับ consensus $298-$311 ใหญ่มากพอที่ต้องถามว่า target ตั้งบนสมมติฐานอะไร ถ้ารวม China กลับมาหรือ Sovereign AI expansion ที่ยังไม่มี revenue break out ตัวเลข target อาจ inflated
+
+**Portfolio fit:** NVDA 15.87% ของพอร์ตอยู่แล้ว, Tech รวม 87.53% (NOW + AVGO + NVDA), cash = 0% ต่ำกว่า rule 15% — ซื้อเพิ่มตอนนี้จะทำ concentration หนักขึ้นและ cash ยังไม่กลับมา ควรรอ deposit + ตอบ 3 คำถามนี้ก่อน: (1) top-2 customers คือใครและ custom chip ไปถึงไหน, (2) China เคยเป็น % รายได้เท่าไหร่, (3) analyst target $298-$311 ตั้งบน growth assumption อะไร
+
+_ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของคุณเสมอ_
+
+---
+
+## Fact Check (Eve)
+
+**Source files:** sources/NVDA/10-k-latest.md · sources/NVDA/q1fy27-call.md · sources/NVDA/news-latest.md
+**ผล: 27 confirmed / 3 flagged (1 mislabeled แก้แล้ว, 2 derived/narrative) / 0 ตรวจไม่ได้**
+
+**Confirmed highlights:**
+- ✅ Revenue $130.5B/$215.9B (FY2025/FY2026), +65% YoY — 10-k-latest.md
+- ✅ Data Center +68%, Networking +142% — 10-k-latest.md
+- ✅ Gross margin 75.0% → 71.1%, $4.5B H20 writedown — 10-k-latest.md
+- ✅ Total current assets $125.6B (cash & equivalents $10.6B), LT debt $7.5B, Shareholders' equity $157.3B — 10-k-latest.md
+- ✅ FCF $96.6B, buyback $40.1B, dividend $974M — 10-k-latest.md
+- ✅ Customer concentration 23% + 16% = 39% — 10-k-latest.md
+- ✅ Q1 FY2027 revenue $82B +85% YoY +20% sequential — q1fy27-call.md
+- ✅ Data Center $75B +92%, computing $60B, networking $15B — q1fy27-call.md
+- ✅ Gross margin Non-GAAP 75%, GAAP 74.9% — q1fy27-call.md
+- ✅ FCF $49B Q1 FY2027 — q1fy27-call.md
+- ✅ Q2 guidance $91B ±2%, China = $0 — q1fy27-call.md
+- ✅ Sovereign AI ~40 countries, 80%+ YoY — q1fy27-call.md
+- ✅ Vera CPU TAM ~$200B, production Q3 2026 — q1fy27-call.md
+- ✅ Analyst target $298-$311, price ~$199 — news-latest.md
+
+**Flagged (reconciled):**
+- ⚠️ "เงินสด $125.6B" (mislabeled — was Total Current Assets) → แก้เป็น "Total current assets $125.6B; cash & equivalents $10.6B" แล้วใน body
+- ⚠️ "~$84B customer concentration" — derived calculation, ใส่ note "(derived — ไม่ได้ระบุตรงในไฟล์)" แล้ว
+- ⚠️ "CUDA switching cost" — narrative claim ไม่มี numeric source, ใส่ note แล้ว
