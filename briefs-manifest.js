@@ -15,6 +15,13 @@ window.MANIFEST = [
         "one":  "AMD มีข้อได้เปรียบด้าน CPU ที่วัดได้จากตัวเลขจริง และ AI GPU กำลัง convert เป็น "
     },
     {
+        "tk":  "AMZN",
+        "co":  "Amazon.com, Inc.",
+        "date":  "2026-06-13",
+        "verdict":  "watch",
+        "one":  "มี moat จริงจาก switching cost เชิงโครงสร้างใน AWS แต่ยังขาดข้อมูลสำคัญหลายจุดที"
+    },
+    {
         "tk":  "ASML",
         "co":  "ASML Holding N.V.",
         "date":  "2026-06-10",
