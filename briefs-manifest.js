@@ -80,7 +80,7 @@ window.MANIFEST = [
     {
         "tk":  "IREN",
         "co":  "IREN Limited",
-        "date":  "2026-06-09",
+        "date":  "2026-06-13",
         "verdict":  "watch",
         "one":  "NVIDIA เลือก IREN เป็น strategic partner ระดับ $3.54B + $2.1B equity investment validate thesis อย่างแข็งแกร่ง และ power moat 810 MW operating + contracted 2,910 MW เป็นสิ่งที่คู่แข่งสร้างตามได้ยากในระยะสั้น อย่างไรก็ตาม mining ยังเป็น 77% ของ revenue, biz ยังขาดทุน, และ multi-front acquisition พร้อมกัน (Mirantis, Nostrum, Awaken) ทำให้ execution risk สูงเกินไปสำหรับ BUY"
     },
