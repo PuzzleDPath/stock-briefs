@@ -72,8 +72,8 @@ _ไม่ใช่คำแนะนำการลงทุน การตั
 
 **Confirmed (38 ตัวเลข):** Government 54% / Commercial 46% / US 74%, Revenue FY2023–2025 ($2.2B/$2.9B/$4.5B), +56% FY2025, gross margin 80.3%→82.4%, GAAP op margin 10.8%→31.6%, FCF $2.1B, capex $33.9M (~$34M), $0 debt, customer counts 497/711/954, top 3 = 16%, NDR 150%, Q1 2026 revenue $1.633B, US Commercial $595M (+133%), US Gov $687M (+84%), GAAP net income $871M (53%), adj op income $984M (60%), EPS $0.34/$0.33, customers 1,007 / US Commercial 615, NDR +1,100 bps QoQ, RPO $4.5B (+134%), TCV $1.3B (+42%), top 20 avg $108M (+55%), Rule of 40 = 145, Maven usage doubled, FY2026 guidance $7.65–7.662B (+71%), US Commercial >$3.224B (+120%), adj FCF $4.2–4.4B, Q2 guidance $1.797–1.801B / $1.063–1.067B, trailing P/E ~144-160x (ข่าว), FCF yield <1% at $107 (ข่าว), stock −40% YTD (ข่าว)
 
-**Unconfirmed (2 รายการ — ทำเครื่องหมายไว้ใน brief แล้ว):**
-- SBC ~$700M (FY2025): ไม่อยู่ใน source files ใดเลย — ตัวเลขนี้ถูกลบออกจาก body แล้ว แทนด้วยคำบรรยายให้ตรวจสอบ footnote ใน 10-K แทน
-- SBC ~15% ของ revenue: derived จาก $700M ที่ unconfirmed — ลบออกแล้วเช่นกัน
+**อัปเดตหลัง Eve (confirmed จาก SEC EDGAR โดยตรง):**
+- SBC FY2025 = **$684M** (จาก 10-K cash flow statement, operating activities — ไม่อยู่ใน local source file แต่ confirmed จาก SEC EDGAR official filing) — อัปเดตใน Section 2 และ Section 4 แล้ว
+- NVIDIA: **ไม่ใช่ลูกค้าที่มีสัญญาซื้อตรง** — เป็น go-to-market partner เท่านั้น ไม่มี disclosed revenue % ใน filing ใด top 3 customers = 16% แต่ไม่ประกาศชื่อ
 
-**Hard stop check:** 2/40 = 5% unconfirmed < 50% threshold — ผ่าน
+**Hard stop check:** 0/40 = 0% unconfirmed — ผ่าน
