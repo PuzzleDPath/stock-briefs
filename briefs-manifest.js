@@ -150,7 +150,7 @@ window.MANIFEST = [
     {
         "tk":  "TSM",
         "co":  "Taiwan Semiconductor Manufacturing Company",
-        "date":  "",
+        "date":  "2026-06-26",
         "verdict":  "watch",
         "one":  "TSMC มีความได้เปรียบที่แกร่งที่สุดในอุตสาหกรรม"
     },
