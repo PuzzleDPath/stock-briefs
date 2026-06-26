@@ -33,7 +33,7 @@ TSMC คือโรงงานผลิตชิปที่ใหญ่ที
 - **Foundry price hike 5–10% สำหรับ leading-edge (~75% ของ revenue):** (ตัวเลขจากข่าว) pricing power กำลังเกิดขึ้นจริงจาก demand ที่มากกว่า supply
 
 **Bear case (Rey):**
-- **Capex $52–56B overcommitment กับ NVIDIA single-customer dependency:** TSMC จอง CoWoS ให้ NVIDIA >60% ของ capacity — ถ้า NVIDIA ชะลอ order (Blackwell ramp ช้าหรือ hyperscaler ตัด AI capex) TSMC มี capacity ว่างแต่ fixed cost เดินตลอด โรงงานปิดชั่วคราวไม่ได้ Apple + NVIDIA concentration % ที่แน่ชัดไม่อยู่ใน source files — ต้องหาก่อนซื้อ
+- **Capex $52–56B overcommitment กับ NVIDIA single-customer dependency:** TSMC จอง CoWoS ให้ NVIDIA >60% ของ capacity — ถ้า NVIDIA ชะลอ order (Blackwell ramp ช้าหรือ hyperscaler ตัด AI capex) TSMC มี capacity ว่างแต่ fixed cost เดินตลอด โรงงานปิดชั่วคราวไม่ได้ **Apple = 22%, NVIDIA = 12% ของ revenue ปี FY2024** (จาก 20-F Customer A/B — company-disclosed % แต่ไม่ระบุชื่อตรงๆ, analyst consensus ยืนยันว่า A = Apple, B = NVIDIA) → FY2025 estimate: NVIDIA ขึ้นเป็น ~19%, Apple ลงเป็น ~17% — NVIDIA แซง Apple เป็น top customer แล้ว; FY2026 NVIDIA กำลัง push เกิน 20% จาก Vera Rubin ramp (TrendForce, มิ.ย. 2026)
 - **Overseas fab ทำ gross margin ถดถอยแบบถาวร:** Arizona/Japan cost สูงกว่า Taiwan 2–3% gross margin เริ่มต้น แล้วขยายเป็น 3–4% เมื่อ scale ขึ้น (ตาม CFO) บวกกับ N2 ramp ดึงอีก 2–3% ทั้งสองแรงทำงานพร้อมกัน — 66.2% อาจเป็น Taiwan-only peak ไม่ใช่ baseline ใหม่
 - **Silicon shield กำลัง self-destruct:** ทฤษฎีที่ว่าโลกจะไม่ยอมให้ไต้หวันถูกโจมตีเพราะต้องการ TSMC อาศัยเงื่อนไขที่ว่า "ไม่มีที่อื่นผลิตได้" แต่ TSMC เองกำลังสร้าง Arizona ที่จะผลิต leading-edge ได้ในสหรัฐฯ ยิ่ง overseas ramp ยิ่งลด uniqueness ของไต้หวัน — geopolitical risk ยังอยู่แต่ deterrent กำลังถูก price out
 
