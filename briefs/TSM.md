@@ -45,7 +45,7 @@ TSMC คือโรงงานผลิตชิปที่ใหญ่ที
 
 ## 6. What to ask before owning it
 
-1. Apple และ NVIDIA แต่ละรายคิดเป็น % เท่าไหร่ของ TSMC revenue — concentration จริงๆ เท่าไหร่? (ไม่อยู่ใน source files ต้องหาเอง)
+1. Apple = 22%, NVIDIA = 12% (FY2024 จาก 20-F) → FY2025 est. NVIDIA ~19%, Apple ~17% — NVIDIA แซงแล้ว คำถามต่อคือ: ถ้า NVIDIA ลด AI capex 20% กระทบ TSMC revenue กี่ % ลองคำนวณก่อนซื้อ
 2. ถ้า NVIDIA ลด AI capex 20% กระทบ TSMC revenue กี่ % — คำนวณดูก่อน
 3. Arizona cost per wafer สูงกว่า Taiwan มากแค่ไหน — gross margin ปี 2028 ตอน Arizona run at scale จะอยู่ที่เท่าไหร่?
 4. Silicon shield ยังทำงานอยู่ไหมในโลกที่ Arizona/Japan ขยายขึ้นเรื่อยๆ — ถ้าเกิดเหตุการณ์กับไต้หวัน ผมจะรับ drawdown ได้แค่ไหน?
