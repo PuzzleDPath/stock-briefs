@@ -24,7 +24,7 @@ window.MANIFEST = [
     {
         "tk":  "ASML",
         "co":  "ASML Holding N.V.",
-        "date":  "2026-06-10",
+        "date":  "2026-06-26",
         "verdict":  "watch",
         "one":  "Fundamental แข็งจริง"
     },
