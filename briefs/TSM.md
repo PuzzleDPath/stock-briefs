@@ -68,8 +68,10 @@ _ไม่ใช่คำแนะนำการลงทุน การตั
 
 **Confirmed (37 ตัวเลข):** Revenue NT FY2023–2024, growth rates, GM 54.4%/56.1%/66.2%, OM 42.6%/45.7%/58.1%, Capex FY2024 $29.76B / FY2026 $52-56B, dividend NT$363.05bn / NT$4.50/share Q3 2024, cash TWD 3.4T (~$106B), Q1 2026 revenue $35.9B / EPS TWD 22.08 / ROE 40.5%, platform mix (HPC 61%/Smartphone 26%/IoT 6%/Auto 4%/DCE 1%) + QoQ changes, node breakdown (3nm 25%/5nm 36%/7nm 13%), operating CF TWD 699bn, capex Q1 $11.1B, Q2 guidance $39.0-40.2B/GM 65.5-67.5%/OM 56.5-58.5%/tax ~20%, FY2026 >30% USD, N2 drag 2-3%, N3 cross corporate avg H2 2026, Arizona Fab 2 3nm 2027, A14 2028, foundry hike 5-10% (ข่าว), NVIDIA >60% CoWoS (ข่าว), CoWoS 1M units/370K (ข่าว), CAGR 80% (ข่าว), Polymarket 16% (ข่าว), BofA PT $590 / Susquehanna $575 / avg PT $494 (ข่าว), ADR $435-440 (ข่าว)
 
-**Unconfirmed (2 รายการ — แก้ไขใน brief แล้ว):**
+**Unconfirmed (1 รายการ — แก้ไขใน brief แล้ว):**
 - Overseas fab drag "2-4%" → แก้เป็น "2-3% เริ่มต้น แล้วขยายเป็น 3-4%" ตามที่ CFO พูดใน transcript จริงๆ
-- Apple + NVIDIA exact % ของ revenue → ไม่อยู่ใน source files — ทำเครื่องหมายไว้ใน bear case และ Section 6 แล้ว
 
-**Hard stop check:** 2/39 = 5.1% unconfirmed < 50% threshold — ผ่าน
+**อัปเดตหลัง Eve (confirmed จาก 20-F โดยตรง):**
+- Apple = 22%, NVIDIA = 12% (FY2024) จาก TSMC 20-F Customer A/B — company-disclosed % (ไม่ระบุชื่อในไฟล์ แต่ analyst consensus ยืนยัน) — อัปเดตใน Section 4 และ Section 6 แล้ว
+
+**Hard stop check:** 1/39 = 2.6% unconfirmed < 50% threshold — ผ่าน
