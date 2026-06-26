@@ -69,9 +69,12 @@ _ไม่ใช่คำแนะนำการลงทุน การตั
 
 **Confirmed (22 ตัวเลข):** Revenue FY2023–2025, gross margin FY2023–2025, 2030 margin target 56–60%, cash €13.3B, capex €470M, FCF €10.9B, backlog €38.8B, shareholder return €8.5B, buyback €12B/2028, IBM +26.2% YoY, Q1 2026 revenue €8.8B, net income €2.8B (31.4%), EPS €7.15, gross margin 53%, EUV/DUV/IBM segment breakdown, FY2026 guidance €36–40B (raised from €34–39B), H2 weighted, memory "sold out," High-NA >500K wafers + >80% availability, Q2 earnings July 15 2026
 
-**Unconfirmed / จากข่าว (5 รายการ — ทำเครื่องหมายไว้ใน brief แล้ว):**
-- China revenue ~33% baseline → ไม่อยู่ใน source ไฟล์ใด (marked ในข้อ 4)
-- China ~20% target → ไม่อยู่ใน source ไฟล์ใด (marked ในข้อ 4)
+**อัปเดตหลัง Eve:**
+- China revenue ~33% FY2025 → **confirmed จาก ASML Q4 2025 press release** (SEC Form 6-K) — อัปเดตใน Section 4 แล้ว ลบ tag "ตัวเลขจากข่าว" ออก
+- China backlog %: ~20% จาก Q1 2024 earnings call เป็นตัวเลขเดียวที่มี สิ้นปี 2025 ไม่ได้ประกาศ — ระบุไว้ใน Section 4 แล้ว
+
+**Unconfirmed / จากข่าว (3 รายการที่เหลือ — ทำเครื่องหมายไว้ใน brief แล้ว):**
+- China ~20% target → management guidance (marked ในข้อ 4)
 - DUV ban impact estimate → analytical scenario ไม่ใช่ reported figure (marked ในข้อ 4)
 - Top 2 customers ~38% → ไม่อยู่ใน 10-K/transcript (marked ในข้อ 4)
 - FY2023 growth rate % → FY2022 ไม่อยู่ใน source (ลบ % ออกจากข้อ 6 แล้ว)
