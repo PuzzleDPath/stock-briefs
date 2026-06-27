@@ -26,7 +26,7 @@ window.MANIFEST = [
         "co":  "ASML Holding N.V.",
         "date":  "2026-06-27",
         "verdict":  "buy",
-        "one":  "Fundamental แข็งจริง"
+        "one":  "ASML ผูกขาดเครื่อง EUV เด็ดขาดด้วย know-how หลายสิบปี + scale + switching cost ม"
     },
     {
         "tk":  "ASTS",
