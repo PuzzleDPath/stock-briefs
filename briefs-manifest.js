@@ -26,7 +26,7 @@ window.MANIFEST = [
         "co":  "ASML Holding N.V.",
         "date":  "2026-06-27",
         "verdict":  "buy",
-        "one":  "ASML ผูกขาดเครื่อง EUV เด็ดขาดด้วย know-how หลายสิบปี + scale + switching cost ม"
+        "one":  "Fundamental แข็งจริง"
     },
     {
         "tk":  "ASTS",
@@ -40,7 +40,7 @@ window.MANIFEST = [
         "co":  "Broadcom Inc.",
         "date":  "2026-06-10",
         "verdict":  "watch",
-        "one":  "Moat: Moderate"
+        "one":  "Custom XPU moat แข็งแกร่งจริง"
     },
     {
         "tk":  "CRWD",
@@ -82,7 +82,7 @@ window.MANIFEST = [
         "co":  "IREN Limited",
         "date":  "2026-06-13",
         "verdict":  "watch",
-        "one":  ""
+        "one":  "NVIDIA เลือก IREN เป็น strategic partner ระดับ $3.54B + $2.1B equity investment validate thesis อย่างแข็งแกร่ง และ power moat 810 MW operating + contracted 2,910 MW เป็นสิ่งที่คู่แข่งสร้างตามได้ยากในระยะสั้น อย่างไรก็ตาม mining ยังเป็น 77% ของ revenue, biz ยังขาดทุน, และ multi-front acquisition พร้อมกัน (Mirantis, Nostrum, Awaken) ทำให้ execution risk สูงเกินไปสำหรับ BUY"
     },
     {
         "tk":  "LLY",
@@ -124,21 +124,21 @@ window.MANIFEST = [
         "co":  "ServiceNow",
         "date":  "2026-06-12",
         "verdict":  "watch",
-        "one":  "NOW มี switching cost แข็งจาก workflow lock-in ที่พิสูจน์ด้วย 97% renewal และ FC"
+        "one":  "Moat แข็งจริง (97% renewal, RPO $28.2B, switching cost ฝังระดับ workflow) และ AI"
     },
     {
         "tk":  "NVDA",
         "co":  "NVIDIA Corporation",
         "date":  "2026-06-13",
         "verdict":  "watch",
-        "one":  "CUDA switching cost มีน้ำหนักจริงแต่ยัง narrative-based, customer concentration "
+        "one":  "ผู้นำ AI infrastructure ที่ชัดเจนที่สุด แต่ราคาซื้ออนาคต 2-3 ปีไว้แล้ว"
     },
     {
         "tk":  "PLTR",
         "co":  "Palantir Technologies Inc.",
         "date":  "2026-06-26",
         "verdict":  "watch",
-        "one":  ""
+        "one":  "Moat มีจริง (Government: แข็งมาก, Commercial/AIP: ยังพิสูจน์ไม่ชัด) แต่สามเรื่อง"
     },
     {
         "tk":  "TSLA",
@@ -152,7 +152,7 @@ window.MANIFEST = [
         "co":  "Taiwan Semiconductor Manufacturing Company",
         "date":  "2026-06-26",
         "verdict":  "watch",
-        "one":  ""
+        "one":  "TSMC มีความได้เปรียบที่แกร่งที่สุดในอุตสาหกรรม"
     },
     {
         "tk":  "VRT",
