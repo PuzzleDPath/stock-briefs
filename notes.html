@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>คลังข้อมูล · Stock Briefs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700&family=Mali:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#efe6d8; --card:#f8f2e8; --card-2:#fbf7ee;
+    --ink:#34291d; --ink-soft:#715f49; --ink-faint:#9c8a6f;
+    --line:#d8c8ac; --line-soft:#e4d7bf; --accent:#8a6f52; --accent-deep:#5e5038;
+    --ok-bg:#e3efd9; --ok-tx:#3b6d11; --warn-bg:#faeeda; --warn-tx:#854f0b; --bad-bg:#faece7; --bad-tx:#993c1d;
+    --display:'Patrick Hand','Mali',cursive; --body:'Nunito Sans','Mali',system-ui,sans-serif;
+  }
+  *,*::before,*::after{box-sizing:border-box;}
+  html,body{margin:0;height:100%;}
+  body{font-family:var(--body);background:var(--paper);color:var(--ink);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;}
+
+  .topbar{position:sticky;top:0;z-index:30;display:flex;align-items:center;gap:14px;padding:14px 26px;
+    background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);}
+  .brand{display:flex;align-items:baseline;gap:12px;flex:none;}
+  .backlink{font-family:var(--display);font-size:15px;color:var(--accent);text-decoration:none;white-space:nowrap;cursor:pointer;background:none;border:none;padding:0;}
+  .backlink:hover{color:var(--accent-deep);}
+  .brand .mark{font-family:var(--display);font-weight:600;font-size:22px;}
+  .spacer{flex:1;}
+  .search{display:flex;align-items:center;gap:9px;flex:none;width:230px;max-width:42vw;padding:8px 14px;
+    background:var(--card-2);border:1px solid var(--line);border-radius:999px;}
+  .search:focus-within{border-color:var(--accent);}
+  .search input{border:none;background:transparent;outline:none;width:100%;font-family:var(--body);font-size:14px;color:var(--ink);}
+  .mag{width:13px;height:13px;border:2px solid var(--ink-faint);border-radius:999px;position:relative;flex:none;}
+  .mag::after{content:'';position:absolute;width:6px;height:2px;background:var(--ink-faint);bottom:-3px;right:-3px;transform:rotate(45deg);}
+
+  .wrap{max-width:760px;margin:0 auto;padding:26px 24px 100px;}
+  .count{font-size:12px;color:var(--ink-faint);margin:0 2px 16px;}
+
+  .note-card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin-bottom:14px;cursor:pointer;transition:box-shadow .15s,border-color .15s;}
+  .note-card:hover{border-color:var(--accent);box-shadow:0 1px 0 rgba(0,0,0,.03);}
+  .nc-top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;}
+  .nc-title{font-family:var(--display);font-weight:600;font-size:19px;color:var(--accent-deep);margin-bottom:6px;line-height:1.2;}
+  .tags{display:flex;gap:6px;flex-wrap:wrap;}
+  .tag{font-size:11.5px;padding:2px 9px;border-radius:999px;background:var(--card-2);border:1px solid var(--line);color:var(--ink-soft);}
+  .badge{flex:none;font-size:11.5px;padding:4px 10px;border-radius:999px;white-space:nowrap;}
+  .badge.ok{background:var(--ok-bg);color:var(--ok-tx);}
+  .badge.warn{background:var(--warn-bg);color:var(--warn-tx);}
+  .badge.bad{background:var(--bad-bg);color:var(--bad-tx);}
+  .nc-prev{font-size:13px;color:var(--ink-soft);line-height:1.6;margin:10px 0 0;}
+  .nc-stale{display:flex;gap:6px;align-items:flex-start;margin-top:12px;padding-top:10px;border-top:1px solid var(--line-soft);font-size:12px;color:var(--ink-faint);line-height:1.5;}
+
+  .reader{display:none;}
+  .r-title{font-family:var(--display);font-weight:600;font-size:28px;color:var(--accent-deep);margin:8px 0 10px;}
+  .r-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:12px;color:var(--ink-faint);margin-bottom:6px;}
+  .r-stale{font-size:12.5px;color:var(--ink-soft);background:var(--warn-bg);border-left:3px solid var(--warn-tx);padding:10px 14px;border-radius:0 8px 8px 0;margin:14px 0 22px;}
+  .md h3{font-family:var(--display);font-weight:600;font-size:18px;color:var(--ink);margin:22px 0 8px;}
+  .md p{font-size:15px;line-height:1.8;margin:.6em 0;}
+  .md ul{margin:.5em 0;padding-left:22px;}
+  .md li{font-size:15px;line-height:1.7;margin:.35em 0;}
+  .md strong{font-weight:700;}
+  .md a{color:var(--accent);text-decoration:none;border-bottom:1px dashed var(--accent);}
+  .empty{color:var(--ink-faint);font-family:var(--display);font-size:18px;text-align:center;padding:40px 0;}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="brand">
+    <a href="index.html" class="backlink">‹ Stock Briefs</a>
+    <span class="mark">คลังข้อมูล</span>
+  </div>
+  <div class="spacer"></div>
+  <label class="search">
+    <span class="mag"></span>
+    <input type="text" id="q" placeholder="ค้นหา…" autocomplete="off">
+  </label>
+</div>
+
+<div class="wrap">
+  <div id="listView">
+    <div class="count" id="count"></div>
+    <div id="list"></div>
+  </div>
+  <div id="readerView" class="reader">
+    <button class="backlink" id="back" style="margin-bottom:14px;">‹ กลับ</button>
+    <div id="article"></div>
+  </div>
+</div>
+
+<script src="notes-data.js"></script>
+<script>
+  const N = (window.NOTES || []).slice();
+  const listView = document.getElementById('listView');
+  const readerView = document.getElementById('readerView');
+  const listEl = document.getElementById('list');
+  const countEl = document.getElementById('count');
+
+  function esc(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+  function inline(s){
+    return esc(s)
+      .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
+      .replace(/\[\[([a-z0-9-]+)\]\]/g,'<a href="glossary.html#g-$1">$1</a>');
+  }
+  function mdToHtml(md){
+    let html='', inList=false;
+    const flush=()=>{ if(inList){html+='</ul>';inList=false;} };
+    (md||'').split(/\r?\n/).forEach(raw=>{
+      const line=raw.trim();
+      if(!line){ flush(); return; }
+      if(line.startsWith('## ')){ flush(); html+='<h3>'+inline(line.slice(3))+'</h3>'; return; }
+      if(line.startsWith('- ')){ if(!inList){html+='<ul>';inList=true;} html+='<li>'+inline(line.slice(2))+'</li>'; return; }
+      flush(); html+='<p>'+inline(line)+'</p>';
+    });
+    flush(); return html;
+  }
+  function fresh(date, review){
+    if(!date) return {cls:'warn', txt:'ไม่ระบุวันที่'};
+    const m=(Date.now()-new Date(date+'T00:00:00'))/(86400000*30);
+    const r=review||6, mr=Math.round(m);
+    if(m<r/2) return {cls:'ok',  txt:(mr<1?'ใหม่':mr+' เดือน')+' · สดอยู่'};
+    if(m<r)   return {cls:'warn',txt:mr+' เดือน · ลองเช็ค'};
+    return {cls:'bad', txt:mr+' เดือน · ควรรีวิว'};
+  }
+  function tagsHtml(t){
+    if(!t) return '';
+    return t.split(',').map(x=>x.trim()).filter(Boolean).map(x=>'<span class="tag">'+esc(x)+'</span>').join('');
+  }
+  function preview(body){
+    const para=(body||'').split(/\n\s*\n/).map(s=>s.trim()).find(s=>s && !s.startsWith('#'))||'';
+    const p=para.replace(/\*\*/g,'').replace(/\[\[([a-z0-9-]+)\]\]/g,'$1').replace(/^- /,'');
+    return p.length>90 ? esc(p.slice(0,90))+'…' : esc(p);
+  }
+
+  function renderList(filter){
+    const f=(filter||'').toLowerCase().trim();
+    const items=N.filter(n=> !f || n.title.toLowerCase().includes(f) || (n.body||'').toLowerCase().includes(f) || (n.tickers||'').toLowerCase().includes(f));
+    countEl.textContent=items.length+' รายการ';
+    if(!items.length){ listEl.innerHTML='<p class="empty">ไม่พบข้อมูล</p>'; return; }
+    listEl.innerHTML=items.map(n=>{
+      const fr=fresh(n.date,n.review);
+      return '<div class="note-card" data-slug="'+n.slug+'">'
+        +'<div class="nc-top"><div><div class="nc-title">'+esc(n.title)+'</div><div class="tags">'+tagsHtml(n.tickers)+'</div></div>'
+        +'<span class="badge '+fr.cls+'">'+fr.txt+'</span></div>'
+        +'<p class="nc-prev">'+preview(n.body)+'</p>'
+        +(n.stale?'<div class="nc-stale">⏰ จะล้าสมัยเมื่อ: '+esc(n.stale)+'</div>':'')
+        +'</div>';
+    }).join('');
+  }
+
+  function openNote(slug){
+    const n=N.find(x=>x.slug===slug); if(!n) return;
+    const fr=fresh(n.date,n.review);
+    document.getElementById('article').innerHTML=
+      '<h1 class="r-title">'+esc(n.title)+'</h1>'
+      +'<div class="r-meta"><span>'+(n.date||'')+'</span><span class="badge '+fr.cls+'">'+fr.txt+'</span><span class="tags">'+tagsHtml(n.tickers)+'</span></div>'
+      +(n.stale?'<div class="r-stale">⏰ จะล้าสมัยเมื่อ: '+esc(n.stale)+'</div>':'')
+      +'<div class="md">'+mdToHtml(n.body)+'</div>';
+    listView.style.display='none'; readerView.style.display='block';
+    window.scrollTo(0,0);
+  }
+
+  listEl.addEventListener('click',e=>{ const c=e.target.closest('.note-card'); if(c) openNote(c.dataset.slug); });
+  document.getElementById('back').addEventListener('click',()=>{ readerView.style.display='none'; listView.style.display='block'; });
+  document.getElementById('q').addEventListener('input',e=>renderList(e.target.value));
+
+  renderList('');
+</script>
+</body>
+</html>
