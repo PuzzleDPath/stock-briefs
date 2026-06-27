@@ -1,0 +1,11 @@
+/* Shared design tokens for all pages (briefs, glossary, notes, team).
+   แก้สี/ฟอนต์ที่นี่ที่เดียว มีผลทุกหน้า. Page-specific tokens (verdict / freshness)
+   ยังอยู่ใน <style> ของแต่ละหน้า. */
+:root{
+  --paper:#efe6d8; --paper-2:#e7dcca; --card:#f8f2e8; --card-2:#fbf7ee;
+  --ink:#34291d; --ink-soft:#715f49; --ink-faint:#9c8a6f;
+  --line:#d8c8ac; --line-soft:#e4d7bf; --accent:#8a6f52; --accent-deep:#5e5038;
+  --display:'Patrick Hand','Mali',cursive;
+  --body:'Nunito Sans','Mali',system-ui,sans-serif;
+  --mono:'Patrick Hand','Mali',cursive;
+}
