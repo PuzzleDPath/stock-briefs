@@ -1,82 +1,81 @@
 # ASML — ASML Holding N.V.
-_Brief generated: 2026-06-26_
+_Brief generated: 2026-06-27_
 
 ## 1. Company snapshot
 
-ASML Holding N.V. เป็นบริษัทดัตช์ที่ผลิตเครื่องจักร lithography — พูดง่ายๆ คือเครื่องที่ใช้ "วาดลาย" วงจรลงบนซิลิคอนเพื่อทำชิป ASML เป็น**ผู้ผลิตรายเดียวในโลก**ที่ทำเครื่อง EUV (Extreme Ultraviolet) ซึ่งเป็นเทคโนโลยีที่ไม่มีใครเทียบได้และจำเป็นต้องใช้ในการผลิตชิปขั้นสูงที่สุด ลูกค้าหลักคือ fab ชิปรายใหญ่ระดับโลกอย่าง TSMC, Samsung, Intel — ถ้าใครอยากผลิตชิประดับท็อป ไม่มีทางเลือกอื่นนอกจากซื้อเครื่องจาก ASML รายได้มาจากสองส่วนหลัก: ขายเครื่องระบบใหม่ (EUV + DUV) และ Installed Base Management ซึ่งเป็นบริการ/อัปเกรดเครื่องที่ลูกค้ามีอยู่แล้ว — ส่วนหลังโตเร็วกว่าและมี recurring ชัดขึ้นทุกปี
+ASML เป็นบริษัทเนเธอร์แลนด์ที่ผลิตเครื่องจักร "พิมพ์ลายวงจร" (lithography) สำหรับโรงงานทำชิป และเป็น**เจ้าเดียวในโลก**ที่ทำเครื่อง EUV ได้ — เครื่องที่จำเป็นต่อการผลิตชิปขั้นสูงสุด (ชิป AI/มือถือรุ่นใหม่ทำไม่ได้ถ้าไม่มีเครื่องนี้) ลูกค้าคือโรงงานชิปรายใหญ่สุดของโลก เช่น TSMC, Samsung, Intel รายได้มาจาก 2 ทาง: ขายเครื่องใหม่ กับบริการดูแล/อัปเกรดเครื่องที่ขายไปแล้ว (recurring — installed base management)
 
 ## 2. Fundamentals signal
 
-- **Revenue เร่งขึ้นจริง ไม่ใช่แค่ทรงตัว:** €27.6B (FY2023) → €28.3B (FY2024) → €32.7B (FY2025) โดยปี 2025 โต +15.5% YoY เร็วกว่าปีก่อน และ Installed Base Management โตเร็วกว่าที่ +26.2% YoY (€8.2B ปี 2025) — สัญญาณว่า revenue mix กำลัง shift มา recurring มากขึ้น
-- **Gross margin เดินขึ้น ไม่ใช่แค่รักษาระดับ:** 51.3% (FY2023–2024) → 52.8% (FY2025) กับ 2030 target ที่ 56–60% — mix shift ไป EUV มากขึ้นจะดันมาร์จิ้นต่อเนื่อง
-- **Balance sheet แข็งแกร่ง FCF ล้น:** เงินสด €13.3B + capex แค่ ~€470M/ปี + FCF ~€10.9B ปี 2025 — ไม่ต้องกู้เพื่อเติบโตและยังมีเงินเหลือคืนผู้ถือหุ้นอีกมาก
-- **Backlog ใหญ่กว่า 1 ปีรายได้ = visibility สูง:** €38.8B ณ สิ้นปี 2025 เทียบกับ FY2026 guidance €36–40B — รายได้ 1–2 ปีข้างหน้าเห็นได้ค่อนข้างชัดก่อนออก order ใหม่ (หมายเหตุ: backlog ไม่ใช่ take-or-pay เคย cancel ได้ในอดีต)
-- **Capital allocation ชัดเจน:** ปี 2025 คืนให้ผู้ถือหุ้น €8.5B (ปันผล +17% YoY + buyback) + โปรแกรม buyback ใหม่ €12B ถึงปี 2028
+- **รายได้กลับมาเร่ง:** €27.6B (2023) → €28.3B (2024) → €32.7B (2025, +15.5%) ฝั่งบริการ installed base โตเร็วสุด +26% (€8.2B) — ฐานรายได้ recurring กำลังหนักขึ้น
+- **กำไรโตเร็วกว่ารายได้:** net income €7.6B (2024) → €9.6B (2025, +26%); gross margin 51.3% → 52.8% สัญญาณว่า operating leverage ทำงาน
+- **งบแข็งมาก:** เงินสด+ลงทุนระยะสั้น €13.3B, FCF ~€10.9B ขณะที่ capex แค่ €470M
+- **คืนเงินผู้ถือหุ้นสม่ำเสมอ:** ปี 2025 คืน €8.5B (ปันผล €7.50/หุ้น +17% + buyback) ประกาศ buyback ใหม่ ≤€12B ถึงปี 2028
+- **Backlog ใหญ่กว่ารายได้ทั้งปี:** order book €38.8B สิ้นปี 2025 (Q4 bookings €13.2B, EUV €7.4B) ช่วยมองรายได้ล่วงหน้าได้ระดับหนึ่ง
 
-## 3. Latest earnings
+## 3. Latest earnings (Q1 2026, call 15 เม.ย. 2026)
 
-ข้อมูลจาก Q1 2026 earnings call:
-
-- Revenue Q1 2026: €8.8B — beat consensus ที่ €8.66B (source: sources/ASML/q1-2026-call.md)
-- Net income: €2.8B (31.4% ของ net sales), EPS €7.15 (source: sources/ASML/q1-2026-call.md)
-- Gross margin: 53% — อยู่ที่ high end ของ guidance (source: sources/ASML/q1-2026-call.md)
-- ส่วนแบ่ง segment: EUV €4.1B (รวม High-NA สองเครื่อง) + DUV €2.1B + Installed Base Management €2.5B (เหนือ expectation) (source: sources/ASML/q1-2026-call.md)
-- FY2026 guidance: raised เป็น €36–40B (จาก €34–39B เดิม), weighted toward H2 (source: sources/ASML/q1-2026-call.md)
-- Guidance Q2 2026: revenue €8.4–9.0B, gross margin 51–52% — sequential dip เล็กน้อยก่อน H2 ramp (source: sources/ASML/q1-2026-call.md)
-- Memory customers "sold out ทั้งปี 2026" ตาม CFO — demand signal ไม่ใช่ supply constraint (source: sources/ASML/q1-2026-call.md)
-- High-NA EUV: ผ่าน >500,000 wafers processed แล้ว, availability >80% — milestone ที่ลด adoption risk ของลูกค้า (source: sources/ASML/q1-2026-call.md)
+- รายได้ €8.8B เกินคาด (€8.66B); net income €2.8B (31.4% ของยอดขาย); EPS €7.15; gross margin 53% (source: sources/ASML/q1-2026-call.md)
+- ยอดขายเครื่องใหม่ €6.3B: EUV €4.1B (รวม High-NA 2 เครื่อง), DUV/อื่นๆ €2.1B; สัดส่วน Logic 49% / Memory 51% (source: sources/ASML/q1-2026-call.md)
+- รายได้บริการ (installed base management) €2.5B; R&D €1.2B; tax rate 17.1% (source: sources/ASML/q1-2026-call.md)
+- **Guidance FY2026:** รายได้ €36–40B, GM 51–53%, รายได้เอนไปครึ่งปีหลัง; แผนผลิต Low-NA EUV ≥60 เครื่องปี 2026, ≥80 เครื่องปี 2027 _(ตัวเลข €36–40B จาก Q1 call ซึ่งปรับขึ้นแล้ว — 20-F/ข่าวเก่ายังเป็น €34–39B)_ (source: sources/ASML/q1-2026-call.md)
+- ฝั่ง Memory "จองเต็มทั้งปีที่เหลือ" — ดีมานด์ AI ดันชิปหน่วยความจำ; High-NA คืบหน้า (>500k wafers, availability >80%, สาธิตแหล่งกำเนิด 1,000W) (source: sources/ASML/q1-2026-call.md)
+- ⚠️ transcript ที่ดึงมา**ไม่มีตัวเลข bookings/ยอดสั่งซื้อใหม่**ของ Q1 — ไม่เติมจากความจำ
 
 ## 4. Bull case / Bear case
 
-**Bull case:**
-- **Moat จาก switching cost + scale economies ที่ไม่มีใครตามได้:** ASML ใช้เวลา 30+ ปีสร้าง EUV ร่วมกับ TSMC/Samsung — ไม่มีคู่แข่งที่มีเครื่อง EUV เลยแม้แต่รายเดียว และ High-NA EUV รุ่นต่อไปกำลัง widen the gap ออกไปอีก
-- **AI demand เป็น structural tailwind ไม่ใช่ cyclical:** ทุก GPU, HBM, AI accelerator ที่โลกต้องการผลิตผ่านเครื่อง ASML — memory customers sold out ปี 2026 แล้ว (หมายเหตุ: brief ยังไม่มีตัวเลข AI-specific % ของ backlog — เป็น narrative ที่ฟังดูดีแต่ยังไม่มีตัวเลขรองรับ)
-- **Backlog €38.8B + IBM growing 26% YoY = revenue visibility สูงผิดปกติ:** รายได้ใน 1–2 ปีข้างหน้าเห็นค่อนข้างชัด ก่อนที่จะต้องรับ order ใหม่
+**Bull case**
+- **Monopoly บน EUV จริง** — ไม่มีคู่แข่งทำเครื่องนี้ได้เลย power มาจาก cost advantage + scale economies + know-how สะสมหลายสิบปีที่ลอกไม่ได้ข้ามคืน → มี pricing power และลูกค้าต้องพึ่ง (switching cost = ไม่มีทางเลือกอื่น)
+- ดีมานด์ AI ดันทั้ง logic และ memory; backlog €38.8B + memory จองเต็มทั้งปี ให้ visibility ระดับหนึ่ง
+- ฐานบริการ recurring โตเร็ว (+26%) ลดความผันผวนเวลาวงจรขายเครื่องแกว่ง
 
-**Bear case:**
-- **China revenue กำลังหายออกเร็วกว่า non-China fab demand จะรองรับได้:** China = **~33% ของ revenue FY2025** (~€10.8B) — confirmed จาก ASML Q4 2025 press release สูงกว่า management guidance ที่ตั้งไว้ที่ ~20% มาก กำลัง shift ลงปี 2026 แต่ยังไม่ถึง 20% ถ้า DUV immersion ban เพิ่มเติมผ่าน China revenue อาจร่วงกะทันหัน; **China % ของ backlog €38.8B ไม่ได้ประกาศสำหรับสิ้นปี 2025** — ตัวเลขล่าสุดที่มีคือ ~20% ของ backlog จาก Q1 2024 earnings call (implies ~€7.8B) แต่ตัวเลขนี้อาจเปลี่ยนไปแล้วหลังจาก pull-forward surge ปี 2024; EUV portion ของ backlog (~65% ของมูลค่า) = zero-China เพราะแบนอยู่แล้ว ดังนั้น China exposure อยู่ใน DUV portion เท่านั้น
-- **Customer concentration: top 2 รวมกัน ~38% ของรายได้ (ตัวเลขจากข่าว — ไม่อยู่ใน 10-K/transcript)** — ในทางปฏิบัติคือ TSMC + Samsung แทบแน่ ถ้า TSMC ต้องชะลอ EUV order เพราะ ROI ของ US fab ไม่ผ่าน internal hurdle rate — ASML ไม่มีลูกค้า spot ที่จะมาซื้อแทนได้ทันที เพราะ EUV machine มีราคา >€350M ต่อเครื่อง
-- **High-NA EUV timeline ไม่แน่นอน:** brief มี >500K wafer milestone แต่ไม่มีตัวเลข revenue contribution แยก และยังไม่มี public commitment จาก Intel/Samsung สำหรับ volume production ก่อนปี 2027 ถ้า TSMC ยืดอายุ N2 process ออกไป ความต้องการ High-NA จะ delay โดยที่ ASML บังคับไม่ได้
+**Bear case** (จาก Rey)
+- **China คือความเสี่ยงอันดับ 1 และเราไม่รู้ขนาดมันด้วยซ้ำ:** มิ.ย. 2026 มี 3 แรงกดพร้อมกัน (สหรัฐกังวล EUV หลุดถึงจีน, bipartisan bill จ่อจำกัด DUV export ไปจีน, หุ้นร่วง 7.8% วันเดียวจากแค่ "ความกังวล" ยังไม่ใช่คำสั่งจริง) = ตลาดมองรายได้จีนเป็นก้อนใหญ่และเปราะ เป็น single point of failure ที่อยู่นอกการควบคุมบริษัท ขึ้นกับการเมืองสหรัฐ-เนเธอร์แลนด์-จีน ⚠️ **% รายได้จากจีนไม่มีอยู่ใน source ที่เรามี** (ทั้ง 20-F และ transcript) — ต้องไปหา geographic revenue breakdown จาก annual report เองก่อนตัดสินใจ
+- **"Memory จองเต็มทั้งปี" + guidance เอนครึ่งปีหลัง = สูตรของการ miss:** transcript Q1 ไม่มีตัวเลข bookings ใหม่มา cross-check claim เหล่านี้; backlog ในอุตสาหกรรมนี้ลูกค้า "เลื่อน" (push out) ได้ และเคยเลื่อนมาแล้วในรอบ down-cycle — backlog ไม่ใช่เงินในกระเป๋า
+- **High-NA EUV (เสาหลัก growth รอบหน้า) ยังพิสูจน์ไม่ได้ที่ scale:** Q1 ขายแค่ 2 เครื่อง, availability >80% (ยัง down ~20%), ยังไม่มีหลักฐานว่าลูกค้านำไป mass production จริง (ไม่ใช่ R&D) — ถ้า adoption ช้ากว่าแผน growth หลังปี 2027 จะกลวง
 
-## 5. Kill conditions
+## 5. Kill conditions (จาก Rey)
 
-- **ถ้า TSMC หรือ Samsung ลด capex guidance >10% ติดกัน 2 ไตรมาส** หรือมีการ push EUV delivery ออกไป 2+ ไตรมาสในแถลงการณ์ earnings — ให้ review thesis ทันที ดู TSMC quarterly earnings หัวข้อ capex guidance ทุก 3 เดือน
-- **ถ้า China revenue ลงต่ำกว่า 10% ของรายได้รวมใน 2 ไตรมาสติด โดยที่ non-China revenue growth ไม่ถึง >20% YoY ในไตรมาสเดียวกัน** — FY guidance จะ miss กลาง-ล่าง range และ thesis ที่ว่า "China loss ไม่เป็นไร" จะพัง ดู China segment % ใน ASML quarterly report
-- **ถ้า High-NA EUV installed base ยังต่ำกว่า 10 เครื่องทั่วโลกในปลาย 2027 และยังไม่มี customer ประกาศ volume production node ที่ใช้ High-NA จริง** — growth story ที่ justify valuation ปัจจุบันยังไม่เกิด ต้อง re-evaluate ดู ASML annual report ส่วน "systems shipped" แยก EUV/High-NA + ประกาศจาก TSMC/Intel
+- **รายได้จีนถูกตัด:** ถ้า DUV export bill ผ่านสภาสหรัฐและบังคับใช้ หรือ ASML รายงานรายได้จีนรายไตรมาสร่วงต่ำกว่า ~15% ของรายได้รวม → ทบทวน/ออก _(monitor: ผลโหวต bill + geographic revenue breakdown ทุกไตรมาส เริ่ม Q2 วันที่ 15 ก.ค. 2026)_
+- **Guidance ครึ่งปีหลังไม่มา:** ถ้า Q2 2026 รายได้ต่ำกว่า low-end ของ guide หรือบริษัทหั่น FY2026 ออกจากกรอบ €36–40B หรือ bookings ยังเงียบ (ไม่ report เป็นตัวเลข) 2 ไตรมาสติด → thesis AI demand แตก
+- **High-NA ไม่ scale:** ถ้าสิ้นปี 2026 ส่งมอบ High-NA ต่ำกว่าที่ guide ชัดเจน หรือไม่มีลูกค้ารายใดประกาศใช้ High-NA ใน mass production → growth หลังปี 2027 ไม่มีจริง _(monitor: นับจำนวน High-NA ที่ ship ต่อไตรมาส, baseline Q1 = 2 เครื่อง)_
 
 ## 6. What to ask before owning it
 
-1. ถ้า China revenue หายไปทั้งหมด ASML ยังโตได้ด้วยตลาดอื่นไหม — ลองคำนวณ: ถ้า China คิดเป็น ~20% ของ backlog แล้วหาย รายได้ที่ต้องหาทดแทนคือเท่าไหร่ และ Europe/US/Korea จะขยายได้ทันไหม
-2. ทำไม TSMC ถึงไม่พยายามทำเครื่อง EUV เอง — คำตอบนี้บอกเยอะเรื่อง switching cost และ barrier to entry จริงๆ
-3. ราคาหุ้นตอนนี้สะท้อน growth ไปแค่ไหนแล้ว — ดู P/E เทียบกับ TSMC, KLA, LAM Research ที่อยู่ใน semiconductor equipment chain เดียวกัน
-4. High-NA EUV ที่กำลัง ramp — TSMC และ Samsung ให้ commitment ชัดแค่ไหน หรือยังอยู่ในช่วง R&D อยู่
-5. ถ้า semiconductor cycle ลงในปี 2027 ASML จะ defend margin ไหวไหม — ดูว่า FY2023 ที่โตช้ามาก ASML รักษา margin ไว้ได้แค่ไหน (ตรวจสอบตัวเลขจาก 20-F)
+- ดีมานด์ AI ที่ดันอยู่ตอนนี้ ถ้ารอบ capex ของลูกค้าพีคแล้วลง รายได้ ASML จะเป็นยังไง — ฉันเข้าใจ cycle ของอุตสาหกรรมชิปดีพอไหม?
+- **รายได้จากจีนคิดเป็นกี่ % และถ้าจีนกลายเป็นศูนย์ รายได้เหลือเท่าไหร่?** (ตัวเลขนี้ไม่อยู่ใน source — ต้องไปหาเองก่อนกดซื้อ ตามกฎตัวเอง: ถ้ายังตอบไม่ได้ = ไม่ซื้อ)
+- monopoly EUV จะอยู่ได้อีกนานแค่ไหน — มีเทคโนโลยีอื่นมาแทน หรือคู่แข่งจริงจังในอนาคตไหม?
+- ฉันจะซื้อที่ valuation เท่าไหร่ ราคาตอนนี้สะท้อนการเติบโตที่คาดไว้มากแค่ไหน? (ให้ Cypher ดู)
+- รายได้ที่เอนไปครึ่งปีหลัง 2026 ถ้าไม่มาตามคาด ฉันจะรู้ได้ยังไงว่า thesis เริ่มพัง? (เริ่มดูที่ Q2 earnings 15 ก.ค.)
 
 ## Verdict (Neon)
 
-**WATCH** — Moat แข็งแกร่งที่สุดในบรรดาตัวที่ brief มาทั้งหมด แต่ยังมีคำถามค้างอยู่ก่อนจะ commit
+**Verdict: BUY**
 
-- **Moat quality: Strong** — switching cost จาก fab process dependency ที่ลูกค้าต้อง calibrate process ทั้งหมดรอบ ASML tool + scale economies จาก R&D 30+ ปีที่ไม่มีใคร replicate ได้ moat ที่ใครก็ลอกไม่ได้จริงๆ
-- **Long-term fit:** เหมาะกับ 1yr+ holding แต่ยังไม่ถึงเวลากดซื้อ — คำถามเรื่อง China revenue cliff และ High-NA volume commitment ยังค้างอยู่ และตามกฎที่ตั้งไว้เอง "ไม่ซื้อถ้ายังตอบคำถามตัวเองไม่ได้หมด"
-- **Portfolio fit:** cash 17%, NOW 52% — ก้อนที่จะซื้อ ASML ต้องตัดสินใจก่อนว่ามาจากไหน ควร run Lucas ก่อน rebalance
-- **สรุป:** ASML มี moat จริง fundamentals ดี แต่ราคาปัจจุบันอาจ price in growth แล้วบางส่วน + China risk ยังเป็น overhang ที่ยังไม่ resolve — ตอบคำถาม 6 ข้อก่อน แล้วค่อย revisit ที่ Q2 earnings (July 15, 2026)
+ASML ผูกขาดเครื่อง EUV เด็ดขาดด้วย know-how หลายสิบปี + scale + switching cost มหาศาล และ fundamental เร่งจริงทั้งรายได้ กำไร และฐานบริการ recurring ไม่ใช่แค่ราคาวิ่ง
 
-_ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของคุณเสมอ_
+### เหตุผล 3 ข้อ
+- **Moat ระดับหายากมาก:** เจ้าเดียวในโลกที่ทำเครื่อง EUV ได้ — power มาจาก cost advantage + scale + know-how ที่คู่แข่งลอกไม่ได้ ลูกค้า (TSMC/Samsung/Intel) ไม่มีทางเลือกอื่นในการผลิตชิปขั้นสูง = switching cost สูงสุด
+- **Fundamental รองรับ ไม่ใช่ momentum:** รายได้ +15.5%, net income +26%, GM ขยับขึ้น, FCF €10.9B, งบแข็ง (เงินสด €13.3B) — กำไรโตเร็วกว่ารายได้ ไม่พึ่ง macro/Fed
+- **thesis ยืนได้ 1-3 ปี:** ดีมานด์ AI ดันทั้ง logic และ memory + ฐานบริการ recurring ลดความผันผวน
+
+### Risk ที่ต้องรู้ก่อน DCA
+- China = single point of failure นอกการควบคุมบริษัท (และเรายังไม่รู้ % รายได้จีนด้วยซ้ำ)
+- Guidance ครึ่งปีหลัง verify ไม่ได้ (transcript ไม่มี bookings cross-check) = miss ได้ง่าย
+- High-NA ยังไม่พิสูจน์ที่ scale (Q1 ขายแค่ 2 เครื่อง)
+
+### Competitive advantage: Strong
+เหตุผล: ผูกขาด EUV 100% ด้วย know-how + scale + cost advantage ที่ไม่มีใครลอกได้ในรอบหลายปีข้างหน้า
+
+### Momentum trap check
+ผ่าน — หุ้นร่วง 7.8% (ไม่ใช่วิ่งขึ้น) เหตุผลที่น่าสนใจมาจาก fundamental ที่เร่งจริง ไม่ใช่ข่าวดีระยะสั้น/analyst upgrade
+
+> verdict นี้ตัดสินเฉพาะ "ตัวหุ้นดีพอไหม" เท่านั้น จังหวะ/ราคา/ขนาดไม้ ส่งต่อให้ Cypher (valuation) + Lucas (allocation) — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ
 
 ## Fact Check (Eve)
 
-**Source files checked:** `sources/ASML/20-f-latest.md`, `sources/ASML/q1-2026-call.md`, `sources/ASML/news-latest.md`
+ตรวจกับ `sources/ASML/` (20-f-latest.md, q1-2026-call.md, news-latest.md) — **confirmed 38 รายการ**
 
-**Confirmed (22 ตัวเลข):** Revenue FY2023–2025, gross margin FY2023–2025, 2030 margin target 56–60%, cash €13.3B, capex €470M, FCF €10.9B, backlog €38.8B, shareholder return €8.5B, buyback €12B/2028, IBM +26.2% YoY, Q1 2026 revenue €8.8B, net income €2.8B (31.4%), EPS €7.15, gross margin 53%, EUV/DUV/IBM segment breakdown, FY2026 guidance €36–40B (raised from €34–39B), H2 weighted, memory "sold out," High-NA >500K wafers + >80% availability, Q2 earnings July 15 2026
-
-**อัปเดตหลัง Eve:**
-- China revenue ~33% FY2025 → **confirmed จาก ASML Q4 2025 press release** (SEC Form 6-K) — อัปเดตใน Section 4 แล้ว ลบ tag "ตัวเลขจากข่าว" ออก
-- China backlog %: ~20% จาก Q1 2024 earnings call เป็นตัวเลขเดียวที่มี สิ้นปี 2025 ไม่ได้ประกาศ — ระบุไว้ใน Section 4 แล้ว
-
-**Unconfirmed / จากข่าว (3 รายการที่เหลือ — ทำเครื่องหมายไว้ใน brief แล้ว):**
-- China ~20% target → management guidance (marked ในข้อ 4)
-- DUV ban impact estimate → analytical scenario ไม่ใช่ reported figure (marked ในข้อ 4)
-- Top 2 customers ~38% → ไม่อยู่ใน 10-K/transcript (marked ในข้อ 4)
-- FY2023 growth rate % → FY2022 ไม่อยู่ใน source (ลบ % ออกจากข้อ 6 แล้ว)
-
-**Hard stop check:** 5/27 = 18.5% unconfirmed < 50% threshold — ผ่าน ทุกตัวที่ unconfirmed ถูกทำเครื่องหมายหรือแก้ไขใน body แล้ว
+- ✅ **Confirmed:** ตัวเลข FY (รายได้/margin/net income/FCF/capex/buyback/backlog/Q4 bookings), Q1 2026 ทั้งหมด (รายได้/EPS/GM/system sales/EUV-DUV split/IBM/R&D/tax), guidance Q2, แผนผลิต EUV, ข่าว+analyst moves มิ.ย. 2026 ทั้งหมด
+- ⚠️ **Conflict:** FY2026 revenue guidance — Q1 call ว่า €36–40B (ใช้ตัวนี้ ล่าสุด) แต่ 20-F/news ยังเป็น €34–39B (กำกับไว้ในบอดี้แล้ว)
+- ❌ **No source:** ตัวเลข % รายได้จีน (~25-40% ที่ Rey อ้าง) **ไม่มีในไฟล์ source ใดเลย** — จึงไม่ใส่เป็น fact ในบอดี้ ระบุชัดว่าต้องไปหาเอง
