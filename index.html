@@ -110,6 +110,17 @@
   }
   .r-verdict .vlbl{ font-size:10px; color:var(--ink-faint); letter-spacing:.06em; text-transform:uppercase; }
 
+  /* read-mode toggle (only shown when a brief has an "อ่านง่าย" block) */
+  .r-toggle{ display:inline-flex; gap:4px; margin:14px 0 6px; padding:4px;
+    background:var(--card); border:1px solid var(--line); border-radius:999px; }
+  .r-toggle button{
+    font-family:var(--display); font-size:14px; font-weight:600; cursor:pointer;
+    padding:5px 18px; border-radius:999px; border:none; background:transparent; color:var(--ink-soft);
+    transition:background .12s, color .12s;
+  }
+  .r-toggle button:hover{ color:var(--ink); }
+  .r-toggle button.active{ background:var(--accent); color:var(--paper); }
+
   /* rendered markdown */
   .md-body{ font-size:15.5px; line-height:1.8; color:var(--ink); }
   .md-body p{ margin:.7em 0; }
@@ -218,6 +229,28 @@
   let filter='all', search='', selected=null;
   const mdCache = {};  // cache fetched .md content in memory
 
+  // read mode: 'easy' = อ่านง่าย summary only, 'full' = thesis เต็ม. default อ่านง่าย.
+  let readMode = 'easy';
+  try{ readMode = localStorage.getItem('sb_readmode') || 'easy'; }catch(e){}
+
+  // Split a brief into its "อ่านง่าย" block and the full thesis (with that block removed).
+  // The อ่านง่าย block is the first H2 in the doc whose title does NOT start with a digit
+  // (numbered sections like "## 1. Company snapshot" are the thesis). Encoding-independent.
+  function splitBrief(md){
+    const lines = md.replace(/\r/g,'').split('\n');
+    let start = -1;
+    for(let i=0;i<lines.length;i++){
+      const m = lines[i].match(/^##\s+(.*\S)\s*$/);
+      if(m){ if(!/^\d/.test(m[1])) start = i; break; }  // inspect only the first H2
+    }
+    if(start === -1) return { hasEasy:false, easy:'', full:md };
+    let end = lines.length;
+    for(let i=start+1;i<lines.length;i++){ if(/^##\s+/.test(lines[i])){ end = i; break; } }
+    const easy = lines.slice(start+1, end).join('\n').trim();
+    const full = lines.slice(0, start).concat(lines.slice(end)).join('\n').trim();
+    return { hasEasy:true, easy, full };
+  }
+
   const listEl = document.getElementById('list');
   const briefEl = document.getElementById('brief');
   const shell   = document.getElementById('shell');
@@ -255,6 +288,14 @@
     const vbadge = b.verdict==='none'
       ? `<div class="r-verdict"><span class="vbig v-none" style="border-color:var(--none);color:var(--none)">— no verdict</span><span class="vlbl">ยังไม่สรุป</span></div>`
       : `<div class="r-verdict"><span class="vbig v-${b.verdict}">${VLABEL[b.verdict]}</span><span class="vlbl">verdict</span></div>`;
+    const parts = splitBrief(mdText);
+    const showEasy = parts.hasEasy && readMode === 'easy';
+    const bodyMd = showEasy ? parts.easy : parts.full;
+    const toggle = parts.hasEasy ? `
+      <div class="r-toggle" id="rtoggle">
+        <button data-m="easy" class="${readMode==='easy'?'active':''}">อ่านง่าย</button>
+        <button data-m="full" class="${readMode==='full'?'active':''}">ฉบับเต็ม</button>
+      </div>` : '';
     briefEl.innerHTML = `
       <div class="r-head">
         <div class="r-meta">
@@ -264,7 +305,15 @@
         </div>
         ${vbadge}
       </div>
-      <div class="md-body">${renderBrief(mdText)}</div>`;
+      ${toggle}
+      <div class="md-body">${renderBrief(bodyMd)}</div>`;
+    const tg = document.getElementById('rtoggle');
+    if(tg) tg.addEventListener('click', e=>{
+      const btn = e.target.closest('button'); if(!btn) return;
+      readMode = btn.dataset.m;
+      try{ localStorage.setItem('sb_readmode', readMode); }catch(e){}
+      renderReader(b, mdText);
+    });
     document.getElementById('reader').scrollTop=0;
   }
 
