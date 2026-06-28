@@ -10,7 +10,7 @@ window.MANIFEST = [
     {
         "tk":  "AMD",
         "co":  "Advanced Micro Devices",
-        "date":  "2026-06-12",
+        "date":  "2026-06-28",
         "verdict":  "watch",
         "one":  "AMD มีข้อได้เปรียบด้าน CPU ที่วัดได้จากตัวเลขจริง และ AI GPU กำลัง convert เป็น "
     },
