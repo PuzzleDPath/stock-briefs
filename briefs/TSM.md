@@ -66,15 +66,20 @@ TSMC (Taiwan Semiconductor Manufacturing Company) คือโรงงานผ
 
 ## Verdict (Neon)
 
-**BUY** — moat มาจาก 2 power type ที่ reinforcing กัน: **switching cost** (Apple/NVIDIA ต้องใช้ 2-3 ปีในการ re-tape-out และ re-qualify) + **scale economies** (เป็นเจ้าเดียวที่ yield advanced node ใน volume ได้ → ต้นทุนต่ำสุดในอุตสาหกรรม)
+**BUY**
 
-- Moat: ✅ Switching cost + Scale economies — ขึ้นราคา 5-10% ได้โดยลูกค้าหลักยังอยู่คือหลักฐานจับต้องได้
-- Competitive advantage: ✅ Strong — ไม่มีคู่แข่งที่ match yield และ volume ใน advanced node ได้ในปัจจุบัน
-- Macro dependency: ✅ ผ่าน — AI demand เป็น structural ไม่ใช่ Fed-rate-sensitive; revenue/EPS growth พิสูจน์ก่อนราคาวิ่ง
-- Momentum trap: ✅ ผ่าน — revenue +33.9%, EPS +39.9% YoY เกิดก่อนและสอดคล้องกับ demand จริง ไม่ใช่ราคาล้ำหน้า fundamental
-- Kill conditions: ✅ ตั้งได้ 5 ข้อวัดได้จริง มี threshold ชัด
+ความได้เปรียบแกร่งสุดในอุตสาหกรรมจาก switching cost + scale ที่คู่แข่งลอกไม่ได้
 
-⚠️ Risk ก่อน DCA: Capex intensity ทำให้ free cash flow บางกว่าที่ gross margin บอก; geopolitical risk คือ binary event (หุ้นลง 20-30%+ ได้โดยไม่มี fundamental เปลี่ยน) — ตอบคำถาม #3 ใน "What to ask" ให้ได้ก่อนซื้อ
+### เกณฑ์ 5 ข้อ
+- Moat: ✅ switching cost + scale economies = Strong — ขึ้นราคา 5-10% ได้โดยลูกค้าหลักยังอยู่ คือหลักฐานจับต้องได้
+- Growth: ✅ AI/HPC compute demand (structural) — โตทนยาว (revenue +33.9%, EPS +39.9% YoY และ demand ยืนยาว)
+- Macro: ✅ ไม่พึ่ง Fed — AI demand เป็น structural ไม่ใช่ rate-sensitive; growth พิสูจน์ก่อนราคาวิ่ง
+- Momentum trap: ✅ ผ่าน — revenue/EPS โตก่อนและสอดคล้องกับ demand จริง ไม่ใช่ราคาล้ำหน้า fundamental
+- Kill conditions: ✅ 5 ข้อวัดได้จริง มี threshold ชัด
+
+### Risk ก่อน DCA
+- Capex intensity ทำให้ free cash flow บางกว่าที่ gross margin บอก
+- Geopolitical risk เป็น binary event (หุ้นลง 20-30%+ ได้โดย fundamental ไม่เปลี่ยน) — ตอบคำถาม #3 ใน "What to ask" ให้ได้ก่อนซื้อ
 
 _verdict นี้มาจากข้อมูลใน brief วันที่ 2026-06-28 — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
 

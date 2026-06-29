@@ -65,17 +65,23 @@ IREN (เปลี่ยนชื่อจาก Iris Energy) เป็นบร
 
 **WATCH**
 
-IREN ติดที่ criteria 2 (ยังพิสูจน์ strong advantage ด้วยตัวเลขไม่ได้ — cost/kWh advantage เป็น claim ไม่ใช่ data) และ criteria 3 (thesis ยังผูกกับ BTC price อยู่ตราบใดที่ mining เป็น 77% ของ revenue)
+power ownership เป็น cost advantage จริงถ้า pivot สำเร็จ แต่ยังพิสูจน์ไม่ได้ และรายได้ยังพึ่ง BTC
 
-**เกณฑ์ที่ยังไม่ผ่าน:**
-- Competitive advantage ยังไม่ Strong: power ownership เป็น narrative ที่ดี แต่ไม่มีตัวเลข cost/kWh เทียบตลาดรองรับ
-- Thesis ยังพึ่ง macro บางส่วน: BTC price เป็น primary revenue driver ตราบใดที่ mining > AI Cloud
+### เกณฑ์ 5 ข้อ
+- Moat: ❌ cost advantage (power ownership 810 MW operating + 2,910 MW contracted) = ยังไม่ Strong — direction ถูกแต่ไม่มีตัวเลข cost/kWh เทียบตลาด เป็น claim ไม่ใช่ data
+- Growth: ✅ AI Cloud ramp (NVIDIA partnership) — โตเร็ว แต่ฐานยังเล็ก
+- Macro: ❌ พึ่ง BTC price — เป็น primary revenue driver ตราบใดที่ mining 77% > AI Cloud
+- Momentum trap: ✅ ผ่าน — contracted power capacity เป็น asset จริง ไม่ใช่แค่ข่าว
+- Kill conditions: ✅ วัดได้ ($100M/quarter AI Cloud, NVIDIA terms change, BTC + AI Cloud threshold)
 
-**เกณฑ์ที่ผ่าน:**
-- Kill conditions: specific วัดได้ ($80M/quarter AI Cloud, NVIDIA terms change, BTC + AI Cloud threshold)
-- Moat direction ถูก: ถ้า pivot สำเร็จ power ownership เป็น cost advantage จริง — แต่ยังไม่ proven
+### Risk ก่อน DCA
+- mining ยังเป็น 77% ของ revenue, business ยังขาดทุน
+- multi-front acquisition พร้อมกัน (Mirantis, Nostrum, Awaken) = execution risk สูง
 
-**จะเปลี่ยนจาก WATCH → พิจารณาใหม่เมื่อ:** AI Cloud revenue ผ่าน $100M/quarter สองไตรมาสติดกัน หรือ NVIDIA confirmed ว่า 600,000 GPU threshold ถึงแล้ว
+### จะเป็น BUY เมื่อ
+AI Cloud revenue ผ่าน $100M/quarter สองไตรมาสติดกัน หรือ NVIDIA confirmed ว่า 600,000 GPU threshold ถึงแล้ว
+
+_verdict นี้มาจากข้อมูลใน brief วันที่ 2026-06-29 — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
 
 ---
 

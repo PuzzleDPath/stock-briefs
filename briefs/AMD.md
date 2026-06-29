@@ -67,15 +67,23 @@ AMD (Advanced Micro Devices) ออกแบบและขายชิปปร
 
 ## Verdict (Neon)
 
-**WATCH** — revenue growth จริงและ kill conditions ครบ แต่ competitive advantage ยัง Moderate เพราะ:
+**WATCH**
 
-- Moat: ⚠️ ไม่ชัดเจน — AMD ไม่มี switching cost หรือ network effect ที่ TSMC หรือ NVIDIA มี ได้เปรียบเรื่อง price/performance บน inference tier แต่ยังไม่มีหลักฐาน training workload wins ที่ validate durable advantage
-- Competitive advantage: ⚠️ Moderate — เป็น strong #2 ใน CPU (vs Intel) แต่ยังไกลจาก #1 ใน AI GPU (vs NVIDIA)
-- Macro dependency: ✅ ผ่าน — growth driven by AI infrastructure demand ไม่ใช่ Fed rate
-- Momentum trap: ✅ ผ่าน — revenue +34% FY2025, EPS +43% Q1 2026 growth มาก่อนราคาวิ่ง
-- Kill conditions: ✅ ตั้งได้ครบ 5 ข้อ วัดได้จากตัวเลขจริง
+มี moat ใน CPU จริง (switching cost) แต่ฝั่ง AI GPU ยังไม่ Strong พอ รอพิสูจน์
 
-**จุดที่ต้องพลิกเป็น BUY:** hyperscaler ที่สอง (Azure, GCP, AWS) ยืนยัน MI-series deal + Data Center gross margin ยืนเหนือ 52% ผ่าน MI450 ramp + Embedded กลับมา >$1.2B/quarter
+### เกณฑ์ 5 ข้อ
+- Moat: ❌ switching cost (CPU/x86 design win) = Moderate — มีจริงใน CPU แต่ AI GPU ยังไม่มีหลักฐาน durable advantage (vs NVIDIA)
+- Growth: ✅ AI infrastructure + Data Center demand — โตเร็ว (revenue +34% FY2025, EPS +43% Q1 2026)
+- Macro: ✅ ไม่พึ่ง Fed — growth ขับด้วย AI infrastructure demand ไม่ใช่ rate
+- Momentum trap: ✅ ผ่าน — growth มาก่อนราคาวิ่ง
+- Kill conditions: ✅ 5 ข้อวัดได้จากตัวเลขจริง
+
+### Risk ก่อน DCA
+- เป็น strong #2 ใน CPU (vs Intel) แต่ยังไกลจาก #1 ใน AI GPU (vs NVIDIA) — competitive advantage ยัง Moderate
+- ได้เปรียบ price/performance บน inference tier แต่ยังไม่มีหลักฐาน training workload wins
+
+### จะเป็น BUY เมื่อ
+hyperscaler ที่สอง (Azure, GCP, AWS) ยืนยัน MI-series deal + Data Center gross margin ยืนเหนือ 52% ผ่าน MI450 ramp + Embedded กลับมา >$1.2B/quarter
 
 _verdict นี้มาจากข้อมูลใน brief วันที่ 2026-06-28 — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
 

@@ -12,7 +12,7 @@ window.MANIFEST = [
         "co":  "Advanced Micro Devices",
         "date":  "2026-06-28",
         "verdict":  "watch",
-        "one":  "AMD มีข้อได้เปรียบด้าน CPU ที่วัดได้จากตัวเลขจริง และ AI GPU กำลัง convert เป็น "
+        "one":  "AMD มีข้อได้เปรียบด้าน CPU ที่วัดได้จากตัวเลขจริง และ AI GPU กำลัง convert เป็น"
     },
     {
         "tk":  "AMZN",
@@ -82,7 +82,7 @@ window.MANIFEST = [
         "co":  "Iris Energy Limited",
         "date":  "2026-06-29",
         "verdict":  "watch",
-        "one":  "NVIDIA เลือก IREN เป็น strategic partner ระดับ $3.54B + $2.1B equity investment validate thesis อย่างแข็งแกร่ง และ power moat 810 MW operating + contracted 2,910 MW เป็นสิ่งที่คู่แข่งสร้างตามได้ยากในระยะสั้น อย่างไรก็ตาม mining ยังเป็น 77% ของ revenue, biz ยังขาดทุน, และ multi-front acquisition พร้อมกัน (Mirantis, Nostrum, Awaken) ทำให้ execution risk สูงเกินไปสำหรับ BUY"
+        "one":  "NVIDIA เลือก IREN เป็น strategic partner ระดับ $3.54B + $2.1B equity investment validate…"
     },
     {
         "tk":  "LLY",
@@ -103,7 +103,7 @@ window.MANIFEST = [
         "co":  "Marvell Technology",
         "date":  "2026-06-11",
         "verdict":  "watch",
-        "one":  "ธุรกิจมีข้อได้เปรียบที่ลูกค้าเปลี่ยนไปได้ยาก (switching cost จาก co-design ASIC design cycle) และ cash flow แข็ง"
+        "one":  "ธุรกิจมีข้อได้เปรียบที่ลูกค้าเปลี่ยนไปได้ยาก (switching cost จาก co-design ASIC design…"
     },
     {
         "tk":  "MSFT",

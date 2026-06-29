@@ -60,27 +60,23 @@ ASML เป็นบริษัทเนเธอร์แลนด์ที่
 
 ## Verdict (Neon)
 
-**Verdict: BUY**
+**BUY**
 
-ASML ผูกขาดเครื่อง EUV เด็ดขาดด้วย know-how หลายสิบปี + scale + switching cost มหาศาล และ fundamental เร่งจริงทั้งรายได้ กำไร และฐานบริการ recurring ไม่ใช่แค่ราคาวิ่ง
+ผูกขาดเครื่อง EUV 100% ด้วย know-how + scale ที่คู่แข่งลอกไม่ได้ และ fundamental เร่งจริง
 
-### เหตุผล 3 ข้อ
-- **Moat ระดับหายากมาก:** เจ้าเดียวในโลกที่ทำเครื่อง EUV ได้ — power มาจาก cost advantage + scale + know-how ที่คู่แข่งลอกไม่ได้ ลูกค้า (TSMC/Samsung/Intel) ไม่มีทางเลือกอื่นในการผลิตชิปขั้นสูง = switching cost สูงสุด
-- **Fundamental รองรับ ไม่ใช่ momentum:** รายได้ +15.5%, net income +26%, GM ขยับขึ้น, FCF €10.9B, งบแข็ง (เงินสด €13.3B) — กำไรโตเร็วกว่ารายได้ ไม่พึ่ง macro/Fed
-- **thesis ยืนได้ 1-3 ปี:** ดีมานด์ AI ดันทั้ง logic และ memory + ฐานบริการ recurring ลดความผันผวน
+### เกณฑ์ 5 ข้อ
+- Moat: ✅ cost advantage + scale + switching cost (ผูกขาด EUV 100%) = Strong — ลูกค้า (TSMC/Samsung/Intel) ไม่มีทางเลือกอื่นในการผลิตชิปขั้นสูง
+- Growth: ✅ AI litho demand (logic + memory) + ฐานบริการ recurring — โตทนยาว (รายได้ +15.5%, net income +26%)
+- Macro: ✅ ไม่พึ่ง Fed — กำไรโตเร็วกว่ารายได้ ดีมานด์ AI เป็น structural
+- Momentum trap: ✅ ผ่าน — หุ้นร่วง 7.8% (ไม่ใช่วิ่งขึ้น) ที่น่าสนใจมาจาก fundamental ที่เร่งจริง ไม่ใช่ข่าว/analyst upgrade
+- Kill conditions: ✅ ตั้งได้ วัดได้ มี threshold ชัด
 
-### Risk ที่ต้องรู้ก่อน DCA
-- China = single point of failure นอกการควบคุมบริษัท (และเรายังไม่รู้ % รายได้จีนด้วยซ้ำ)
+### Risk ก่อน DCA
+- China = single point of failure นอกการควบคุมบริษัท (และยังไม่รู้ % รายได้จีนด้วยซ้ำ)
 - Guidance ครึ่งปีหลัง verify ไม่ได้ (transcript ไม่มี bookings cross-check) = miss ได้ง่าย
 - High-NA ยังไม่พิสูจน์ที่ scale (Q1 ขายแค่ 2 เครื่อง)
 
-### Competitive advantage: Strong
-เหตุผล: ผูกขาด EUV 100% ด้วย know-how + scale + cost advantage ที่ไม่มีใครลอกได้ในรอบหลายปีข้างหน้า
-
-### Momentum trap check
-ผ่าน — หุ้นร่วง 7.8% (ไม่ใช่วิ่งขึ้น) เหตุผลที่น่าสนใจมาจาก fundamental ที่เร่งจริง ไม่ใช่ข่าวดีระยะสั้น/analyst upgrade
-
-> verdict นี้ตัดสินเฉพาะ "ตัวหุ้นดีพอไหม" เท่านั้น จังหวะ/ราคา/ขนาดไม้ ส่งต่อให้ Atlas (valuation) + Lucas (allocation) — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ
+_verdict นี้มาจากข้อมูลใน brief วันที่ 2026-06-27 — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
 
 ## Fact Check (Eve)
 
