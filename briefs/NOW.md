@@ -69,16 +69,18 @@ ServiceNow ทำซอฟต์แวร์คลาวด์ที่ให้
 
 **BUY**
 
-ServiceNow มี switching cost moat ที่วัดได้จาก renewal rate 97% บน base subscription $12.9B และ RPO $28B ที่ล็อกรายได้ล่วงหน้าเกิน 2 ปี ขณะที่ kill conditions ทุกข้อ specific วัดได้ และ thesis ไม่พึ่ง macro เลย
+switching cost ฝังระดับ workflow พิสูจน์ด้วย renewal 97% + RPO $28B ที่ล็อกรายได้เกิน 2 ปี
 
-**เกณฑ์ที่ผ่าน:**
-- Moat: switching cost จาก enterprise workflow integration ที่ฝังลึก พิสูจน์ด้วย renewal 97% และ RPO ที่โตเร็วกว่า revenue
-- Competitive advantage: Strong — ลูกค้าไม่แค่ต่อสัญญาแต่ commit มากขึ้นทุกรอบ
-- ไม่พึ่ง macro: thesis ขึ้นกับ enterprise digitization และ AI adoption ไม่ใช่ Fed หรือ interest rate
-- ไม่ใช่ momentum trap: fundamentals ทุกตัวรองรับ thesis ชัด
-- Kill conditions: specific วัดได้ทุกไตรมาส (cRPO growth, subscription gross margin, AI revenue)
+### เกณฑ์ 5 ข้อ
+- Moat: ✅ switching cost (enterprise workflow integration ที่ฝังลึก) = Strong — renewal 97% และ RPO โตเร็วกว่า revenue
+- Growth: ✅ enterprise digitization + AI adoption — โตทนยาว (base subscription $12.9B, RPO $28B ล็อกรายได้ล่วงหน้า)
+- Macro: ✅ ไม่พึ่ง Fed — thesis ขึ้นกับ enterprise digitization ไม่ใช่ interest rate
+- Momentum trap: ✅ ผ่าน — fundamentals ทุกตัวรองรับ thesis ชัด
+- Kill conditions: ✅ วัดได้ทุกไตรมาส (cRPO growth, subscription gross margin, AI revenue)
 
-**ความเสี่ยงที่ต้องรู้ก่อน DCA:** AI inference cost กำลังกัด gross margin จริงแล้ว และ usage-based consumption อาจลดเงียบๆ โดยไม่มีสัญญาณเตือนล่วงหน้า ติดตาม cRPO และ subscription gross margin ทุกไตรมาส
+### Risk ก่อน DCA
+- AI inference cost กำลังกัด gross margin จริงแล้ว — ติดตาม subscription gross margin ทุกไตรมาส
+- usage-based consumption อาจลดเงียบๆ โดยไม่มีสัญญาณเตือนล่วงหน้า — ติดตาม cRPO
 
 ---
 
