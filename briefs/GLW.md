@@ -60,7 +60,7 @@ Corning เป็นบริษัทวัสดุศาสตร์ที่
 2. GAAP vs core margin gap 10 จุด — อะไรถูกตัดออกจาก "core" และทำไมถึงยอมรับได้? Q1 2026 operating margin 20.2% เป็น GAAP หรือ core?
 3. "Up to $6B" Meta deal — guaranteed floor จริงๆ คือเท่าไหร่? ถ้า hyperscaler ลดใช้จ่าย minimum จะเป็นเท่าไหร่?
 4. Net debt $5.1B กับ CapEx เร่งขึ้น — มีแผนลด debt หรือ refinancing risk ในช่วงไหน?
-5. ทำไมหุ้นขึ้น 7.4% จาก Amazon deal แล้วลงกลับ 7.9% วันถัดมา — ตลาดมองต่างจากเราตรงไหน?
+5. ทำไมหุ้นขึ้น 7.4% จาก Amazon deal แล้วลงกลับ 7.9% วันถัดมา — ตลาดมองต่างตรงไหน?
 
 ---
 
@@ -84,9 +84,6 @@ Corning เป็นบริษัทวัสดุศาสตร์ที่
 
 ### Momentum trap check
 Flag — Q1 2026 ตัวเลขดูดีมากในระยะสั้น (+18% revenue, +30% EPS, +80% solar) deal ใหญ่เพิ่งประกาศ ถ้าซื้อตอนนี้เพราะตัวเลขวิ่ง โดยที่ GAAP margin ยังไม่ได้รับการยืนยัน มีความเสี่ยงซื้อที่จุด peak ของ sentiment ไม่ใช่ fundamental
-
-### Portfolio fit
-Port ตอนนี้ tech heavy 87.5% และ cash 0% GLW ซ้อน AI infrastructure exposure กับ NVDA และ AVGO ถ้า hyperscaler pause ทุกตัวในพอร์ตโดนพร้อมกัน ก่อน add GLW ควร resolve เรื่อง cash ก่อน และถามตัวเองว่าทำไมไม่ add ตัวที่เข้าใจอยู่แล้วดีกว่า
 
 **สิ่งที่ต้องทำก่อนเปลี่ยนจาก WATCH เป็น BUY:**
 1. ดู GAAP margin จริง — ถ้าอยู่ที่ 15%+ ถึงค่อยคุยต่อ

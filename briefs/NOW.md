@@ -64,8 +64,6 @@ NOW มี switching cost แข็งจาก workflow lock-in ที่พิ
 - cRPO กำลัง decelerate +25% → +21% — Q2 earnings 29 ก.ค. 2026 เป็น checkpoint สำคัญ (ต้องไม่ต่ำกว่า 18% cc)
 - 3 M&A integrate พร้อมกัน (Armis, Veza, Pyramid Analytics) ในช่วงที่ต้องพิสูจน์ AI execution
 
-**Portfolio fit:** NOW อยู่ใน portfolio 36.37% แล้ว — คำถามจริงคือ "ควร add เพิ่มไหม" ไม่ใช่ "ควรซื้อไหม" ในขณะที่ cash 0% และ tech concentration 87.53% ควร restore cash buffer ก่อน
-
 **Checkpoint ก่อนเปลี่ยนเป็น add เพิ่ม:**
 ① Q2 cRPO ต้องไม่ต่ำกว่า 18% cc (29 ก.ค. 2026)
 ② AI revenue เป็น audited line item ภายใน Q3 2026

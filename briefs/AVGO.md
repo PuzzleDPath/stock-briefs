@@ -76,11 +76,8 @@ _ข้อมูลจาก brief วันที่ 2026-06-10 (Q2 FY2026 earn
 
 **Momentum trap: Flag** — หุ้นร่วง -12.59% หลัง earnings แม้ beat สัญญาณว่า expectation ถูก priced in สูงแล้ว ตลาดกำลัง reprice trajectory ไม่ใช่ absolute number ระวังว่ากำลัง add เพราะเห็น growth จริง หรือเพราะ "เสียดายที่ราคาลง"
 
-**Portfolio fit:** AVGO อยู่ในพอร์ตแล้ว 35.39% และ NVDA ซ้อน AI chip thesis อยู่ด้วย พอร์ต tech heavy 87.53%, Cash 0% — การ add ตอนนี้เพิ่ม concentration ใน thesis เดิม โดยที่ยังไม่มี cash buffer
-
-**ก่อนเปลี่ยนจาก WATCH → BUY (add เพิ่ม) ต้องผ่านสามข้อพร้อมกัน:**
+**ก่อนเปลี่ยนจาก WATCH → BUY ต้องผ่านสองข้อพร้อมกัน:**
 1. ตอบ "What to ask" ข้อ 1 และ 2 ได้ก่อน — bookings เป็น hard commitment ไหม และ Google in-house TPU impact คือเท่าไหร่จริงๆ
 2. Q3 FY2026 earnings **3 ก.ย. 2026** — AI semiconductor ไม่ต่ำกว่า $14.4B (kill condition ข้อ 2)
-3. Restore cash buffer 15% ก่อน — add ก่อนมี cash คือซ้ำรอยเดิม
 
 _ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของคุณเสมอ_

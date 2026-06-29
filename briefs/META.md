@@ -67,7 +67,7 @@ Network effect moat จาก user scale แข็งแกร่ง แต่ c
 
 **Momentum trap check:** ผ่าน — revenue +33% YoY มี fundamental รองรับจริง แต่ Advantage+ และ Llama เป็น narrative claim ที่ยังไม่มีตัวเลขยืนยัน upside story บางส่วนยังเป็น forward-looking
 
-**Portfolio fit:** Tech concentrate 87.53% (NOW + AVGO + NVDA) + cash 0% ต่ำกว่า rule 15% — META จะเพิ่ม Big Tech exposure ซ้ำกับ AI capex cycle เหมือน NVDA ควรรอ deposit รอบถัดไปและตอบคำถาม 5 ข้อก่อน รอ Q4 2026 earnings ดู Advantage+ disclosure และ EU CPM impact ก่อนกลับมาประเมินใหม่
+**What to watch:** META ซ้อน Big Tech / AI capex exposure แบบเดียวกับ NVDA — รอ Q4 2026 earnings ดู Advantage+ disclosure และ EU CPM impact ก่อนกลับมาประเมินใหม่
 
 _ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของคุณเสมอ_
 

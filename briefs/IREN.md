@@ -54,7 +54,7 @@ IREN เป็นบริษัทสร้างและดำเนินง
 
 ## Verdict (Neon)
 
-**WATCH** *(ถือ IREN อยู่แล้ว 11.66% avg cost $57.78 — ยังไม่ add)*
+**WATCH**
 
 Cost advantage จาก power capacity 2,910MW จริงใน market ที่ power scarcity เป็น bottleneck แต่ 97% revenue ยังเป็น Bitcoin mining ซึ่งเป็น macro variable ที่ต้องการเลี่ยง, gap ~28x actual vs target, และ kill conditions ตอบไม่ได้ครบยังไม่ซื้อเพิ่ม
 
@@ -67,7 +67,7 @@ Cost advantage จาก power capacity 2,910MW จริงใน market ที
 
 **Momentum trap check:** Flag — story Microsoft + NVIDIA น่าตื่นเต้น แต่ actual AI Cloud ยัง 28x ต่ำกว่า target ARR อย่าเพิ่ม position เพราะข่าว contract ถ้ายังตอบเรื่อง notes maturity และ GPU vesting ไม่ได้
 
-**Portfolio fit:** ถือ 11.66% avg $57.78 ราคาปัจจุบัน ~$59.77 — ยังไม่ add จนกว่า Q4 FY2026 (~ส.ค. 2026) ยืนยัน AI Cloud >$60M/quarter
+**What to watch:** รอ Q4 FY2026 (~ส.ค. 2026) ยืนยัน AI Cloud >$60M/quarter ก่อนพิจารณา
 
 _ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของคุณเสมอ_
 

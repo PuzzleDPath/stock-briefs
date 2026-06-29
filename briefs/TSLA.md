@@ -67,7 +67,7 @@ Tesla ออกแบบ ผลิต และขายรถยนต์ไฟ
 
 **WATCH**
 
-TSLA มี thesis ที่น่าสนใจมาก (Robotaxi + FSD + Optimus) แต่ข้อมูลใน brief ตอบไม่ได้ว่า thesis จะ materialize เมื่อไหร่และที่ valuation ~$1T คุ้มไหม — Auto +0.95% YoY, Robotaxi "not material 2026", FCF ปีนี้ guide ติดลบ 9 เดือน คนที่ถือยาว 1 ปี+ ต้องตอบให้ได้ก่อนว่า kill condition ข้อ 1 (Robotaxi fleet) จะผ่านไหม ก่อนจะ add อีก Portfolio fit: มี TSLA อยู่แล้ว 1.90% — ไม่ควร add โดยไม่มีคำตอบเรื่อง fleet ขนาดและ auto GM ex one-time ชัดขึ้นก่อน
+TSLA มี thesis ที่น่าสนใจมาก (Robotaxi + FSD + Optimus) แต่ข้อมูลใน brief ตอบไม่ได้ว่า thesis จะ materialize เมื่อไหร่และที่ valuation ~$1T คุ้มไหม — Auto +0.95% YoY, Robotaxi "not material 2026", FCF ปีนี้ guide ติดลบ 9 เดือน คนที่ถือยาว 1 ปี+ ต้องตอบให้ได้ก่อนว่า kill condition ข้อ 1 (Robotaxi fleet) จะผ่านไหม และ auto GM ex one-time ชัดขึ้นก่อน
 
 **Moat: Weak-to-Moderate** — FSD data flywheel ยังไม่พิสูจน์ว่าเป็น competitive advantage จริงในเชิง pricing power หรือ switching cost; brief ไม่มีข้อมูล miles data หรือ churn rate ที่ verify ได้
 
