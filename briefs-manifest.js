@@ -135,9 +135,9 @@ window.MANIFEST = [
     },
     {
         "tk":  "PLTR",
-        "co":  "Palantir Technologies Inc.",
-        "date":  "2026-06-26",
-        "verdict":  "watch",
+        "co":  "Palantir Technologies, Inc.",
+        "date":  "2026-06-29",
+        "verdict":  "buy",
         "one":  "Moat มีจริง (Government: แข็งมาก, Commercial/AIP: ยังพิสูจน์ไม่ชัด) แต่สามเรื่อง"
     },
     {

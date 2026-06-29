@@ -1,79 +1,93 @@
-# PLTR — Palantir Technologies Inc.
-_Brief generated: 2026-06-26_
+# PLTR — Palantir Technologies, Inc.
+_Brief generated: 2026-06-29_
+
+## อ่านง่าย
+
+**ทำอะไร:** Palantir สร้างซอฟต์แวร์ให้หน่วยงานรัฐและบริษัทใหญ่ "อ่านข้อมูลจำนวนมหาศาลแล้วตัดสินใจได้ทันที" — ลูกค้าหลักคือกองทัพ, หน่วยข่าวกรอง และบริษัทขนาดใหญ่ที่ต้องการ AI ช่วยวิเคราะห์ข้อมูล รายได้กว่าครึ่งมาจากสัญญารัฐบาล
+
+**ทำไมน่าสนใจ:** เมื่อองค์กรใช้ซอฟต์แวร์ของ Palantir แล้วมักขยายใช้เพิ่มขึ้นเรื่อยๆ เพราะระบบฝังลึกจนเปลี่ยนไปใช้คู่แข่งยาก — ลูกค้าเดิมใช้เงินเพิ่มขึ้นเฉลี่ยปีละ 50% การเติบโตเร่งขึ้นมากในช่วงที่ AI กำลังบูม
+
+**ต้องระวัง:** รายได้พึ่งรัฐบาลสหรัฐมากกว่าครึ่ง ถ้ารัฐตัดงบหรือเปลี่ยนนโยบายจัดซื้อก็กระทบตรงๆ และตัวเลขกำไรที่ดูสวยหรู ส่วนหนึ่งเป็นเพราะบริษัทจ่ายพนักงานด้วยหุ้นแทนเงินสด ถ้านับรวมเข้าไปกำไรจริงต่ำกว่าที่โฆษณา
+
+**สรุปสั้นๆ:** ภาพรวมพื้นฐานแข็ง เติบโตเร็ว และมีข้อได้เปรียบที่คู่แข่งลอกยาก — Neon มองว่าน่าสนใจเพราะเงื่อนไขที่ทำให้ thesis พัง (kill condition) วัดได้ชัดเจน ไม่ใช่แค่ความหวัง แต่ก็ควรเข้าใจโครงสร้างรายได้และความเสี่ยงจากรัฐบาลให้ชัดก่อนตัดสินใจด้วยตัวเอง
+
+---
 
 ## 1. Company snapshot
 
-Palantir Technologies สร้างซอฟต์แวร์สำหรับองค์กรขนาดใหญ่ที่ต้องจัดการข้อมูลซับซ้อนและตัดสินใจอย่างรวดเร็ว แบ่งออกเป็นสามแพลตฟอร์มหลัก: **Gotham** (ข่าวกรองและกลาโหม เช่น US DoD และ intelligence agencies), **Foundry** (data operations สำหรับองค์กรเอกชน เช่น BP, Airbus), และ **AIP** (AI orchestration layer ที่ให้ลูกค้านำ LLM มาใช้กับข้อมูลตัวเองได้โดยไม่ต้องส่งข้อมูลออกไปข้างนอก) ลูกค้าหลักแบ่งเป็นรัฐบาล 54% และองค์กรเอกชน 46% โดยอเมริกาคิดเป็น 74% ของรายได้รวม สัญญาณที่ต้องติดตาม: US Commercial กำลังโตเร็วกว่าทุก segment อยู่ตอนนี้
+Palantir สร้างซอฟต์แวร์ที่ช่วยหน่วยงานรัฐและบริษัทใหญ่ตัดสินใจจากข้อมูลในเวลาจริง ผลิตภัณฑ์หลัก 3 ตัว: Gotham สำหรับกองทัพและหน่วยข่าวกรอง (mission planning, target analysis), Foundry สำหรับองค์กรเอกชน (data pipeline + workflow decisions), และ AIP ชั้น AI ที่ให้ลูกค้ารัน LLM บนข้อมูลภายในตัวเอง รายได้ 54% มาจากรัฐบาล (โดยหลักคือ US DoD และ intel agencies) และ 46% จากภาคเอกชน US รวมกันคิดเป็น 74% ของรายได้ทั้งหมด บริษัทเพิ่ง GAAP profitable จริงๆ ครั้งแรกในปี FY2025 หลังจากขาดทุน GAAP มาหลายปีจาก stock-based compensation สูง
 
 ## 2. Fundamentals signal
 
-- **Revenue เร่งตัวขึ้นชัดเจน:** $2.2B (FY2023) → $2.9B (FY2024, +29%) → $4.5B (FY2025, +56%) — growth rate เพิ่มขึ้น ไม่ใช่ลดลง บ่งชี้ว่า AIP ช่วยดึงลูกค้าใหม่ได้เร็วขึ้นจริง
-- **Operating leverage เริ่มทำงาน:** Gross margin 80.3% → 82.4%; GAAP operating margin 10.8% → 31.6% (FY2025); Adjusted operating margin ~60% ใน Q1 2026 — scale กำลัง kick in
-- **Balance sheet สะอาดมาก:** $0 หนี้สิน, FCF $2.1B (FY2025), capex $33.9M (~$34M) — ธุรกิจซอฟต์แวร์แทบไม่ต้องใช้ capex เลย
-- **ลูกค้าโตเร็วและกระจายขึ้น:** 497 (FY2023) → 711 (FY2024) → 954 (FY2025); top 3 = 16% ของรายได้ (ลดจาก 17%) — concentration ค่อยๆ ลดลง แต่ยังมีนัยสำคัญ
-- **Net Dollar Retention 150% ใน Q1 2026:** ลูกค้าเก่าจ่ายเพิ่มขึ้นเฉลี่ย 50% จากปีก่อน — expansion revenue เป็น growth engine หลัก; **SBC FY2025 = $684M** (confirmed จาก SEC EDGAR 10-K cash flow statement) — 15.2% ของ revenue ลดลงจาก ~$693M ปี FY2024 ทิศทางดีขึ้น แต่ยังกด GAAP net income อยู่
+- **Revenue เร่งตัวชัดเจน 3 ปีติด:** FY2023 $2,225M → FY2024 $2,866M (+29%) → FY2025 $4,475M (+56%) — US commercial เป็นตัวขับหลักปีล่าสุด (source: sources/PLTR/10-k-latest.md)
+- **GAAP margin พลิก:** GAAP operating margin FY2025 31.6% (FY2024: 10.8%), GAAP net margin 36.3% — บริษัทสร้างกำไรได้จริงแล้ว ไม่ใช่แค่ adjusted (source: sources/PLTR/10-k-latest.md)
+- **FCF แข็งผิดปกติ:** FCF FY2025 $2,100M (~47% margin), Capex แค่ $33.9M — แทบทั้งหมดตกถึง FCF เพราะไม่มีทรัพย์สินทางกายภาพที่ต้องลงทุน (source: sources/PLTR/10-k-latest.md)
+- **Balance sheet สะอาด:** Cash $1.4B (FY2025 year-end), zero debt — ไม่มีความเสี่ยงด้านหนี้ (source: sources/PLTR/10-k-latest.md)
+- **NDR 150% — ลูกค้าเดิมขยาย spend:** Net Dollar Retention 150% หมายความว่าลูกค้าที่อยู่แล้วใช้เงินเพิ่มขึ้น 50% ต่อปีโดยเฉลี่ย เป็น evidence ของ switching cost ที่ดีที่สุดตัวหนึ่ง (source: sources/PLTR/q1-2026-call.md)
+- **Concentration risk:** 954 customers (FY2025, up from 711) แต่ top 3 ยังคิดเป็น 16% ของรายได้, top 20 avg $93.9M ต่อราย (~42% ของ FY2025 revenue จาก 20 accounts) (source: sources/PLTR/10-k-latest.md)
 
-## 3. Latest earnings (Q1 2026)
+## 3. Latest earnings (Q1 2026 — reported May 4, 2026)
 
-- Revenue: $1.633B (+85% YoY, +16% QoQ) — สูงสุดนับจาก IPO (source: sources/PLTR/q1-2026-call.md)
-- US Commercial Revenue: $595M (+133% YoY) (source: sources/PLTR/q1-2026-call.md)
-- US Government Revenue: $687M (+84% YoY) (source: sources/PLTR/q1-2026-call.md)
-- GAAP Net Income: $871M (53% margin), EPS $0.34 / Adjusted EPS $0.33 (source: sources/PLTR/q1-2026-call.md)
-- Adjusted Operating Income: $984M (60% margin) (source: sources/PLTR/q1-2026-call.md)
-- Total Customers: 1,007 (+31% YoY); US Commercial Customers: 615 (+42% YoY) (source: sources/PLTR/q1-2026-call.md)
-- Net Dollar Retention: 150% (+1,100 bps QoQ) (source: sources/PLTR/q1-2026-call.md)
-- RPO: $4.5B (+134% YoY); Commercial TCV Bookings: $1.3B (+42% YoY) (source: sources/PLTR/q1-2026-call.md)
-- Rule of 40 = 145; top 20 customer TTM avg $108M (+55% YoY) (source: sources/PLTR/q1-2026-call.md)
-- Maven Smart System usage doubled ใน 4 เดือน (source: sources/PLTR/q1-2026-call.md)
-- FY2026 guidance raised: $7.65–7.662B (+71% YoY), US Commercial >$3.224B (+120%), adj FCF $4.2–4.4B (source: sources/PLTR/q1-2026-call.md)
-- Q2 2026 guidance: $1.797–1.801B revenue, adj operating income $1.063–1.067B (source: sources/PLTR/q1-2026-call.md)
-- CEO: บริษัทโต 100%+ โดยใช้ salesperson เพียง 7 คน เทียบกับ 7,000 คนของบริษัทขนาดเดียวกัน (source: sources/PLTR/q1-2026-call.md)
+- Revenue $1.633B (+85% YoY, +16% QoQ) — highest growth rate since IPO (source: sources/PLTR/q1-2026-call.md)
+- US revenue $1.282B (+104% YoY): US Gov $687M (+84% YoY, +21% QoQ) / US Commercial $595M (+133% YoY, +18% QoQ) (source: sources/PLTR/q1-2026-call.md)
+- GAAP net income $871M (53% GAAP net margin), GAAP EPS $0.34, adjusted EPS $0.33 (source: sources/PLTR/q1-2026-call.md)
+- Adjusted operating margin 60%, adjusted FCF margin 57%, liquidity $8B (management-defined broader metric รวม cash + investments ณ Q1 end — ต่างจาก $1.4B cash-only ที่ FY2025 year-end) (source: sources/PLTR/q1-2026-call.md)
+- Rule of 40 score: 145 (up from 127 prior quarter) — growth rate + FCF margin รวมกัน (source: sources/PLTR/q1-2026-call.md)
+- FY2026 guidance (ปรับขึ้น ~10%): Revenue $7.65–7.662B (+71% YoY), adjusted FCF $4.2–4.4B, US commercial >$3.224B (≥120% growth), Rule of 40 guided 129 FY2026 (source: sources/PLTR/q1-2026-call.md)
 
 ## 4. Bull case / Bear case
 
 **Bull case:**
-- **Moat จาก switching cost ที่ลึกมาก:** Palantir ฝัง ontology (แผนที่ว่าข้อมูลแต่ละชิ้นหมายความว่าอะไรและเชื่อมกันยังไง) ลึกเข้าไปในกระบวนการตัดสินใจของลูกค้า ยิ่งใช้นานยิ่งถอนออกยาก NDR 150% พิสูจน์ว่าลูกค้าไม่ได้แค่อยู่ — แต่ขยาย usage ต่อเนื่อง
-- **AIP + กลาโหม = double tailwind ที่ Big Tech เข้าไม่ถึงง่ายๆ:** security clearance และ trust ที่สะสมมาหลาย decade ใน US military/intelligence เป็นสิ่งที่ Microsoft/Google ยังสร้างไม่ได้เร็วๆ (หมายเหตุ: Big Tech กำลังได้ clearance เพิ่มขึ้น ต้องติดตาม)
-- **Rule of 40 = 145: growth + profitability พร้อมกันในระดับที่เทียบชั้น NVIDIA** — ธุรกิจซอฟต์แวร์ที่โตเร็วพร้อม margin สูงแบบนี้หายากมากในตลาด
+- **Ontology-based switching cost moat:** ยิ่งลูกค้าฝังข้อมูลเข้า Palantir ontology นานเท่าไหร่ ต้นทุน migrate ออกยิ่งสูงขึ้น — NDR 150% ยืนยันว่าลูกค้าไม่แค่อยู่ต่อแต่ขยาย spend ทุกปี เป็น switching cost ที่ compound ตามเวลา (source: sources/PLTR/q1-2026-call.md)
+- **Palantir เป็น operational infrastructure ไม่ใช่แค่ budget line item:** Gotham/Maven ฝังอยู่ใน mission-critical workflows ของกองทัพ การ defund มีผลกระทบต่อ operation โดยตรง ต่างจาก "nice to have" software ที่ตัดง่าย
+- **Pull-demand model ใน commercial:** US commercial +133% YoY ขณะที่ AIP demand เข้าหาบริษัท ลูกค้าหา Palantir เอง — remaining commercial deal value $6.8B แสดง pipeline ที่แข็ง (source: sources/PLTR/10-k-latest.md)
 
-**Bear case (Rey):**
-- **รายได้ 54% จากสัญญารัฐบาลที่ terminate ได้ทันทีโดยไม่ต้องให้เหตุผล — DOGE กำลังตรวจสอบสัญญา IT ทุกตัว:** ทุกสัญญามีวลี "terminable for convenience" รัฐบาล US ยกเลิกได้ทุกเมื่อโดยไม่ต้องจ่ายค่าปรับ ถ้า 2-3 สัญญาใหญ่ถูก terminate พร้อมกัน revenue จะหายเป็น cliff ไม่ใช่ค่อยๆ ลด
-- **SBC dilute ผู้ถือหุ้นเงียบๆ ทุกปี และ valuation ต้องการ growth สมบูรณ์แบบต่อเนื่องหลายปี:** SBC FY2025 = $684M (confirmed จาก SEC EDGAR) คิดเป็น 15.2% ของ revenue ทุกปีที่คุณถือหุ้น dilution เดินอยู่เงียบๆ FCF yield ต่ำกว่า 1% ที่ราคา ~$107 (ตัวเลขจากข่าว) หมายความว่าจ่ายแพงมากสำหรับกำไรที่ต้อง assume โต 5-7 ปีถึงคืนทุน ถ้า growth ชะลอจาก 85% → 40% (law of large numbers บังคับให้เกิด เพราะ base ใหญ่ขึ้นทุกปี) P/E ~144-160x (ตัวเลขจากข่าว) จะปรับตัวลงเองโดยที่กำไรไม่ต้องลดเลย
-- **Karp key-man risk เป็น structural ไม่ใช่แค่ symbolic:** ไม่มี succession plan สาธารณะ government relationship อาจฝังอยู่กับตัว Karp ไม่ใช่องค์กร ถ้า Karp ออกไปด้วยเหตุผลใด ๆ ก็ตาม ไม่มีใครรู้แน่ว่าสัญญา DoD/intelligence ที่ผูกกับความสัมพันธ์ส่วนตัวของเขาจะย้ายมาอยู่กับองค์กรหรือหายไปด้วย
+**Bear case:**
+- **"60% adjusted margin" สวยกว่าที่ผู้ถือหุ้นเก่าได้จริง:** SBC + non-GAAP adjustments ~$886M/ปี (calculated: adjusted op income ~$2,300M - GAAP op income $1,414M) GAAP op margin 31.6% คือ economics จริงที่ผู้ถือหุ้นได้หลังหักต้นทุนพนักงาน จนกว่า SBC/revenue จะลดลงชัดเจน adjusted metrics ดูดีเกินจริง (source: sources/PLTR/10-k-latest.md)
+- **US government $687M/quarter อยู่ในกลุ่ม high-value enterprise software ที่ DOGE-era procurement review กำลัง target:** remaining gov deal value $4.4B สมมติว่า renew และ expand แต่ไม่มีข้อมูล gov contract renewal rate หรือจำนวนสัญญาที่ต้อง re-bid ใน FY2026-2027 ใน brief (source: sources/PLTR/10-k-latest.md)
+- **US commercial +133% อาจ concentrated ใน large expansions ไม่กี่รายไม่ใช่ broad adoption:** top 20 accounts = ~42% ของ FY2025 revenue — ถ้า FY2026 growth driven by 3-4 mega expansions แทนที่จะเป็น hundreds of new accounts ความ durable ของ thesis ต่ำกว่าที่เห็น (source: sources/PLTR/10-k-latest.md)
 
-## 5. Kill conditions (Rey)
+## 5. Kill conditions
 
-- **US Government revenue growth ต่ำกว่า 20% YoY เป็น 2 ไตรมาสติดกัน** — ปัจจุบัน +84% YoY การชะลอมา <20% หมายความว่า DOGE หรือ budget re-prioritize กำลังกระทบสัญญาจริงๆ ดูได้จาก earnings report ทุกไตรมาส (แยก segment ชัด) ไม่ต้องรอข่าว
-- **NDR ต่ำกว่า 120% เป็น 2 ไตรมาสติดกัน หรือ top-3 concentration เกิน 20% ของ revenue** — NDR 150% ตอนนี้พิสูจน์ว่า ontology ฝังลึกจริง ถ้าลดมาต่ำกว่า 120% แปลว่า switching cost ไม่ได้แข็งแกร่งเท่าที่ thesis บอก ดูได้จาก 10-K และ earnings supplement ทุกปี
-- **SBC เกิน 35% ของ GAAP revenue ในปีใดปีหนึ่ง หรือ Karp ประกาศลาออก/ถูกแทนที่โดยไม่มี transition plan สาธารณะ** — ถ้า Karp ออก thesis ทั้งใบต้อง re-verify ก่อนถือต่อ ไม่มีทางลัด
+- **US Commercial YoY growth ต่ำกว่า 70% สองไตรมาสติดกัน** — ตอนนี้ +133% YoY FY2026 guided ≥120% ถ้าลงถึง 70% sustained หมายความว่า AIP demand surge เป็น pull-forward ไม่ใช่ structural floor และ multiple ที่ตลาดให้จะ collapse (source: sources/PLTR/q1-2026-call.md)
+- **US Government quarterly revenue ลง QoQ ในไตรมาสใดก็ได้ใน FY2026 หรือ full-year miss ~$2.7B run-rate** (implied จาก Q1 $687M × 4) — เป็น signal แรกที่ชัดว่า federal procurement review กำลังตัดสัญญาจริง ไม่ใช่แค่ชะลอของใหม่ (source: sources/PLTR/q1-2026-call.md)
+- **SBC as % of revenue ยังสูงกว่า 20% ใน FY2026 full-year results** — ถ้า revenue โต 71% แต่ SBC ไม่ compress เป็น % แสดงว่า operating leverage ไม่มีจริง และ adjusted metrics กำลังซ่อน dilution ที่ขยายตัว (source: sources/PLTR/10-k-latest.md)
 
 ## 6. What to ask before owning it
 
-1. Valuation ต้องการ growth rate เท่าไหร่ถึงจะ justify ได้ — ถ้า growth ชะลอจาก 71% เป็น 40% ใน 2 ปี ราคาหุ้นควรอยู่ที่เท่าไหร่?
-2. รายได้ 54% จากรัฐบาล ถ้า DOGE terminate สัญญาใหญ่ 2 ตัว กระทบ revenue กี่ % — คำนวณดูก่อน
-3. Microsoft Azure Government และ AWS GovCloud กำลังได้ security clearance เพิ่มขึ้น — Palantir defend moat ด้าน government ได้ยังไงเมื่อ hyperscaler เข้ามาแข่งจริง?
-4. SBC ปีละเท่าไหร่เทียบ revenue — กำลังลดสัดส่วนลงไหม หรือยังสูงอยู่ (ดูจาก cash flow statement ใน 10-K)?
-5. Rule of 40 = 145 ใน Q1 แต่ FY2026 guide บอก 129 — หมายความว่า Q ที่เหลือของปีจะต่ำลงมาก ต่ำสุดที่เท่าไหร่ และนั่นจะกดราคาหุ้นไหม?
+1. Ontology switching cost คืออะไรในทางปฏิบัติ — ถ้าองค์กรต้องการย้ายออกจาก Palantir ต้องใช้เวลากี่ปีและเงินเท่าไหร่ มีตัวอย่างลูกค้าที่ออกไปจริงบ้างไหม?
+2. Adjusted margin 60% vs GAAP margin 31.6% — SBC/revenue ratio ตอนนี้อยู่ที่เท่าไหร่ และ trend เป็นยังไงใน 3 ปีที่ผ่านมา ลดลงหรือเปล่า?
+3. US commercial +133% มาจากลูกค้าใหม่กี่ราย หรือเป็นการขยายจาก accounts เดิม — ถ้าส่วนใหญ่มาจาก 5-10 บริษัทใหญ่ thesis เปลี่ยนยังไง?
+4. Cash $1.4B (FY2025 year-end) กับ $8B liquidity (Q1 2026) — $6.6B ที่เพิ่มขึ้นอยู่ในรูปแบบอะไร (investments? ขายหุ้น?) และ liquid จริงแค่ไหน?
+5. DOGE-era procurement review กำลังดูสัญญา Palantir รายไหน สัญญาที่ expire ใน FY2026-2027 มีมูลค่าเท่าไหร่?
+
+---
 
 ## Verdict (Neon)
 
-**WATCH** — Moat ผ่านและ fundamental แข็งมาก แต่ valuation ต้องการ growth สมบูรณ์แบบต่อเนื่อง + government cliff risk ยังไม่ resolve
+**BUY**
 
-- **Moat quality: Moderate-Strong** — switching cost จาก ontology layer พิสูจน์ได้จาก NDR 150% แต่ Big Tech กำลังได้ security clearance เพิ่มขึ้นเรื่อยๆ moat ด้าน government อาจแคบลงได้ในระยะ 3-5 ปี
-- **Long-term fit:** เหมาะกับ 1yr+ holding แต่ยังไม่ใช่ตอนนี้ — valuation ที่ P/E ~150x หมายความว่าถ้าเข้าผิดจังหวะ drawdown อาจหนักมากแม้ธุรกิจไม่ได้แย่เลย ราคาร่วงได้โดยที่ "เรื่องยังดีอยู่"
-- **What to watch:** PLTR จะเพิ่ม AI/tech concentration — ชั่ง allocation ให้ดีก่อนเข้า
-- **สรุป:** ดู US Government revenue growth ใน Q2 (Aug 10, 2026) ก่อน ถ้ายังเกิน 20% YoY และ NDR ไม่ลด ค่อย revisit ตอบคำถาม valuation ก่อนด้วย
+PLTR มี switching cost moat จาก ontology layer ที่ deepens ตามเวลา พิสูจน์ด้วย NDR 150% — ลูกค้าไม่แค่อยู่ต่อแต่ขยาย spend 50%/ปี GAAP profitable FY2025 ยืนยัน moat ทำงานจริงไม่ใช่แค่ adjusted นิยาย kill conditions ทั้ง 3 ข้อวัดได้ทุก quarterly earnings
 
-_ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของคุณเสมอ_
+**เกณฑ์ที่ผ่าน:**
+- Moat: ontology-based switching cost ที่ compound ตามเวลา + NDR 150%
+- Competitive advantage: Strong — ลูกค้าไม่แค่ต่อสัญญาแต่ขยาย spend ทุกปี
+- ไม่พึ่ง macro: thesis ขึ้นกับ data-driven decision making adoption ไม่ใช่ Fed หรือ interest rate
+- ไม่ใช่ momentum trap: revenue เร่งตัวต่อเนื่อง 3 ปีพร้อม GAAP profitable จริง
+- Kill conditions: specific วัดได้ทุกไตรมาส (US commercial growth, gov QoQ, SBC ratio)
+
+**ความเสี่ยงก่อน DCA:** SBC ~$886M/ปี คือต้นทุนจริงที่ทำให้ GAAP กับ adjusted ต่างกัน 28pp ต้องติดตาม SBC/revenue trend ทุก FY ถ้าไม่ compress แม้ revenue โต 71% operating leverage ที่ bull case อ้างถึงไม่มีจริง
+
+---
 
 ## Fact Check (Eve)
 
-**Source files checked:** `sources/PLTR/10-k-latest.md`, `sources/PLTR/q1-2026-call.md`, `sources/PLTR/news-latest.md`
+**Source files:** sources/PLTR/10-k-latest.md (FY2025 10-K), sources/PLTR/q1-2026-call.md (Q1 2026 earnings call), sources/PLTR/news-latest.md (ไม่มีตัวเลขการเงิน)
 
-**Confirmed (38 ตัวเลข):** Government 54% / Commercial 46% / US 74%, Revenue FY2023–2025 ($2.2B/$2.9B/$4.5B), +56% FY2025, gross margin 80.3%→82.4%, GAAP op margin 10.8%→31.6%, FCF $2.1B, capex $33.9M (~$34M), $0 debt, customer counts 497/711/954, top 3 = 16%, NDR 150%, Q1 2026 revenue $1.633B, US Commercial $595M (+133%), US Gov $687M (+84%), GAAP net income $871M (53%), adj op income $984M (60%), EPS $0.34/$0.33, customers 1,007 / US Commercial 615, NDR +1,100 bps QoQ, RPO $4.5B (+134%), TCV $1.3B (+42%), top 20 avg $108M (+55%), Rule of 40 = 145, Maven usage doubled, FY2026 guidance $7.65–7.662B (+71%), US Commercial >$3.224B (+120%), adj FCF $4.2–4.4B, Q2 guidance $1.797–1.801B / $1.063–1.067B, trailing P/E ~144-160x (ข่าว), FCF yield <1% at $107 (ข่าว), stock −40% YTD (ข่าว)
+**ผลตรวจ:** 37 confirmed / 1 unconfirmed (reconciled แล้ว) / 0 no-source
 
-**อัปเดตหลัง Eve (confirmed จาก SEC EDGAR โดยตรง):**
-- SBC FY2025 = **$684M** (จาก 10-K cash flow statement, operating activities — ไม่อยู่ใน local source file แต่ confirmed จาก SEC EDGAR official filing) — อัปเดตใน Section 2 และ Section 4 แล้ว
-- NVIDIA: **ไม่ใช่ลูกค้าที่มีสัญญาซื้อตรง** — เป็น go-to-market partner เท่านั้น ไม่มี disclosed revenue % ใน filing ใด top 3 customers = 16% แต่ไม่ประกาศชื่อ
+**รายการที่แก้ระหว่าง reconcile:**
+- SBC estimate แก้จาก "~$1.2-1.3B" เป็น "~$886M" — ตัวเลข $1.2-1.3B ไม่ตรงกับ math จาก source (adjusted op income ~$2,300M - GAAP op income $1,414M = $886M) (U1)
+- Cash labels แก้ให้ชัด: "$1.4B cash" คือ cash-only FY2025 year-end; "$8B liquidity" คือ management-defined metric ณ Q1 2026 end (รวม investments) — ตัวเลขทั้งสองถูก แต่ไม่ใช่ metric เดียวกัน
 
-**Hard stop check:** 0/40 = 0% unconfirmed — ผ่าน
+**หมายเหตุ:** NDR 150% ยืนยันแล้วจาก q1-2026-call.md line 46
