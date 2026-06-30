@@ -3,8 +3,8 @@ window.MANIFEST = [
     {
         "tk":  "AAPL",
         "co":  "Apple Inc.",
-        "date":  "",
-        "verdict":  "watch",
+        "date":  "2026-06-30",
+        "verdict":  "buy",
         "one":  "เครื่องปั๊มเงิน Services margin สูง เรื่อง AI ยังไม่พิสูจน์"
     },
     {
