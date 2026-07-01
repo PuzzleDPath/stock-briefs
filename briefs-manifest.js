@@ -134,6 +134,13 @@ window.MANIFEST = [
         "one":  "ผู้นำ AI infrastructure ที่ชัดเจนที่สุด แต่ราคาซื้ออนาคต 2-3 ปีไว้แล้ว"
     },
     {
+        "tk":  "ONDS",
+        "co":  "Ondas Holdings Inc.",
+        "date":  "2026-07-01",
+        "verdict":  "watch",
+        "one":  "| เกณฑ์ | ผล | หมายเหตุ |"
+    },
+    {
         "tk":  "PLTR",
         "co":  "Palantir Technologies, Inc.",
         "date":  "2026-06-29",
