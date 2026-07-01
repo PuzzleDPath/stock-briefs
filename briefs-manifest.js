@@ -141,6 +141,13 @@ window.MANIFEST = [
         "one":  "| เกณฑ์ | ผล | หมายเหตุ |"
     },
     {
+        "tk":  "ORCL",
+        "co":  "Oracle Corporation",
+        "date":  "2026-07-01",
+        "verdict":  "buy",
+        "one":  "Oracle Database switching costs ฝังแน่นใน mission-critical systems หลายสิบปี และ"
+    },
+    {
         "tk":  "PLTR",
         "co":  "Palantir Technologies, Inc.",
         "date":  "2026-06-29",
