@@ -43,6 +43,13 @@ window.MANIFEST = [
         "one":  "Custom XPU moat แข็งแกร่งจริง"
     },
     {
+        "tk":  "CRM",
+        "co":  "Salesforce, Inc.",
+        "date":  "2026-07-01",
+        "verdict":  "none",
+        "one":  ""
+    },
+    {
         "tk":  "CRWD",
         "co":  "CrowdStrike Holdings",
         "date":  "",
