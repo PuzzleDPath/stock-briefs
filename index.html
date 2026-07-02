@@ -175,6 +175,20 @@
   .verdict-stamp.v-watch{ color:var(--watch); background:var(--watch-bg); }
   .verdict-stamp.v-pass{ color:var(--pass); background:var(--pass-bg); }
 
+  /* related stocks */
+  .related{ margin-top:28px; padding-top:18px; border-top:1px dashed var(--line); }
+  .related-label{ font-family:var(--display); font-size:13px; color:var(--ink-faint); margin-bottom:9px; }
+  .related-chips{ display:flex; flex-wrap:wrap; gap:8px; }
+  .rel-chip{
+    font-family:var(--body); font-size:12.5px; font-weight:600; cursor:pointer;
+    padding:6px 12px; border-radius:999px; border:1px solid var(--line);
+    background:var(--card); color:var(--ink-soft); display:inline-flex; align-items:center; gap:5px;
+  }
+  .rel-chip:hover{ border-color:var(--accent); color:var(--ink); }
+  .rel-chip em{ font-style:normal; font-weight:400; color:var(--ink-faint); font-size:11px; }
+  .rel-chip.rel-pending{ opacity:.55; cursor:default; }
+  .rel-chip.rel-pending:hover{ border-color:var(--line); color:var(--ink-soft); }
+
   .empty{ display:grid; place-items:center; height:100%; color:var(--ink-faint); font-family:var(--display); font-size:18px; }
 
   /* scrollbars */
@@ -235,6 +249,7 @@
 </div>
 
 <script src="briefs-manifest.js"></script>
+<script src="relationships-data.js"></script>
 <script src="md-render.js"></script>
 <script>
   const VLABEL = { buy:'Buy', watch:'Watch', pass:'Pass', none:'No verdict' };
@@ -296,6 +311,35 @@
     });
   }
 
+  const REL_TYPE_LABEL = { competitor:'คู่แข่ง', partner:'พาร์ทเนอร์' };
+
+  function relatedFor(tk){
+    if(typeof RELATIONSHIPS === 'undefined') return [];
+    return RELATIONSHIPS.filter(r=>r.tickers.split(',').map(s=>s.trim()).includes(tk));
+  }
+
+  // label describes the OTHER ticker's role relative to the ticker currently being viewed (tk)
+  function relLabel(r, tk){
+    if(r.type === 'supplier'){
+      return (r.from === tk) ? 'ลูกค้า' : 'ผู้ผลิตให้';
+    }
+    return REL_TYPE_LABEL[r.type] || r.type;
+  }
+
+  function renderRelated(tk){
+    const rels = relatedFor(tk);
+    if(!rels.length) return '';
+    const chips = rels.map(r=>{
+      const other = r.tickers.split(',').map(s=>s.trim()).find(t=>t!==tk) || '';
+      const label = relLabel(r, tk);
+      if(r.pending){
+        return `<span class="rel-chip rel-pending" title="${other} ยังไม่มี brief">${other} <em>(${label} · รอ brief)</em></span>`;
+      }
+      return `<button class="rel-chip" data-tk="${other}" title="${r.body}">${other} <em>(${label})</em></button>`;
+    }).join('');
+    return `<div class="related" id="related"><div class="related-label">หุ้นที่เกี่ยวข้อง</div><div class="related-chips">${chips}</div></div>`;
+  }
+
   function renderReader(b, mdText){
     const vbadge = b.verdict==='none'
       ? `<div class="r-verdict"><span class="vbig v-none" style="border-color:var(--none);color:var(--none)">— no verdict</span><span class="vlbl">ยังไม่สรุป</span></div>`
@@ -318,13 +362,19 @@
         ${vbadge}
       </div>
       ${toggle}
-      <div class="md-body">${renderBrief(bodyMd)}</div>`;
+      <div class="md-body">${renderBrief(bodyMd)}</div>
+      ${renderRelated(b.tk)}`;
     const tg = document.getElementById('rtoggle');
     if(tg) tg.addEventListener('click', e=>{
       const btn = e.target.closest('button'); if(!btn) return;
       readMode = btn.dataset.m;
       try{ localStorage.setItem('sb_readmode', readMode); }catch(e){}
       renderReader(b, mdText);
+    });
+    const rel = document.getElementById('related');
+    if(rel) rel.addEventListener('click', e=>{
+      const btn = e.target.closest('.rel-chip'); if(!btn || !btn.dataset.tk) return;
+      select(btn.dataset.tk);
     });
     document.getElementById('reader').scrollTop=0;
   }
