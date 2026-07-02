@@ -46,8 +46,8 @@ window.MANIFEST = [
         "tk":  "CRM",
         "co":  "Salesforce, Inc.",
         "date":  "2026-07-01",
-        "verdict":  "none",
-        "one":  ""
+        "verdict":  "watch",
+        "one":  "ธุรกิจหลักแข็งแต่ Agentforce ยังพิสูจน์ไม่ได้ และเสี่ยงโดน Microsoft แย่งลูกค้า"
     },
     {
         "tk":  "CRWD",

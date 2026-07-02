@@ -67,19 +67,20 @@ Oracle เป็นบริษัทซอฟต์แวร์และ cloud 
 
 **BUY**
 
-Oracle Database switching costs ฝังแน่นใน mission-critical systems หลายสิบปี และ OCI กำลังแปลงฐานลูกค้าเดิมเป็น AI cloud revenue ที่เร่งตัวจริง
+Oracle DB switching cost แข็งมาก OCI กำลังแปลงเป็น AI cloud revenue ที่เร่งตัวจริง
 
-| เกณฑ์ | ผล | หมายเหตุ |
-|---|---|---|
-| Moat ระบุ power + Strong | ✅ | switching cost (Oracle DB ฝังใน core systems หลายสิบปี) = Strong — migration cost สูงจนแทบไม่เกิดขึ้นจริงในองค์กรขนาดใหญ่ |
-| มี growth driver + ระบุชนิดการโต | ✅ | OCI AI infra demand + DB-to-cloud upsell — โตเร็ว (revenue +17% → guided +34%, cloud infra +93%, RPO $638B +363%) |
-| ไม่พึ่ง macro | ✅ | thesis ขับด้วย enterprise switching cost structural + AI workload demand ไม่ใช่ Fed หรือ rate cycle |
-| ผ่าน momentum trap | ✅ | RPO $638B คือ signed contracts จริง GPU utilization 97.5% คือ demand ที่มีอยู่แล้วก่อน capacity เปิด fundamental รองรับการโต |
-| ตั้ง kill condition ได้ | ✅ | 5 kill conditions วัดได้ชัด พร้อม observable trigger |
+### เกณฑ์ 5 ข้อ
+- Moat: ✅ Switching cost (Oracle DB ฝังใน core systems หลายสิบปี) = Strong — migration cost สูงจนแทบไม่เกิดขึ้นจริงในองค์กรขนาดใหญ่
+- Growth: ✅ OCI AI infra demand + DB-to-cloud upsell — โตเร็ว (revenue +17% → guided +34%, cloud infra +93%, RPO $638B +363%)
+- Macro: ✅ ไม่พึ่ง — thesis ขับด้วย enterprise switching cost structural + AI workload demand ไม่ใช่ Fed หรือ rate cycle
+- Momentum trap: ✅ ผ่าน — RPO $638B คือ signed contracts จริง GPU utilization 97.5% คือ demand ที่มีอยู่แล้วก่อน capacity เปิด
+- Kill conditions: ✅ 5 ข้อวัดได้ — observable trigger ชัดเจน
 
-**ผ่าน 5/5 → BUY**
+### Risk ก่อน DCA
+- FCF -$23.7B บน debt $92.6B และ capex FY2027 $70B — ต้องหา external financing $38B+ อีกบน leverage ที่หนักอยู่แล้ว
+- OCI ยังขาด proprietary AI model + developer ecosystem เทียบ AWS/Azure มีความเสี่ยงเป็นแค่ overflow destination ชั่วคราว
 
-Risk ก่อนตัดสินใจ: FCF -$23.7B บน debt $92.6B และ capex FY2027 $70B — ต้องหา external financing $38B+ อีกบน leverage ที่หนักอยู่แล้ว; OCI ยังขาด proprietary AI model + developer ecosystem เทียบ AWS/Azure มีความเสี่ยงเป็นแค่ overflow destination ชั่วคราว
+_verdict นี้มาจากข้อมูลใน brief วันที่ 2026-07-01 — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
 
 ## Fact Check (Eve)
 

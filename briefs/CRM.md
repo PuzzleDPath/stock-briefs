@@ -80,18 +80,27 @@ CRPO (Current Remaining Performance Obligations) คือ leading indicator ท
 4. Fin acquisition $3.6B — ซื้อในราคาสมเหตุสมผลไหม และ integrate กับ Agentforce ยังไง?
 5. ถ้า AI ทำให้ sales team ต้องการ software น้อยลง Salesforce จะ charge ยังไงแทน?
 
-## Verdict (Neon) — WATCH
+## Verdict (Neon)
 
-**เกณฑ์ BUY 5 ข้อ:**
-- ❌ Moat ระบุ power + Strong — Switching cost moat มีแต่ยังไม่ verified: ไม่มีตัวเลข churn/retention, Tableau renewals อ่อนแอหลัง 7 ปี, Microsoft bundling เป็น structural threat
-- ✅ Growth driver ระบุได้ + ติดป้ายชนิดการโต — Agentforce = AI monetization upsell บน installed base ที่มีอยู่ (Expansion revenue)
-- ✅ ไม่พึ่ง macro — Enterprise subscription ไม่ขึ้นตรงกับ Fed move หรือ GDP cycle
-- ✅ ผ่าน momentum trap — หุ้นลง 41% YTD 2026 (ข่าว) ไม่ใช่การซื้อหลังราคาพุ่งผิดปกติ
-- ✅ ตั้ง kill condition ได้ — Kill conditions ชัดเจนและ observable ได้จาก earnings
+**WATCH**
 
-**ผล: WATCH**
+ธุรกิจหลักแข็งแต่ Agentforce ยังพิสูจน์ไม่ได้ และเสี่ยงโดน Microsoft แย่งลูกค้า
 
-สองเงื่อนไขที่จะ flip เป็น BUY ต้องเกิดพร้อมกัน: Sales + Service Cloud growth พิสูจน์ว่า Microsoft ยังไม่กัดกร่อน + Agentforce ข้าม $2B ARR พิสูจน์ว่าเป็น commercial adoption ไม่ใช่ early pilot noise — ข้อมูลทั้งสองจะออกใน Q3 FY2027 earnings ราว ต.ค. 2026
+### เกณฑ์ 5 ข้อ
+- Moat: ❌ Switching cost = Moderate — ไม่มีตัวเลข churn/retention ยืนยัน, Tableau renewal อ่อนแอหลัง 7 ปี, Microsoft bundling เป็น structural threat
+- Growth: ✅ Agentforce = AI monetization upsell บน installed base — โตเร็ว
+- Macro: ✅ ไม่พึ่ง — Enterprise subscription ไม่ขึ้นตรงกับ Fed move หรือ GDP cycle
+- Momentum trap: ✅ ผ่าน — หุ้นลง 41% YTD 2026 ไม่ใช่การซื้อหลังราคาพุ่งผิดปกติ
+- Kill conditions: ✅ 5 ข้อวัดได้ — ชัดเจนและ observable ได้จาก earnings
+
+### Risk ก่อน DCA
+- Switching cost moat ยังไม่มีตัวเลข churn/retention ยืนยัน เป็น narrative ที่น่าเชื่อแต่ยัง unquantified
+- Microsoft bundling (Dynamics 365 + Copilot ใน M365 ที่ลูกค้าจ่ายอยู่แล้ว) เป็นแรงกดดัน structural ไม่ใช่ cyclical
+
+### จะเป็น BUY เมื่อ
+Sales + Service Cloud growth พิสูจน์ว่า Microsoft ยังไม่กัดกร่อน และ Agentforce ข้าม $2B ARR พิสูจน์ว่าเป็น commercial adoption ไม่ใช่ early pilot noise — ข้อมูลทั้งสองจะออกใน Q3 FY2027 earnings ราว ต.ค. 2026
+
+_verdict นี้มาจากข้อมูลใน brief วันที่ 2026-07-01 — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
 
 ## Fact Check (Eve)
 
