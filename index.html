@@ -311,7 +311,7 @@
     });
   }
 
-  const REL_TYPE_LABEL = { competitor:'คู่แข่ง', partner:'พาร์ทเนอร์' };
+  const REL_TYPE_LABEL = { competitor:'คู่แข่ง', partner:'พาร์ทเนอร์', government:'รัฐบาล' };
 
   function relatedFor(tk){
     if(typeof RELATIONSHIPS === 'undefined') return [];
@@ -333,6 +333,10 @@
       const other = r.tickers.split(',').map(s=>s.trim()).find(t=>t!==tk) || '';
       const label = relLabel(r, tk);
       if(r.pending){
+        // government (USGOV) is never a stock -- it will never get a brief, so don't say "waiting for one"
+        if(r.type === 'government'){
+          return `<span class="rel-chip rel-pending" title="${other} ไม่ใช่หุ้น ไม่มี brief">${other} <em>(หน่วยงานรัฐ)</em></span>`;
+        }
         return `<span class="rel-chip rel-pending" title="${other} ยังไม่มี brief">${other} <em>(${label} · รอ brief)</em></span>`;
       }
       return `<button class="rel-chip" data-tk="${other}" title="${r.body}">${other} <em>(${label})</em></button>`;
