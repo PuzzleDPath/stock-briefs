@@ -1,68 +1,74 @@
 # AVGO — Broadcom Inc.
+_Brief generated: 2026-07-02_
 
-_Brief generated: 2026-06-10_
+## อ่านง่าย
+
+**ทำอะไร:** Broadcom ออกแบบชิปพิเศษที่สร้างมาเฉพาะให้ Google, Meta, Apple ใช้รัน AI — ไม่ใช่ชิปทั่วไปที่ขายใครก็ได้ แต่เป็นของที่ดีไซน์ให้แต่ละเจ้าโดยเฉพาะ นอกจากนี้ยังขายซอฟต์แวร์ที่บริษัทใหญ่ใช้จัดการระบบ server ภายใน (หลังเข้าซื้อกิจการ VMware มา)
+
+**ทำไมน่าสนใจ:** รายได้จากชิป AI โตขึ้น 143% ในปีที่ผ่านมา และทุก $100 ที่ขายได้ มีเงินสดจริงเข้ากระเป๋าถึง $46 — กำไรงามมาก เมื่อบริษัทออกแบบชิปเฉพาะให้ลูกค้าเจ้าไหนไปแล้ว ลูกค้าเจ้านั้นเปลี่ยนไปใช้คู่แข่งยากมากเพราะต้องปรับระบบ AI ทั้งหมดใหม่ตั้งแต่ต้น
+
+**ต้องระวัง:** Google คือลูกค้าใหญ่สุดและน่าจะคิดเป็น 40-60% ของรายได้ชิป AI — ถ้า Google เพิ่มการพัฒนาชิปของตัวเองและลดการใช้ของ Broadcom ลง รายได้ก็หายไปก้อนใหญ่ทันที ยิ่งกว่านั้น บริษัทยังแบกหนี้ก้อนใหญ่ $63.8B จากการซื้อ VMware ซึ่งต้องใช้เวลาหลายปีในการผ่อนจ่ายคืน
+
+**สรุปสั้นๆ:** AVGO เป็นบริษัทที่โตจริงและมีจุดแข็งชัดเจน แต่ตอนนี้ให้สถานะ "รอดู" ก่อน เพราะคำถามสำคัญที่ยังตอบไม่ได้คือ Google จะยืนยันใช้ชิปของ Broadcom ต่อไปในระยะยาว หรือจะค่อยๆ หันมาพัฒนาเอง — ผ่าน earnings วันที่ 3 ก.ย. 2026 แล้วตัวเลขชิป AI ยังแข็งแกร่ง ค่อยกลับมาพิจารณาอีกทีจะปลอดภัยกว่า
 
 ---
 
 ## 1. Company snapshot
 
-Broadcom ทำสองธุรกิจหลัก: ออกแบบชิป AI (custom AI accelerator ให้ Google, Meta, Anthropic, OpenAI, Apple) และขายซอฟต์แวร์ infrastructure (VMware Cloud Foundation, mainframe, security) FY2025 revenue $63.9B แบ่งเป็น semiconductor 58% + software 42% ลูกค้าหลัก 5 รายรวมกัน ~40% ของรายได้ทั้งหมด — AI revenue กำลัง compound อย่างรวดเร็ว Q2 FY2026 AI semiconductor โต +143% YoY อยู่ที่ $10.8B
+Broadcom Inc. เป็นบริษัทชิปและซอฟต์แวร์สองขา: (1) ชิป AI accelerator และ custom XPU ที่ออกแบบเฉพาะสำหรับ hyperscaler รวมถึง networking ASIC และชิปไร้สายสำหรับมือถือ broadband และ storage และ (2) ซอฟต์แวร์ enterprise อย่าง VMware Cloud Foundation ที่ Broadcom ซื้อมา $61B ในปี 2023 ลูกค้าหลักคือ Google, Meta, OpenAI, Anthropic และ Apple รายได้รวม FY2025 อยู่ที่ $63.9B (+24% YoY) โดยแบ่งเป็นชิป ~$36.9B และซอฟต์แวร์ ~$27B แต่ละขาโตพร้อมกันและมี margin สูงผิดปกติสำหรับบริษัทขนาดนี้
 
 ---
 
 ## 2. Fundamentals signal
 
-- **Revenue accelerating:** FY2025 $63.9B (+23.9% YoY); Q2 FY2026 $22.2B (+48% YoY), AI semiconductor $10.8B (+143% YoY) (source: sources/AVGO/10-k-latest.md)
-- **Margin ระดับ all-time high:** Adj EBITDA margin 69%, operating margin 67% (source: sources/AVGO/q-latest-call.md)
-- **FCF engine แข็งมาก:** Q2 FY2026 FCF $10.3B (46% of revenue) — ทุก $100 รายได้ได้เงินสดจริง $46 (source: sources/AVGO/q-latest-call.md)
-- **งบดุล — cash ดีแต่หนี้หนักจาก VMware:** Cash $19.6B แต่ Long-term debt $63.8B — FCF ปัจจุบันช่วย deleverage ได้แต่ใช้เวลา ถ้าดอกเบี้ยขึ้นต้นทุนหนี้กดดันกำไรได้ (source: sources/AVGO/10-k-latest.md)
-- **Capital allocation:** Dividend $11.1B (+13.5% YoY) ติดต่อกัน 15 ปี; Buyback ลดลง $2.5B (-65.9% YoY); R&D $11.0B (+17.9%) — priority คือจ่าย dividend และลงทุน AI R&D ไม่ใช่ซื้อหุ้นคืน (source: sources/AVGO/10-k-latest.md)
+- **Revenue โต 24% YoY ใน FY2025** รายได้ $63.9B ขึ้นจาก $51.6B; ชิปโต 22%, ซอฟต์แวร์โต 26% — สองขาโตพร้อมกัน (source: sources/AVGO/10-k-latest.md)
+- **Margin ผิดปกติดีสำหรับบริษัทขนาดนี้** GAAP Gross Margin 67.8%, Operating Margin 39.9%, Adjusted EBITDA ~67% บ่งชี้ว่าทั้งชิปและซอฟต์แวร์มี pricing power สูง (source: sources/AVGO/10-k-latest.md)
+- **Free Cash Flow $26.9B** คิดเป็น ~42% ของรายได้รวม ช่วย fund dividend + debt paydown ได้อย่างสบาย (ตัวเลข YoY growth อ้างอิงจาก Operating Cash Flow +37.9% ใน 10-K) (source: sources/AVGO/10-k-latest.md)
+- **หนี้หนักจาก VMware** Long-term debt $63.8B เทียบกับ cash $14.2B — leverage สูง แต่ FCF ช่วย de-lever ได้เรื่อยๆ (source: sources/AVGO/10-k-latest.md)
+- **R&D $11B (+18% YoY) = 17% ของรายได้** aggressive มากสำหรับบริษัทขนาดนี้ บ่งชี้ว่า Broadcom invest หนักใน AI pipeline ไม่ใช่แค่เก็บกำไร (source: sources/AVGO/10-k-latest.md)
 
 ---
 
-## 3. Latest earnings (Q2 FY2026, call: June 3, 2026)
+## 3. Latest earnings (Q2 FY2026 — ended May 4, 2026)
 
-- Revenue $22.2B (+48% YoY); AI semiconductor $10.8B (+143% YoY) = 49% of total revenue (source: sources/AVGO/q-latest-call.md)
-- Infrastructure Software $7.2B (+9% YoY), gross margin 93%, ARR +17% YoY (source: sources/AVGO/q-latest-call.md)
-- Operating margin 67% all-time high; adj EBITDA 69% all-time high (source: sources/AVGO/q-latest-call.md)
-- FCF $10.3B (46% of revenue); cash $19.6B (source: sources/AVGO/q-latest-call.md)
-- Q3 FY2026 guidance: revenue $29.4B (+84% YoY), AI semi $16B (+200%+), software $8.9B (+31%) — gross margin ~74% (ลดจาก Q2 เพราะ product mix ไม่ใช่ปัญหาโครงสร้าง) (source: sources/AVGO/q-latest-call.md)
-- FY2026 AI target $56B; FY2027 AI target >$100B; AI bookings >$30B ในไตรมาสเดียว; backlog $73B+ (source: sources/AVGO/q-latest-call.md)
-- หุ้น -12.59% วันถัดจาก earnings: Q3 AI guidance $16B ต่ำกว่า street estimate บางส่วนที่ $17.2B (source: sources/AVGO/news-latest.md)
-- Analysts post-earnings: JPMorgan Buy → $580; Jefferies Buy → $550; Goldman Sachs → $525 (source: sources/AVGO/news-latest.md)
+- Revenue รวม $22.2B (+48% YoY) เกิน guidance — ชิปฝั่ง AI $10.8B (+143% YoY) คิดเป็นเกือบครึ่งของรายได้บริษัท (source: sources/AVGO/q2-fy2026-call.md)
+- Semiconductor Solutions $15B (+79% YoY); Infrastructure Software $7.2B gross margin 93%, ARR +17% YoY (source: sources/AVGO/q2-fy2026-call.md)
+- Operating margin 67% (all-time high, +200 bps YoY); FCF $10.3B = 46% of revenue (source: sources/AVGO/q2-fy2026-call.md)
+- Guidance Q3 FY2026: revenue $29.4B (+84% YoY), AI semiconductor $16B (+200% YoY) — ถ้าทำได้จริงจะเป็น single quarter ที่ใหญ่ที่สุดของบริษัท (source: sources/AVGO/q2-fy2026-call.md)
+- CEO Hock Tan รายงาน AI bookings เกิน $30B ในไตรมาสเดียว เทียบกับ ship จริงแค่ $10.8B — backlog $73B+ demand visibility ยาวถึงปี 2028 (source: sources/AVGO/q2-fy2026-call.md; backlog figure from: sources/AVGO/10-k-latest.md)
+- FY2026 full-year AI target $56B; FY2027 target >$100B (source: sources/AVGO/q2-fy2026-call.md)
 
 ---
 
 ## 4. Bull case / Bear case
 
-**Bull case:**
-- Custom XPU advantage — ชิปที่ออกแบบเฉพาะสำหรับแต่ละ hyperscaler (Google, Meta, Anthropic, OpenAI ต่างกัน) เมื่อ integrate แล้ว switching cost สูงมากเพราะต้องเปลี่ยน software stack และ training infrastructure ทั้งหมด (แต่ bookings $30B+ ยังไม่ชัดว่า hard commitment หรือ soft forecast — ต้องถามก่อนเชื่อ)
-- Software + semiconductor flywheel — VMware lock-in ใน enterprise, AI chip lock-in ใน hyperscaler สองธุรกิจแยกกัน ลูกค้าคนละกลุ่ม (VMware renewal rate 94%+ แต่เป็น lagging indicator — conversion rate จาก perpetual license ยังไม่มีข้อมูล)
-- Backlog $73B+ และ FY2027 target >$100B ถ้าทำได้จริงคือ re-rating event ขนาดใหญ่ (แต่ยังไม่รู้ว่าเป็น signed contracts หรือ pipeline — ระวังเชื่อตัวเลขนี้เต็มๆ)
+**Bull:**
+- Custom XPU ที่ออกแบบเฉพาะให้ลูกค้าแต่ละเจ้าสร้าง switching cost สูง (switching cost moat) เพราะ XPU ออกแบบสำหรับ workload เฉพาะลูกค้านั้น ลูกค้าที่อยาก switch ต้องออกแบบ architecture ใหม่ทั้งหมด
+- VMware ARR +17% YoY gross margin 93% เป็น predictable cash flow ที่ smooth out ความผันผวนของชิป และทำให้บริษัทมี two-engine revenue
+- FY2027 AI revenue target >$100B พร้อม management track record ที่ beat guidance ล่าสุด — ถ้า conversion จาก backlog $73B+ ไปเป็น revenue ทำได้ตามแผน นี่คือ growth ที่ visible หลายปีข้างหน้า
 
-**Bear case (Rey):**
-- **Customer concentration คือ single point of collapse ไม่ใช่แค่ risk factor:** Top 5 = ~40% revenue; Google คือ largest XPU customer และกำลังรัน TPU v5/v6 roadmap ของตัวเองอยู่ ถ้า Google shift 20-30% workload ไปใช้ in-house TPU แทน XPU ของ AVGO = $2-3B annual revenue หายทันที และ design ที่ทำสำหรับ Google redirect ไปให้ Meta ไม่ได้เพราะ spec ต่างกันทั้งหมด
-- **$100B FY2027 target คือ floor ที่ตลาด priced in แล้ว ไม่ใช่ upside:** หุ้นร่วง -12.59% แม้ beat earnings เพราะ Q3 AI guide $16B ต่ำกว่า estimate $17.2B — ตลาดไม่ reward absolute number แต่ reward trajectory ถ้า FY2027 มาที่ $95-105B คือ technically ผ่าน target แต่ growth rate ช้าลง = multiple compression โดยไม่ต้อง miss target
-- **VMware debt $63.8B + software slowdown ชนกันพอดี:** GAAP amortization จาก VMware >$11B/ปี กดกำไรไปหลายปี; Software Q2 FY2026 +9% YoY vs semiconductor +79% — gap 70 percentage points; ถ้า enterprise customer refuse VCF conversion ไปใช้ Nutanix/OpenShift แทน software FCF อ่อนตอนที่ต้องการเงินมากที่สุด
+**Bear:**
+- Google concentration makes the AI segment a single-customer bet, and Google is actively building an exit ramp. Google's TPU is almost certainly 40-60%+ of AI chip revenue based on partnership history — and Google is now running a live competitive evaluation via MediaTek for TPU v9 "Triggerfish." This is not generic competitive pressure — it is a specific design win at risk with the customer who holds the largest portion of the backlog.
+- VMware ARR growth is driven by forced price hikes (3-5x vs. prior licenses) on captive customers, not genuine platform adoption. Those multi-year contracts are rolling to renewal — if 10-15% of the VMware base churns to AWS, Azure VMware Solution, or Nutanix, the "predictable cash" narrative breaks and the $61B acquisition math starts looking exposed.
+- Net debt ~$49.6B against a revenue base that could decelerate sharply if even one hyperscaler slows XPU orders. A 25% miss on AI revenue produces a disproportionately larger FCF hit because fixed costs (debt service + R&D $11B/year) don't shrink.
 
 ---
 
-## 5. Kill conditions (Rey)
+## 5. Kill conditions
 
-1. **Named hyperscaler (Google, Meta, หรือ Apple) ลด Broadcom XPU allocation** — สัญญาณเตือน 6-12 เดือนก่อน: research paper เรื่อง custom silicon ที่ overlap XPU workload, ASIC job postings spike 2x+ YoY, หรือ product announcement ตรงๆ ถ้า 2 ใน 3 แสดง pattern นี้ใน 12 เดือนเดียวกัน trigger; checkpoint แรก Q3 FY2026 earnings **3 ก.ย. 2026**
-2. **AI semiconductor revenue Q3 FY2026 ต่ำกว่า $14.4B (ต่ำกว่า guide $16B เกิน 10%)** โดยไม่มี named new customer ชดเชย — แปลว่า backlog $30B+ ไม่ได้ hard commitment จริง
-3. **VMware ARR growth ต่ำกว่า 10% YoY สองไตรมาสติดกัน** ขณะที่ enterprise customer count flat หรือลดลง — ปัจจุบัน +17% YoY; monitor ถ้า cloud provider ประกาศ VMware migration incentive ให้ถือเป็น leading indicator
-4. **FY2027 formal AI revenue guidance ที่ออกมาต่ำกว่า $90B** — management ยืนยัน ">$100B" ถ้า formal guide ต่ำกว่า $90B แปลว่า backlog ไม่ convert ตามที่คาด; act ใน 48-72 ชม หลัง announce ก่อน sell-side model อัปเดต
+- **Google confirms any production chip order (TPU v9 or later) that does not use Broadcom silicon** — observable via Google I/O, MediaTek earnings disclosures, AVGO management commentary on customer concentration changes, or credible supply chain reporting confirming tape-out orders elsewhere
+- **AVGO AI semiconductor revenue misses its own quarterly guidance by more than 10% in any single quarter through FY2027** — Q3 FY2026 guide = $16B; miss threshold = below $14.4B; two consecutive misses of this scale means the $100B FY2027 target is in question
+- **VMware net revenue retention drops below 110%, or a single identifiable Fortune 100 customer publicly announces migration away from VCF** — ARR +17% YoY implies retention north of 110%; if it compresses toward 100% the price-hike strategy has hit the wall and churn has begun
 
 ---
 
 ## 6. What to ask before owning it
 
-1. AI bookings $30B+ เป็น hard commitment (take-or-pay) หรือ soft forecast? ถ้า cancel ได้ backlog $73B+ มีความหมายแค่ไหน?
-2. Customer concentration 40% — ถ้า Google shift 20-30% workload ไป in-house TPU revenue หายไปเท่าไหร่ และมี customer อื่น redirect design ไปให้ได้ไหม?
-3. Long-term debt $63.8B — FCF pay down ไวแค่ไหน บางส่วน mature เมื่อไหร่ refinancing risk อยู่ตรงไหน?
-4. VMware perpetual license customer ที่ยัง convert ไม่ได้มีกี่ราย ถ้า churn ไป Nutanix/OpenShift revenue หายเท่าไหร่?
-5. Q3 AI guidance $16B ต่ำกว่า estimate $17.2B — management อธิบายว่าอะไร supply constraint หรือ demand softness?
+1. Custom XPU สร้าง switching cost จริง — แต่ถ้า Google เป็น 50%+ ของ AI chip revenue switching cost ก็อยู่ที่ Broadcom ไม่ใช่ที่ลูกค้า Google เป็น % เท่าไรของ AI semiconductor revenue จริงๆ?
+2. ถ้า Google เลือก MediaTek สำหรับ TPU v9 จริง production timeline คือเมื่อไร และรายได้ Broadcom จะกระทบในปีไหน?
+3. VMware ARR +17% มาจาก price hike หรือ genuine platform adoption? retention rate จริงคือเท่าไร? ลูกค้า enterprise กำลัง evaluate alternatives อยู่ไหม?
+4. FY2027 target AI revenue >$100B — มาจากลูกค้าใหม่ หรือ volume เพิ่มจากลูกค้าเดิม? ลูกค้าใหม่รายไหนที่ management reference?
+5. หนี้ $63.8B ที่ต้องจ่ายคืน — มี maturity schedule อย่างไร? ถ้า FCF ลดลง 30% Broadcom ยังจ่าย interest + dividend ได้ไหม?
 
 ---
 
@@ -70,14 +76,22 @@ Broadcom ทำสองธุรกิจหลัก: ออกแบบชิ
 
 **WATCH**
 
-_ข้อมูลจาก brief วันที่ 2026-06-10 (Q2 FY2026 earnings call June 3, 2026)_
+- ✅ moat ระบุ power: Switching cost (custom XPU co-design) — มีอยู่จริงแต่ Moderate เพราะ Google ยังมี option เลือก supplier ได้ (ดู kill condition ข้อ 1)
+- ✅ growth driver ชัดเจน: AI chip revenue +143% YoY — ชนิดการโต = Capacity expansion (hyperscaler AI infra build-out)
+- ✅ ไม่พึ่ง macro: growth มาจาก AI infra buildout ของ hyperscaler ที่ไม่ได้ผูกกับ rate cycle หรือ GDP
+- ✅ ผ่าน momentum trap: fundamentals แข็ง — FCF $10.3B (46% of revenue), operating margin all-time high ไม่ใช่ราคาวิ่งโดยไม่มีพื้นฐาน
+- ✅ ตั้ง kill condition ได้: 3 ข้อวัดได้ชัด (Google production order, AI revenue miss >10%, VMware NRR <110%)
 
-**Moat: Moderate** — Custom XPU switching cost จริง แต่ moat ผูกกับลูกค้า 5 รายที่ทั้งหมดมี resource พอสร้าง in-house silicon ได้ ไม่ใช่ structural เหมือน NVDA CUDA ecosystem
-
-**Momentum trap: Flag** — หุ้นร่วง -12.59% หลัง earnings แม้ beat สัญญาณว่า expectation ถูก priced in สูงแล้ว ตลาดกำลัง reprice trajectory ไม่ใช่ absolute number ระวังว่ากำลัง add เพราะเห็น growth จริง หรือเพราะ "เสียดายที่ราคาลง"
-
-**ก่อนเปลี่ยนจาก WATCH → BUY ต้องผ่านสองข้อพร้อมกัน:**
-1. ตอบ "What to ask" ข้อ 1 และ 2 ได้ก่อน — bookings เป็น hard commitment ไหม และ Google in-house TPU impact คือเท่าไหร่จริงๆ
-2. Q3 FY2026 earnings **3 ก.ย. 2026** — AI semiconductor ไม่ต่ำกว่า $14.4B (kill condition ข้อ 2)
+ผ่าน 5/5 criteria แต่ moat strength อยู่แค่ Moderate เพราะ Google concentration ยังไม่ถูก quantify และ Google กำลัง eval MediaTek อยู่ → **WATCH** จนกว่าจะรู้ว่า Google = % เท่าไรของ AI chip revenue คำถามนั้นสำคัญที่สุดใน brief นี้
 
 _ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของคุณเสมอ_
+
+---
+
+## Fact Check (Eve)
+
+**28 confirmed / 2 unconfirmed / 0 no source**
+
+⚠️ Unconfirmed (แก้ไขใน body แล้ว):
+1. **FCF +38% YoY** — 10-K ระบุ Operating Cash Flow +37.9% YoY ไม่ใช่ FCF growth โดยตรง ตัวเลข $26.9B ถูกต้อง แต่ growth rate มาจาก OCF — ปรับ label ใน section 2 แล้ว
+2. **$73B+ backlog ใน section 3** — ตัวเลขถูกต้องแต่มาจาก 10-k-latest.md (FY2025 data) ไม่ใช่ q2-fy2026-call.md — ปรับ dual citation แล้ว
