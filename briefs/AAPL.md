@@ -60,7 +60,9 @@ Apple ขายสินค้า consumer electronics (iPhone, Mac, iPad, Weara
 
 ## Verdict (Neon)
 
-**BUY** — Ecosystem switching cost จาก 2.5B devices สร้าง Services flywheel ที่ดัน margin ขึ้นโครงสร้าง และ thesis ไม่พึ่ง macro
+**BUY**
+
+Ecosystem switching cost จาก 2.5B devices สร้าง Services flywheel ที่ดัน margin ขึ้นโครงสร้าง และ thesis ไม่พึ่ง macro
 
 ### เกณฑ์ 5 ข้อ
 - Moat: ✅ switching cost (ecosystem lock-in) = Strong — 2.5B active devices; Services +12.9% YoY บน GM 73.9-76.7% จาก captive base ที่ย้ายออกยาก

@@ -59,7 +59,9 @@ NVIDIA ออกแบบและขาย GPU, CPU, DPU และ networking c
 
 ## Verdict (Neon)
 
-**BUY** — CUDA switching cost ล็อค developer ทั่วโลกไว้แน่น และ fundamental Q1 FY2027 แข็งที่สุดในกลุ่ม
+**BUY**
+
+CUDA switching cost ล็อค developer ทั่วโลกไว้แน่น และ fundamental Q1 FY2027 แข็งที่สุดในกลุ่ม
 
 ### เกณฑ์ 5 ข้อ
 - Moat: ✅ switching cost (CUDA ecosystem) = Strong — developer/researcher ย้ายออกต้อง retrain ทั้งองค์กร สะสมมา 15+ ปี

@@ -76,15 +76,23 @@ Broadcom Inc. เป็นบริษัทชิปและซอฟต์แ
 
 **WATCH**
 
-- ✅ moat ระบุ power: Switching cost (custom XPU co-design) — มีอยู่จริงแต่ Moderate เพราะ Google ยังมี option เลือก supplier ได้ (ดู kill condition ข้อ 1)
-- ✅ growth driver ชัดเจน: AI chip revenue +143% YoY — ชนิดการโต = Capacity expansion (hyperscaler AI infra build-out)
-- ✅ ไม่พึ่ง macro: growth มาจาก AI infra buildout ของ hyperscaler ที่ไม่ได้ผูกกับ rate cycle หรือ GDP
-- ✅ ผ่าน momentum trap: fundamentals แข็ง — FCF $10.3B (46% of revenue), operating margin all-time high ไม่ใช่ราคาวิ่งโดยไม่มีพื้นฐาน
-- ✅ ตั้ง kill condition ได้: 3 ข้อวัดได้ชัด (Google production order, AI revenue miss >10%, VMware NRR <110%)
+Custom XPU moat มีจริงแต่ Moderate เพราะ Google concentration ยังไม่ quantify ชัด
 
-ผ่าน 5/5 criteria แต่ moat strength อยู่แค่ Moderate เพราะ Google concentration ยังไม่ถูก quantify และ Google กำลัง eval MediaTek อยู่ → **WATCH** จนกว่าจะรู้ว่า Google = % เท่าไรของ AI chip revenue คำถามนั้นสำคัญที่สุดใน brief นี้
+### เกณฑ์ 5 ข้อ
+- Moat: ❌ Switching cost (custom XPU co-design) = Moderate — มีอยู่จริงแต่ Google ยังมี option เลือก supplier อื่นได้ (ดู kill condition ข้อ 1)
+- Growth: ✅ AI chip revenue +143% YoY — Capacity expansion (hyperscaler AI infra build-out) — โตเร็ว
+- Macro: ✅ ไม่พึ่ง — growth มาจาก AI infra buildout ของ hyperscaler ไม่ผูกกับ rate cycle หรือ GDP
+- Momentum trap: ✅ ผ่าน — FCF $10.3B (46% of revenue), operating margin all-time high ไม่ใช่ราคาวิ่งโดยไม่มีพื้นฐาน
+- Kill conditions: ✅ 3 ข้อวัดได้ชัด (Google production order, AI revenue miss >10%, VMware NRR <110%)
 
-_ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของคุณเสมอ_
+### Risk ก่อน DCA
+- Google concentration ใน AI chip revenue ยังไม่ถูก quantify ชัด (คาดว่า 40-60% แต่ management ไม่ยืนยันตัวเลข)
+- Google กำลัง eval MediaTek สำหรับ TPU v9 คู่ขนานอยู่ — ถ้าเลือกย้ายออกแม้บางส่วนกระทบรายได้ทันที
+
+### จะเป็น BUY เมื่อ
+Google concentration ใน AI chip revenue ถูก quantify ชัดเจน (เช่น management เปิดเผยตัวเลข) และ Google ยืนยัน XPU order ต่อเนื่องโดยไม่มีสัญญาณย้ายไป MediaTek
+
+_verdict นี้มาจากข้อมูลใน brief วันที่ 2026-07-02 — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
 
 ---
 
