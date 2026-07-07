@@ -101,6 +101,18 @@
   .dot-buy{ background:var(--buy); } .dot-watch{ background:var(--watch); }
   .dot-pass{ background:var(--pass); } .dot-none{ background:var(--none); }
 
+  /* source-data staleness (card badge + reader line) */
+  .src-badge{
+    font-family:var(--body); font-weight:700; font-size:8.5px; letter-spacing:.02em;
+    padding:2px 6px; border-radius:6px; white-space:nowrap;
+  }
+  .r-src{
+    display:inline-flex; align-items:center; gap:5px; margin-top:8px;
+    font-size:11.5px; font-weight:600; padding:4px 10px; border-radius:999px; cursor:default;
+  }
+  .src-aging{ color:var(--watch); background:var(--watch-bg); }
+  .src-stale{ color:var(--pass);  background:var(--pass-bg);  }
+
   /* reader */
   .reader{ overflow:auto; background:var(--paper); }
   .reader-inner{ max-width:820px; margin:24px auto; padding:40px 52px 80px;
@@ -256,6 +268,19 @@
   let filter='all', search='', selected=null;
   const mdCache = {};  // cache fetched .md content in memory
 
+  // Source-data freshness: age is computed LIVE from the oldest source's fetched-date
+  // (baked into the manifest as b.src by sync-briefs.ps1). Tiers: fresh <90d (no badge),
+  // aging 90-180d (yellow), stale >180d (red). 90d = 1 quarter.
+  function sourceTier(dateStr){
+    if(!dateStr) return null;
+    const t = Date.parse(dateStr + 'T00:00:00');
+    if(isNaN(t)) return null;
+    const days = Math.floor((Date.now() - t) / 86400000);
+    if(days < 90) return null;
+    const months = Math.round(days / 30);
+    return { tier: days > 180 ? 'stale' : 'aging', days, months };
+  }
+
   // read mode: 'easy' = อ่านง่าย summary only, 'full' = thesis เต็ม. default อ่านง่าย.
   let readMode = 'easy';
   try{ readMode = localStorage.getItem('sb_readmode') || 'easy'; }catch(e){}
@@ -297,9 +322,12 @@
     items.forEach(b=>{
       const el=document.createElement('div');
       el.className='item'+(b.tk===selected?' active':'');
+      const st = sourceTier(b.src);
+      const srcBadge = st ? `<span class="src-badge src-${st.tier}" title="ข้อมูลต้นทางเก่าสุด ${b.src}${b.srcFile?' ('+b.srcFile+')':''}">~${st.months}ด</span>` : '';
       el.innerHTML=`
         <div class="item-left">
           <span class="v-tag v-${b.verdict}">${b.verdict==='none'?'—':VLABEL[b.verdict]}</span>
+          ${srcBadge}
         </div>
         <div>
           <div class="item-tk">${b.tk}</div>
@@ -348,6 +376,10 @@
     const vbadge = b.verdict==='none'
       ? `<div class="r-verdict"><span class="vbig v-none" style="border-color:var(--none);color:var(--none)">— no verdict</span><span class="vlbl">ยังไม่สรุป</span></div>`
       : `<div class="r-verdict"><span class="vbig v-${b.verdict}">${VLABEL[b.verdict]}</span><span class="vlbl">verdict</span></div>`;
+    const st = sourceTier(b.src);
+    const srcLine = st
+      ? `<div class="r-src src-${st.tier}" title="ไฟล์เก่าสุด: ${b.srcFile||'—'} — ควร refetch ก่อน re-brief">⚠ ข้อมูลต้นทางเก่าสุด ${b.src} (~${st.months} เดือน)</div>`
+      : '';
     const parts = splitBrief(mdText);
     const showEasy = parts.hasEasy && readMode === 'easy';
     const bodyMd = showEasy ? parts.easy : parts.full;
@@ -362,6 +394,7 @@
           <div class="r-tk">${b.tk}</div>
           <div class="r-co">${b.co}</div>
           <div class="r-date">Brief · ${b.date}</div>
+          ${srcLine}
         </div>
         ${vbadge}
       </div>
