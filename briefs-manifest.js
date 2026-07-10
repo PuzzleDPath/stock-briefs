@@ -192,8 +192,8 @@ window.MANIFEST = [
     {
         "tk":  "ORCL",
         "co":  "Oracle Corporation",
-        "date":  "2026-07-01",
-        "verdict":  "buy",
+        "date":  "2026-07-10",
+        "verdict":  "watch",
         "one":  "Oracle Database switching costs ฝังแน่นใน mission-critical systems หลายสิบปี และ",
         "src":  "2026-07-01",
         "srcFile":  "10-k-latest.md"
