@@ -21,10 +21,10 @@ Alphabet เป็นบริษัทแม่ของ Google ทำราย
 
 ## 3. Latest earnings (Q1 2026 — April 29, 2026)
 
-- Revenue $109.9B (+22% YoY); Search $60.4B (+19%); Cloud $20.0B (+63%); EPS $5.11 (+82%) (source: sources/GOOGL/q1-2026-call.md)
-- Cloud operating margin 32.9% (จาก 17.8% ปีก่อน); backlog $462B (nearly doubled); Cloud supply-constrained not demand-constrained (source: sources/GOOGL/q1-2026-call.md)
-- AI Overviews driving Search to "all-time highs"; Gemini ลด AI serving cost >30%; Cloud GenAI revenue +800% YoY (source: sources/GOOGL/q1-2026-call.md)
-- FCF $10.1B Q1; CapEx raised $180-190B FY2026; Wiz = "low single-digit % headwind" Cloud margin; TPU revenue recognition majority in 2027 (source: sources/GOOGL/q1-2026-call.md)
+- Revenue $109.9B (+22% YoY); Search $60.4B (+19%); Cloud $20.0B (+63%); EPS $5.11 (+82%) (source: sources/GOOGL/q-latest-call.md)
+- Cloud operating margin 32.9% (จาก 17.8% ปีก่อน); backlog $462B (nearly doubled); Cloud supply-constrained not demand-constrained (source: sources/GOOGL/q-latest-call.md)
+- AI Overviews driving Search to "all-time highs"; Gemini ลด AI serving cost >30%; Cloud GenAI revenue +800% YoY (source: sources/GOOGL/q-latest-call.md)
+- FCF $10.1B Q1; CapEx raised $180-190B FY2026; Wiz = "low single-digit % headwind" Cloud margin; TPU revenue recognition majority in 2027 (source: sources/GOOGL/q-latest-call.md)
 - SpaceX $29.4B compute deal; $0.22 dividend Jun 8; Q2 2026 earnings Jul 28 (source: Tracer)
 
 ---

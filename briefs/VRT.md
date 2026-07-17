@@ -14,18 +14,18 @@ Vertiv Holdings ขายอุปกรณ์ "หลังบ้าน" ให
 - **Revenue โตต่อเนื่อง** — FY2022 $5.7B → FY2023 $6.9B (+20.6%) → FY2024 $8.0B (+16.7%); backlog $7.2B (+30% YoY) ณ ปลาย FY2024 ให้ visibility ล่วงหน้าสูง (source: sources/VRT/10-k-latest.md)
 - **Gross margin ฟื้นชัด** — 28.4% (FY2022) → 35.0% (FY2023) → 36.6% (FY2024); operating margin กระโดด 3.9% → 12.7% → 17.1% ใน 2 ปี (source: sources/VRT/10-k-latest.md)
 - **FCF พลิกจากลบมาบวกแรง** — -$253M (FY2022) → +$773M (FY2023) → +$1.15B (FY2024); guided $2.2B FY2026 (source: sources/VRT/10-k-latest.md)
-- **Debt แทบหมดแล้ว** — net leverage 1.0x FY2024 → 0.2x Q1 2026; ได้ investment-grade credit rating ใหม่; เข้า S&P 500 (source: sources/VRT/10-k-latest.md, sources/VRT/q1-2026-call.md)
+- **Debt แทบหมดแล้ว** — net leverage 1.0x FY2024 → 0.2x Q1 2026; ได้ investment-grade credit rating ใหม่; เข้า S&P 500 (source: sources/VRT/10-k-latest.md, sources/VRT/q-latest-call.md)
 - **Operating leverage compound ชัดมาก** — margin ขึ้นแรงกว่า revenue โต ถ้า volume ยังโต FCF โตเร็วกว่า revenue (source: sources/VRT/10-k-latest.md)
 
 ---
 
 ## 3. Latest earnings (Q1 2026 — April 22, 2026)
 
-- Revenue $2.65B (+30% YoY, +23% organic); Americas $1.81B (+44% organic) (source: sources/VRT/q1-2026-call.md)
-- Adj operating margin 20.8% (+430bps YoY, 180bps above own guidance); Adj EPS $1.17 (+83% YoY) beat consensus $1.00 (+17%) (source: sources/VRT/q1-2026-call.md)
-- FCF $653M (+$147M YoY); net leverage 0.2x; เข้า S&P 500; investment-grade rating (source: sources/VRT/q1-2026-call.md)
-- FY2026 guidance raised: revenue $13.75B (+34%), adj EPS $6.35 (+51%), adj op margin 23.3% (+290bps), FCF $2.2B (source: sources/VRT/q1-2026-call.md)
-- EMEA -29% organic (management ระบุเป็น timing issue); H2 acceleration expected เมื่อ capacity investments เริ่ม hit (source: sources/VRT/q1-2026-call.md)
+- Revenue $2.65B (+30% YoY, +23% organic); Americas $1.81B (+44% organic) (source: sources/VRT/q-latest-call.md)
+- Adj operating margin 20.8% (+430bps YoY, 180bps above own guidance); Adj EPS $1.17 (+83% YoY) beat consensus $1.00 (+17%) (source: sources/VRT/q-latest-call.md)
+- FCF $653M (+$147M YoY); net leverage 0.2x; เข้า S&P 500; investment-grade rating (source: sources/VRT/q-latest-call.md)
+- FY2026 guidance raised: revenue $13.75B (+34%), adj EPS $6.35 (+51%), adj op margin 23.3% (+290bps), FCF $2.2B (source: sources/VRT/q-latest-call.md)
+- EMEA -29% organic (management ระบุเป็น timing issue); H2 acceleration expected เมื่อ capacity investments เริ่ม hit (source: sources/VRT/q-latest-call.md)
 
 ---
 

@@ -12,20 +12,20 @@ Tesla ออกแบบ ผลิต และขายรถยนต์ไฟ
 ## 2. Fundamentals signal
 
 - **Revenue แทบไม่โต:** FY2024 $97,690M (+0.95% YoY) — Auto segment flat จากแรงกดดันราคาคู่แข่งจีนและการลดราคาหลายรอบ (source: sources/TSLA/10-k-latest.md)
-- **Margin ผสม:** Gross margin ลดจาก 18.25% → 17.86% FY2024; Q1 2026 bounce กลับมา 21.1% แต่มี one-time items $250M tariff benefit + warranty adjustment รวมอยู่ด้วย — clean auto GM ยังไม่ชัด (source: sources/TSLA/10-k-latest.md, sources/TSLA/q1-2026-call.md)
-- **FCF ลดลงและกำลังติดลบ:** FCF FY2024 $3,581M (-18% YoY); Q1 2026 $1.4B แต่ guide ว่าจะติดลบตลอดที่เหลือของปี 2026 จาก capex >$25B (source: sources/TSLA/10-k-latest.md, sources/TSLA/q1-2026-call.md)
+- **Margin ผสม:** Gross margin ลดจาก 18.25% → 17.86% FY2024; Q1 2026 bounce กลับมา 21.1% แต่มี one-time items $250M tariff benefit + warranty adjustment รวมอยู่ด้วย — clean auto GM ยังไม่ชัด (source: sources/TSLA/10-k-latest.md, sources/TSLA/q-latest-call.md)
+- **FCF ลดลงและกำลังติดลบ:** FCF FY2024 $3,581M (-18% YoY); Q1 2026 $1.4B แต่ guide ว่าจะติดลบตลอดที่เหลือของปี 2026 จาก capex >$25B (source: sources/TSLA/10-k-latest.md, sources/TSLA/q-latest-call.md)
 - **Balance sheet แข็งแกร่งรองรับ capex:** Cash $36,563M vs debt $8,213M — net cash แข็งพอรองรับ burn rate ระยะหนึ่ง (source: sources/TSLA/10-k-latest.md)
-- **Growth engine ที่ต้องจับตา:** Energy +67% YoY, Services +27% YoY — combined $20B+ แต่ Q1 2026 Energy deployments miss ใหญ่ 8.8 GWh vs consensus 12–14 GWh (source: sources/TSLA/10-k-latest.md, sources/TSLA/q1-2026-call.md)
+- **Growth engine ที่ต้องจับตา:** Energy +67% YoY, Services +27% YoY — combined $20B+ แต่ Q1 2026 Energy deployments miss ใหญ่ 8.8 GWh vs consensus 12–14 GWh (source: sources/TSLA/10-k-latest.md, sources/TSLA/q-latest-call.md)
 
 ---
 
 ## 3. Latest earnings (Q1 2026 — April 22, 2026)
 
-- Revenue $22.39B (+15.8% YoY) slight beat; Non-GAAP EPS $0.41 beat consensus $0.34–0.37 (source: sources/TSLA/q1-2026-call.md)
-- Deliveries 358,023 units (+6.3% YoY) missed consensus ~7,600; inventory backlog >50,000 vehicles (source: sources/TSLA/q1-2026-call.md)
-- Gross margin 21.1% best in 8 quarters; Energy segment margin 39.5% รวม ~$250M one-time tariff benefit — margin quality ตั้งคำถามได้ (source: sources/TSLA/q1-2026-call.md)
-- Energy deployments 8.8 GWh vs consensus 12–14 GWh (-38% QoQ miss); ไม่มีคำอธิบาย de-risk Q2 (source: sources/TSLA/q1-2026-call.md)
-- Capex raised >$25B FY2026; FCF คาดติดลบตลอดที่เหลือของปี; Robotaxi revenue "not material in 2026" (source: sources/TSLA/q1-2026-call.md)
+- Revenue $22.39B (+15.8% YoY) slight beat; Non-GAAP EPS $0.41 beat consensus $0.34–0.37 (source: sources/TSLA/q-latest-call.md)
+- Deliveries 358,023 units (+6.3% YoY) missed consensus ~7,600; inventory backlog >50,000 vehicles (source: sources/TSLA/q-latest-call.md)
+- Gross margin 21.1% best in 8 quarters; Energy segment margin 39.5% รวม ~$250M one-time tariff benefit — margin quality ตั้งคำถามได้ (source: sources/TSLA/q-latest-call.md)
+- Energy deployments 8.8 GWh vs consensus 12–14 GWh (-38% QoQ miss); ไม่มีคำอธิบาย de-risk Q2 (source: sources/TSLA/q-latest-call.md)
+- Capex raised >$25B FY2026; FCF คาดติดลบตลอดที่เหลือของปี; Robotaxi revenue "not material in 2026" (source: sources/TSLA/q-latest-call.md)
 
 ---
 

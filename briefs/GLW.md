@@ -16,17 +16,17 @@ Corning เป็นบริษัทวัสดุศาสตร์ที่
 - **Margin gap ที่ยังไม่ได้รับคำอธิบาย:** GAAP gross margin 32.6%, GAAP operating margin 8.7% แต่ "core operating margin" Q4 2024 = 18.5% — ต่างกัน 10 จุด ไม่ชัดว่าอะไรถูกตัดออกจาก "core" (source: sources/GLW/10-k-latest.md)
 - **FCF ดีขึ้นแต่ถูกบีบเต็มๆ:** FY2024 FCF $1.25B (+42% YoY) แต่ shareholder return ปีเดียวกัน ~$1.2B ≈ FCF ทั้งหมด แปลว่า reinvestment ใหม่ต้องพึ่ง debt (source: sources/GLW/10-k-latest.md)
 - **Leverage สูง, CapEx เร่งขึ้น:** Long-term debt ~$6.9B vs cash ~$1.8B — net debt ~$5.1B และ CapEx guided $1.3B (FY2025) → $1.7B (FY2026) (source: sources/GLW/10-k-latest.md)
-- **Springboard margin target บรรลุแล้ว แต่ยังต้องเคลียร์ว่า GAAP หรือ core:** Q1 2026 operating margin 20.2% ตรงกับ target ของ Springboard plan — แต่ไม่ชัดว่าตัวเลขนี้คิดแบบ GAAP หรือ core (source: sources/GLW/q1-2026-call.md)
+- **Springboard margin target บรรลุแล้ว แต่ยังต้องเคลียร์ว่า GAAP หรือ core:** Q1 2026 operating margin 20.2% ตรงกับ target ของ Springboard plan — แต่ไม่ชัดว่าตัวเลขนี้คิดแบบ GAAP หรือ core (source: sources/GLW/q-latest-call.md)
 
 ---
 
 ## 3. Latest earnings
 
-- Q1 2026: revenue $4.35B (+18% YoY), gross margin 39.1% (+120 bps), operating margin 20.2% (+220 bps), EPS $0.70 (+30% YoY), FCF $188M (source: sources/GLW/q1-2026-call.md)
-- Optical Communications $1.8B (+36% YoY) — segment หลัก; Solar $370M (+80% YoY) แต่กำไรถูกกดจากการ ramp 3 โรงงานใหม่พร้อมกัน (source: sources/GLW/q1-2026-call.md)
-- Glass Innovations (Display + Specialty Materials): $1.4B, net income margin 22.8%; Automotive $437M (-1% YoY) (source: sources/GLW/q1-2026-call.md)
-- Guidance Q2 2026: revenue ~$4.6B (+14% YoY), EPS $0.73–$0.77 (+25% YoY) มี headwind $30M จาก solar maintenance shutdown ที่ plan ไว้ (source: sources/GLW/q1-2026-call.md)
-- Meta deal "up to $6B", Amazon multi-billion deal — โครงสร้าง "funding + guaranteed revenue" แต่ไม่รู้ว่า guaranteed floor จริงๆ คือเท่าไหร่ (source: sources/GLW/q1-2026-call.md)
+- Q1 2026: revenue $4.35B (+18% YoY), gross margin 39.1% (+120 bps), operating margin 20.2% (+220 bps), EPS $0.70 (+30% YoY), FCF $188M (source: sources/GLW/q-latest-call.md)
+- Optical Communications $1.8B (+36% YoY) — segment หลัก; Solar $370M (+80% YoY) แต่กำไรถูกกดจากการ ramp 3 โรงงานใหม่พร้อมกัน (source: sources/GLW/q-latest-call.md)
+- Glass Innovations (Display + Specialty Materials): $1.4B, net income margin 22.8%; Automotive $437M (-1% YoY) (source: sources/GLW/q-latest-call.md)
+- Guidance Q2 2026: revenue ~$4.6B (+14% YoY), EPS $0.73–$0.77 (+25% YoY) มี headwind $30M จาก solar maintenance shutdown ที่ plan ไว้ (source: sources/GLW/q-latest-call.md)
+- Meta deal "up to $6B", Amazon multi-billion deal — โครงสร้าง "funding + guaranteed revenue" แต่ไม่รู้ว่า guaranteed floor จริงๆ คือเท่าไหร่ (source: sources/GLW/q-latest-call.md)
 
 ---
 

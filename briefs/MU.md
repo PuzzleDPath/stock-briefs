@@ -12,23 +12,23 @@ Micron Technology เป็นผู้ผลิต DRAM (76% ของราย
 
 ## 2. Fundamentals signal
 
-- **Revenue turnaround จาก bottom ของ cycle:** FY2023 $15.5B → FY2024 $25.1B → FY2025 $37.4B (+49% YoY) → Q2 FY2026 quarterly $23.9B (+196% YoY, +75% QoQ) — momentum ชัดเจน แต่ memory เป็น cyclical business ที่ peak และ trough รุนแรงทั้งสองด้าน (source: sources/MU/10-k-latest.md, sources/MU/q2-fy2026-call.md)
-- **Margin flip ที่ผิดปกติ:** Gross margin FY2023 ติดลบ → 22% FY2024 → 40% FY2025 → 75% Q2 FY2026 (record) → guided 81% Q3 FY2026 — HBM/AI DRAM pricing premium สูงมาก แต่ margin ที่ 75-81% ยังไม่เคยเห็นใน memory business ต้องดูว่า sustainable ข้ามกี่ quarter (source: sources/MU/q2-fy2026-call.md)
-- **FCF เพิ่งเริ่ม generate ได้จริง:** FY2025 FCF เพียง $1.7B บน Capex $15.9B; Q2 FY2026 FCF เดี่ยว $6.9B (quarterly record) — แต่ FY2026 Capex guidance >$25B ทำให้ FCF ปีนี้ถูกกดหนัก ต้องดู absolute FCF จริงไม่ใช่แค่ gross margin (source: sources/MU/10-k-latest.md, sources/MU/q2-fy2026-call.md)
-- **Balance sheet ฟื้นตัวชัด:** Net cash $6.5B (all-time high); credit rating ขึ้นสู่ BBB; equity $54.2B; Revolving credit $3.5B available — สุขภาพการเงินดีกว่าตอน FY2023 มาก แต่ long-term debt $11.5B ยังมีอยู่ (source: sources/MU/10-k-latest.md, sources/MU/q2-fy2026-call.md)
+- **Revenue turnaround จาก bottom ของ cycle:** FY2023 $15.5B → FY2024 $25.1B → FY2025 $37.4B (+49% YoY) → Q2 FY2026 quarterly $23.9B (+196% YoY, +75% QoQ) — momentum ชัดเจน แต่ memory เป็น cyclical business ที่ peak และ trough รุนแรงทั้งสองด้าน (source: sources/MU/10-k-latest.md, sources/MU/q-latest-call.md)
+- **Margin flip ที่ผิดปกติ:** Gross margin FY2023 ติดลบ → 22% FY2024 → 40% FY2025 → 75% Q2 FY2026 (record) → guided 81% Q3 FY2026 — HBM/AI DRAM pricing premium สูงมาก แต่ margin ที่ 75-81% ยังไม่เคยเห็นใน memory business ต้องดูว่า sustainable ข้ามกี่ quarter (source: sources/MU/q-latest-call.md)
+- **FCF เพิ่งเริ่ม generate ได้จริง:** FY2025 FCF เพียง $1.7B บน Capex $15.9B; Q2 FY2026 FCF เดี่ยว $6.9B (quarterly record) — แต่ FY2026 Capex guidance >$25B ทำให้ FCF ปีนี้ถูกกดหนัก ต้องดู absolute FCF จริงไม่ใช่แค่ gross margin (source: sources/MU/10-k-latest.md, sources/MU/q-latest-call.md)
+- **Balance sheet ฟื้นตัวชัด:** Net cash $6.5B (all-time high); credit rating ขึ้นสู่ BBB; equity $54.2B; Revolving credit $3.5B available — สุขภาพการเงินดีกว่าตอน FY2023 มาก แต่ long-term debt $11.5B ยังมีอยู่ (source: sources/MU/10-k-latest.md, sources/MU/q-latest-call.md)
 - **Capital allocation ช่วง cycle ขาขึ้น:** $10B buyback อนุมัติแล้ว ทำไปแล้ว $7.19B ณ สิ้น FY2025; CHIPS Act grant $6.4B สำหรับ US fab; FY2026 Capex >$25B — ลงทุน + คืนเงินผู้ถือหุ้นพร้อมกัน (source: sources/MU/10-k-latest.md)
 
 ---
 
 ## 3. Latest earnings
 
-_Q2 FY2026 (ธ.ค. 2025 – ก.พ. 2026) รายงาน 18 มี.ค. 2026 — ทุก bullet จาก sources/MU/q2-fy2026-call.md_
+_Q2 FY2026 (ธ.ค. 2025 – ก.พ. 2026) รายงาน 18 มี.ค. 2026 — ทุก bullet จาก sources/MU/q-latest-call.md_
 
-- รายได้รวม $23.9B (+196% YoY, +75% QoQ) — fourth consecutive quarterly record; largest sequential dollar jump in company history ($10.2B); DRAM $18.8B (+207% YoY), NAND $5.0B (+169% YoY) (source: sources/MU/q2-fy2026-call.md)
-- Gross margin 75% (+18pp QoQ, all-time record); Operating margin 69%; Non-GAAP EPS $12.20 (+682% YoY, +155% QoQ); FCF $6.9B quarterly record; Net cash $6.5B all-time high (source: sources/MU/q2-fy2026-call.md)
-- Q3 FY2026 guidance: revenue $33.5B ±$750M (all-time quarterly record projected), gross margin ~81%, EPS $19.15 ±$0.40; FY2026 Capex >$25B; Q3 FCF คาด roughly double จาก Q2 (source: sources/MU/q2-fy2026-call.md)
-- CEO Sanjay Mehrotra: AI demand ทำให้ data center DRAM+NAND TAM ข้ามเกิน 50% ของ industry TAM เป็นครั้งแรกใน calendar 2026; supply ตึงพอที่ลูกค้าบางรายได้รับสินค้าแค่ 50-67% ของที่ต้องการ; signed first five-year Strategic Customer Agreement (source: sources/MU/q2-fy2026-call.md)
-- CFO: Return on capital >30% (target 50%); 1γ DRAM node ramp เร็วที่สุดในประวัติ Micron กำลังเป็น majority ของ production ภายใน mid-2026 (source: sources/MU/q2-fy2026-call.md)
+- รายได้รวม $23.9B (+196% YoY, +75% QoQ) — fourth consecutive quarterly record; largest sequential dollar jump in company history ($10.2B); DRAM $18.8B (+207% YoY), NAND $5.0B (+169% YoY) (source: sources/MU/q-latest-call.md)
+- Gross margin 75% (+18pp QoQ, all-time record); Operating margin 69%; Non-GAAP EPS $12.20 (+682% YoY, +155% QoQ); FCF $6.9B quarterly record; Net cash $6.5B all-time high (source: sources/MU/q-latest-call.md)
+- Q3 FY2026 guidance: revenue $33.5B ±$750M (all-time quarterly record projected), gross margin ~81%, EPS $19.15 ±$0.40; FY2026 Capex >$25B; Q3 FCF คาด roughly double จาก Q2 (source: sources/MU/q-latest-call.md)
+- CEO Sanjay Mehrotra: AI demand ทำให้ data center DRAM+NAND TAM ข้ามเกิน 50% ของ industry TAM เป็นครั้งแรกใน calendar 2026; supply ตึงพอที่ลูกค้าบางรายได้รับสินค้าแค่ 50-67% ของที่ต้องการ; signed first five-year Strategic Customer Agreement (source: sources/MU/q-latest-call.md)
+- CFO: Return on capital >30% (target 50%); 1γ DRAM node ramp เร็วที่สุดในประวัติ Micron กำลังเป็น majority ของ production ภายใน mid-2026 (source: sources/MU/q-latest-call.md)
 
 ---
 
