@@ -218,8 +218,8 @@ window.MANIFEST = [
     },
     {
         "tk":  "TSM",
-        "co":  "Taiwan Semiconductor Manufacturing Company",
-        "date":  "2026-06-28",
+        "co":  "Taiwan Semiconductor Manufacturing Co.",
+        "date":  "2026-07-22",
         "verdict":  "buy",
         "one":  "TSMC มีความได้เปรียบที่แกร่งที่สุดในอุตสาหกรรม",
         "src":  "2026-06-10",

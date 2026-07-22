@@ -1,99 +1,82 @@
-# TSM — Taiwan Semiconductor Manufacturing Company
-_Brief generated: 2026-06-28_
+# TSM — Taiwan Semiconductor Manufacturing Co.
+_Brief generated: 2026-07-22_
 
 ## อ่านง่าย
 
-**ทำอะไร:** TSMC คือโรงงานผลิตชิปที่ใหญ่ที่สุดในโลก — บริษัทอย่าง Apple, NVIDIA, และ AMD ออกแบบชิปมาแล้ว ส่งให้ TSMC ผลิตให้ ไม่มีใครผลิตเอง เงินมาจากค่าจ้างผลิตนั่นแหละ
+**ทำอะไร:** TSMC เป็นโรงงานรับจ้างผลิตชิปที่ใหญ่ที่สุดในโลก บริษัทดังอย่าง Apple, NVIDIA, AMD ออกแบบชิปเสร็จแล้วส่งแบบมาให้ TSMC ผลิตให้ (TSMC ไม่ได้ออกแบบชิปเอง แค่ผลิตอย่างเดียว)
 
-**ทำไมน่าสนใจ:** ลูกค้าระดับโลกย้ายไปหาคนอื่นแทบไม่ได้ เพราะไม่มีใครทำชิปขั้นสูงได้ดีกว่า — ถึงขนาดขึ้นราคา 5-10% แล้วลูกค้าก็ยังอยู่ครบ ปีที่ผ่านมารายได้โต 34% และกำไรต่อหุ้นโต 40% แรงขับหลักคือกระแส AI ที่ต้องการชิปมากขึ้นเรื่อยๆ
+**ทำไมน่าสนใจ:** เป็นเจ้าเดียวในโลกที่ผลิตชิปรุ่นล้ำสมัยที่สุด (2nm/3nm — ยิ่งเลขน้อยยิ่งเล็กและแรง) ได้เยอะจริงในระดับที่คู่แข่งอย่าง Samsung/Intel ตามไม่ทัน ทำให้ทั้งวงการ AI ต้องพึ่ง TSMC และงบล่าสุดก็ทำสถิติ รายได้โต 36% กำไรพุ่ง 77% โดยชิปสาย AI คิดเป็น 2 ใน 3 ของรายได้
 
-**ต้องระวัง:** TSMC ทุ่มเงินสร้างโรงงานหนักมากในปีนี้ ถ้าดีมานด์ชะลอกะทันหัน ต้นทุนก็หนัก และที่สำคัญที่สุดคือความเสี่ยงเรื่องไต้หวัน — โรงงานหลักอยู่ที่นั่น ถ้าเกิดความขัดแย้งทางภูมิรัฐศาสตร์ (ความตึงเครียดระหว่างประเทศ) กระทบหนักมาก
+**ต้องระวัง:** (1) โรงงานหลักอยู่ไต้หวัน ถ้ามีปัญหาการเมืองระหว่างประเทศจะกระทบหนัก (2) รายได้พึ่ง AI มาก ถ้าลูกค้า AI ชะลอการสั่งซื้อจะสะเทือนทันที (3) ปีนี้ทุ่มเงินสร้างโรงงานใหม่มหาศาล ทำให้เงินสดเหลือน้อยลง และต้นทุนเริ่มผลิตชิป 2nm กับโรงงานที่อเมริกา (Arizona) ยังแพง จะกดกำไรช่วงครึ่งปีหลัง — เหตุนี้เองที่หุ้นร่วงราว 15% ในเดือน ก.ค. ทั้งที่งบออกมาดี
 
-**สรุปสั้นๆ:** โดยรวม TSMC มีจุดแข็งที่ชัดเจน — ลูกค้าหนีไม่ได้ และกำลังได้ประโยชน์จากกระแส AI เต็มๆ Neon มองว่าน่าสนใจ แต่เน้นว่าต้องถามตัวเองก่อนว่ารับได้ไหมถ้าความตึงเครียดในไต้หวันเพิ่มขึ้น เพราะนั่นคือความเสี่ยงที่ตัวเลขสวยๆ ปิดบังไว้ไม่ได้
-
----
+**สรุปสั้นๆ:** โดยรวมเป็นบริษัทที่แข็งแรง มีข้อได้เปรียบที่ลอกยากมากและยังโตต่อ (บริษัทบอกเองว่าปีนี้รายได้จะโตเกิน 40%) Neon ให้ผลเป็น "ผ่าน" ทั้ง 5 ข้อที่ใช้คัดกรอง เพราะทั้งความแข็งของธุรกิจ การเติบโต และความชัดของว่าใครเป็นลูกค้า ครบหมด — แต่นี่เป็นแค่ข้อมูลประกอบ ไม่ใช่คำสั่งให้ซื้อ เจ้าของพอร์ตต้องตอบคำถามตัวเองให้หมดก่อนตัดสินใจเอง
 
 ## 1. Company snapshot
 
-TSMC (Taiwan Semiconductor Manufacturing Company) คือโรงงานผลิตชิปที่ใหญ่ที่สุดในโลกแบบ "pure-play foundry" — รับออกแบบของบริษัทอื่นมาผลิต ไม่ออกแบบชิปเอง ลูกค้าหลักคือ Apple, NVIDIA, AMD, Qualcomm และ Broadcom ที่ออกแบบชิปเองแต่ไม่มีโรงงาน รายได้ FY2024 รวม US$90.08 พันล้าน มาจากกลุ่ม HPC (AI server, data center) 51% และ Smartphone 35% — ใครก็ตามที่ต้องการชิป advanced node ชั้นนำของโลก ต้องมาที่ TSMC
+TSMC เป็นโรงงานรับจ้างผลิตชิป (foundry) อิสระที่ใหญ่ที่สุดในโลก — ผลิตวงจรรวมตามดีไซน์ที่ลูกค้าส่งมา โดยตัวเองไม่ออกแบบชิป ลูกค้าคือบริษัทออกแบบชิปแบบ fabless เช่น Apple, NVIDIA, AMD, Qualcomm, Broadcom และอีกหลายร้อยราย จุดแข็งอยู่ที่ node ล้ำสมัยสุด (2nm/3nm/5nm) ที่ป้อนตัวเร่ง AI, data center และสมาร์ทโฟน รายได้แบ่งตาม platform หลัก: HPC/AI 66% และ Smartphone 22% ของรายได้ (Q2 2026)
 
 ## 2. Fundamentals signal
 
-- **Revenue ฟื้นแรง:** FY2024 รายได้ +33.9% YoY ที่ US$90.08bn หลังจาก FY2023 ติดลบเล็กน้อย (-4.5%) — แรงขับหลักมาจาก HPC/AI ที่โต +58% YoY ในปีเดียว (source: sources/TSM/20-f-latest.md)
-- **Margin กำลังขยาย:** Gross margin FY2024 ที่ 56.1% (Q4 2024 ขึ้นไปถึง 59.0%) เทียบกับ FY2023 ที่ 54.4% และ Operating margin FY2024 ที่ 45.7% vs 42.6% ในปีก่อน — ทิศทางขึ้นตลอด (source: sources/TSM/20-f-latest.md)
-- **Balance sheet แข็ง:** Net cash บวก — cash + short-term investments NT$2,127.63bn เทียบกับ debt NT$1,047.04bn → net cash NT$1,080.58bn บวก equity NT$4,288.55bn (source: sources/TSM/20-f-latest.md)
-- **Capex หนักมากแต่มีเจตนาชัด:** Capex FY2024 จริง US$29.76bn (~33% ของรายได้ FY2024 — อัตราส่วนคำนวณ), guidance FY2025 US$38-42bn, FY2026 US$52-56bn — บริษัทกำลังลงทุนล่วงหน้าเพื่อ capacity AI ซึ่งใช้เวลา 2-3 ปีกว่าจะผลิตได้ เงินปันผล NT$363.05bn ก็จ่ายไปด้วย (source: sources/TSM/20-f-latest.md; FY2026 capex: sources/TSM/q-latest-call.md)
-- **EPS โตเร็วกว่า revenue:** Diluted EPS FY2024 NT$45.25 (+39.9% YoY vs NT$32.34 FY2023), net income FY2024 US$36.52bn (+35.9% YoY) (source: sources/TSM/20-f-latest.md)
+- **Revenue โตแรง หลังฟื้นจาก dip:** FY2024 รายได้ ~NT$2,894bn (US$90bn) +33.9% YoY ฟื้นจากที่หดตัว -4.5% ปี 2023; ล่าสุด Q2 2026 ทำสถิติ US$40.20B (+36% YoY, +12% QoQ) ตัวขับคือ HPC/AI
+- **Margin ขาขึ้น:** gross margin ขึ้นจาก ~56.1% FY2024 มาที่ 67.7% ใน Q2 2026 (operating 60.3%, net 55.6%) — mix ที่ไปทาง leading-edge/HPC ดันขึ้น
+- **Balance sheet แข็งแรงมาก อยู่ในสถานะ net cash:** เงินสด + short-term investments ~NT$2,128bn มากกว่าหนี้ ~NT$1,047bn = ถือเงินสดมากกว่าหนี้ ทนวัฏจักรและลงทุนหนักได้โดยไม่ต้องพึ่งกู้ (ตัวเลข ตรวจสอบใน 20-F ล่าสุด)
+- **Capital allocation — capex หนักและกำลังเร่งขึ้น:** capex 2026 ปรับ guidance ขึ้นเป็น US$60–64B (จาก US$52–56B); FY2024 จริง ~NT$956bn (~US$29.8bn) นี่คือธุรกิจ capital-intensive สูง กินกระแสเงินสดก้อนใหญ่ทุกปี
+- **Dividend จ่ายต่อเนื่องแต่รอง capex:** จ่ายปันผลสม่ำเสมอ (FY2024 ~NT$363bn) แต่ payout เล็กเมื่อเทียบ capex ชัดว่าลำดับความสำคัญคือ reinvest เพื่อ growth ก่อน
 
-## 3. Latest earnings (Q1 2026)
+## 3. Latest earnings (Q2 2026, reported July 16 2026)
 
-- Revenue Q1 2026: US$35.9bn (+6.4% QoQ ใน USD, +8.4% ใน TWD) (source: sources/TSM/q-latest-call.md)
-- HPC: 61% ของรายได้ wafer (+20% QoQ), Smartphone: 26% (-11% QoQ) — AI กำลัง reshape composition (source: sources/TSM/q-latest-call.md)
-- Gross margin: 66.2% (+390 bps QoQ), Operating margin: 58.1% (+410 bps QoQ) (source: sources/TSM/q-latest-call.md)
-- EPS: TWD 22.08/share (source: sources/TSM/q-latest-call.md)
-- Operating cash flow: TWD 699bn, CapEx Q1: US$11.1bn (source: sources/TSM/q-latest-call.md)
-- Q2 2026 Guidance: Revenue US$39.0-40.2bn (~+10% QoQ), gross margin 65.5-67.5%, operating margin 56.5-58.5% (source: sources/TSM/q-latest-call.md)
-- Full-year 2026: revenue growth >30% ใน USD, CapEx $52-56bn (source: sources/TSM/q-latest-call.md)
-- CEO C.C. Wei: AI กำลังเปลี่ยนจาก generative/query mode ไปสู่ agentic/command mode ทำให้ token consumption เพิ่มขึ้นอีกขั้น — นี่คือ driver ของ HPC demand ที่พุ่ง 20% QoQ (source: sources/TSM/q-latest-call.md)
+- Revenue NT$1,270.38B / US$40.20B, +36% YoY, +12% QoQ — record (source: sources/TSM/q-latest-call.md)
+- Net income NT$706.56B, +77.4% YoY; diluted EPS NT$27.25 (US$4.31/ADR) (source: sources/TSM/q-latest-call.md)
+- Margins: gross 67.7%, operating 60.3%, net 55.6% (source: sources/TSM/q-latest-call.md)
+- Node mix (wafer revenue): 5nm 33%, 3nm 30%, 2nm 3% (contribution แรก); platform HPC/AI 66%, smartphone 22% (source: sources/TSM/q-latest-call.md)
+- Guidance: Q3 2026 revenue US$44.6–45.8B, gross margin 65–67%, operating 56–58%; FY2026 revenue growth >40% YoY; 2026 capex ปรับขึ้นเป็น US$60–64B (source: sources/TSM/q-latest-call.md)
+- Management: AI/HPC demand "extremely robust"; N2 ramp จะ dilute gross margin 3–4 pts ใน 2H 2026, overseas fabs dilute อีก 2–3%; Arizona ประกาศลงทุนเพิ่ม US$100B (รวม commitment US$265B) (source: sources/TSM/q-latest-call.md)
 
 ## 4. Bull case / Bear case
 
-**Bull case:**
-- TSMC เป็นผู้ผลิตชิป advanced node เดียวที่เชื่อถือได้ระดับโลก — moat มาจาก **switching cost** (Apple/NVIDIA ต้องใช้เวลา 2-3 ปีในการ re-tape-out และ re-qualify fab ใหม่) บวก **scale economies** (เป็นเจ้าเดียวที่ yield advanced node ใน volume ได้ → ต้นทุนต่ำสุดในอุตสาหกรรม)
-- AI demand reshape revenue จาก HPC 51% (FY2024) → 61% (Q1 2026) อย่างต่อเนื่อง ตาม CEO C.C. Wei การเปลี่ยนไปสู่ agentic AI จะเพิ่ม token consumption อีกขั้น ทำให้ demand structural ไม่ใช่ one-time
-- TSMC ประกาศขึ้นราคา 5-10% บน leading-edge processes (7nm และต่ำกว่า ~75% ของรายได้) ในปี 2026 และลูกค้าหลักยังอยู่ — pricing power ที่ foundry อื่นทำไม่ได้ (ตัวเลขจากข่าว — ไม่อยู่ใน 10-K/transcript; source: sources/TSM/news-latest.md)
+**Bull:**
+- **Moat = scale economies + leading-edge technology leadership (Strong):** TSMC เป็นเจ้าเดียวที่ volume-produce node ล้ำสมัยสุด (2nm/3nm) ได้จริงในปริมาณมาก — power ที่แท้จริงคือ "ไม่มีใครทำ node ระดับนี้ปริมาณมากได้" ไม่ใช่การล็อกลูกค้าด้วยสัญญา อุตสาหกรรม AI เกือบทั้งวงจึงต้องพึ่ง
+- **Growth driver = AI/HPC secular demand:** HPC โตจนเป็น 66% ของรายได้ N2 (2nm) เพิ่งเริ่ม ramp เป็น leg การเติบโตถัดไป บริษัทยก guidance FY2026 เป็นโต >40% YoY
 
-**Bear case:**
-1. **Capex กำลังกิน cash ที่ gross margin สร้าง:** FY2024 capex-to-revenue อยู่ที่ ~33% (US$29.76bn / US$90.08bn — อัตราส่วนคำนวณ) และ FY2026 guidance บ่งชี้ว่าจะขยับขึ้นไปอีก (~$54bn capex บน revenue >$117bn ถ้า >30% growth ทำได้ — อัตราส่วนคำนวณ) Headline gross margin 66.2% ดูสูง แต่หัก capex แล้ว free cash flow บางมากเทียบกับ size บริษัท
-2. **HPC/AI concentration = single-cycle exposure:** HPC ขึ้นจาก 51% (FY2024) → 61% (Q1 2026) ขณะ Smartphone ลงจาก 35% → 26% — ถ้า hyperscaler AI capex ชะลอ (ซึ่งเคยเกิดใน cloud infra cycle ปี 2022-2023 โดยไม่ต้องมี geopolitical event) จะไม่มี segment อื่นรองรับ และ leading-edge capacity repurpose ไม่ได้ในระยะสั้น
-3. **Overseas fab expansion เปลี่ยน cost structure ถาวร:** Arizona ใช้ US labor rates ที่แพงกว่า Taiwan มาก Japan second fab รัน 3nm (ไม่ใช่ mature node — source: sources/TSM/q-latest-call.md) แต่ cost base overseas ยังสูงกว่า Taiwan อย่างมีนัยสำคัญ CFO ยืนยันว่า overseas dilution จะเพิ่มจาก 2-3% เป็น 3-4% ในระยะต่อไป (source: sources/TSM/q-latest-call.md) Europe fab มุ่ง automotive แต่ไม่มีข้อมูลใน source files ที่มีอยู่ รวมกันแล้ว margin dilution จากต่างประเทศน่าจะ structural มากกว่า temporary
+**Bear (จาก Rey):**
+- **รายได้กระจุกในวงจร demand เดียวที่ยังพิสูจน์ความยั่งยืนไม่ได้:** HPC/AI 66% ของรายได้ (โต ~20% QoQ) แปลว่า growth ของ TSM ผูกกับงบ AI-capex ของ hyperscaler ไม่กี่ราย (NVIDIA, AMD, Broadcom, in-house silicon) ซึ่ง TSM คุมไม่ได้ ถ้ามีการ pull-forward / double-order อยู่ digestion quarter เดียวกระทบหนักกว่าอดีตที่ธุรกิจกระจายกว่านี้ — และ brief ไม่มีข้อมูล backlog visibility เลย ความไม่รู้ตรงนี้เองคือความเสี่ยง
+- **Margin ถูก guide ให้หดจากตัวเลขของบริษัทเอง ไม่ใช่การเดา:** N2 ramp dilute gross margin 3–4 pts ใน 2H 2026 + overseas fabs อีก 2–3% (ขยายเป็น 3–4% เมื่อ scale) รวมเป็น drag ได้ถึง 5–8 pts; Q3 gross margin ถูก guide ลงมาที่ 65–67% จาก 67.7% — จุดสูงสุดของ margin อาจอยู่ข้างหลังไปหลายไตรมาสแม้รายได้ยังโต
+- **Capex เร่งเร็วกว่าที่ตลาดจะยอมจ่ายด้วยศรัทธา:** capex 2026 ปรับขึ้นเป็น US$60–64B, Arizona commitment รวม US$265B — เม็ดเงินก้อนใหญ่ที่กด free cash flow ตลาด vote แล้วด้วยการที่หุ้นร่วง ~15% ในเดือน ก.ค. แม้ผลประกอบการทำสถิติ ถ้า demand AI normalize ระหว่างที่ capex ล็อกไปแล้ว TSM จะเหลือกำลังผลิตต่างประเทศที่แพงและกด margin
+- **Geopolitics = tail risk ที่ hedge หรือ model ไม่ได้:** การผลิตกระจุกที่ไต้หวัน; โรงงานต่างประเทศยังห่างจากสัดส่วนที่มีนัยและเป็นตัวที่กด margin ด้วย ความเสี่ยง cross-strait / tariff เป็น binary low-probability/high-severity ที่ไม่มีสัญญาณเตือนล่วงหน้า — size ให้เหมาะ
 
-## 5. Kill conditions
+## 5. Kill conditions (จาก Rey)
 
-1. Gross margin ต่ำกว่า 60% ติด 2 quarter ขณะที่ capex guidance ยัง >US$45bn — overseas dilution มาเร็วกว่า schedule + price hike ชดเชยไม่พอ
-2. HPC/AI wafer revenue ลด QoQ ติด 2 quarter โดยที่ Smartphone ไม่กลับมา >30% ของ mix — สัญญาณ AI capex cycle pause กระทบ TSMC โดยตรงโดยไม่มีตัว offset
-3. ลูกค้า top-3 (Apple, NVIDIA, AMD) ประกาศ production tape-out กับ Samsung SF2 หรือ Intel 18A สำหรับ flagship product ที่ volume — moat มี crack ที่วัดได้ ติดตาม: Apple A-series/M-series announcements, NVIDIA Blackwell successor roadmap
-4. Arizona หรือ Japan fab ถึง >10% ของ TSMC total wafer output ขณะที่ gross margin ในช่วงเดียวกัน <62% — confirm dilution effect จริง ไม่ใช่แค่ modeling
-5. US government ขยาย export restrictions ให้ครอบคลุม tooling หรือ materials ที่ flow เข้า TSMC Taiwan fabs (ไม่ใช่แค่ chip export controls ปลายทาง) — กระทบ Taiwan output โดยไม่ต้องมี military event สังเกตได้จาก Commerce Department filings
+- **Gross margin ต่ำกว่า 65% 2 ไตรมาสติดกัน** — 65% คือ floor ที่บริษัท guide เองสำหรับ Q3 ถ้าหลุดต่อเนื่อง 2 ไตรมาส แปลว่า dilution จาก N2 + overseas แย่หรือถาวรกว่าที่ guide → thesis เรื่อง margin durability พัง
+- **HPC/AI revenue ลด QoQ หรือ guidance รายได้ทั้งปีถูกหั่นต่ำกว่า +30% YoY** — FY2026 guide ไว้ >40% ถ้า HPC หด QoQ (Q2 โต ~20% QoQ) หรือ guide ลงทะลุ 30% คือสัญญาณแข็งแรกว่า demand AI กำลัง digest ไม่ใช่ structural
+- **capex 2026 ถูกหั่นกลางปีต่ำกว่า floor US$60B** — foundry ที่หั่น capex ระหว่าง "structural megatrend" กำลังบอกว่า management ไม่เห็น demand แล้ว — ดังกว่าเสียง analyst ทุกราย
+- **ลูกค้า top (Apple/NVIDIA/AMD) ประกาศย้าย volume ของ node ล้ำสมัยไปคู่แข่ง** — เช่น flagship ผลิตที่ Samsung SF2 หรือ Intel 18A/14A ในระดับ volume คือบททดสอบตรงๆ ของ technology-leadership moat
+- **cross-strait escalation ที่ชี้ชัด** — export ban, blockade หรือ policy/military event ที่ระบุ Taiwan-fab semiconductors โดยตรง ไม่ใช่แค่ "ตึงเครียดขึ้น" แต่เป็นเหตุการณ์จริงที่กระทบการส่งมอบ
 
 ## 6. What to ask before owning it
 
-1. คุณเข้าใจไหมว่าเหตุใด TSMC ถึงแทบไม่มีคู่แข่งในระดับ 3nm และ 2nm? Samsung SF2 และ Intel 18A ยังห่างแค่ไหนในแง่ yield และ customer wins จริงๆ?
-2. ถ้า Apple หรือ NVIDIA ประกาศลด order — คุณจะถือต่อหรือขาย? มีเกณฑ์ชัดก่อนซื้อหรือเปล่า?
-3. คุณรับ geopolitical binary risk ได้ไหม? ถ้าหุ้นลง 30%+ จากข่าวช่องแคบไต้หวันโดย fundamental ไม่เปลี่ยน คุณทำอะไร?
-4. CapEx เพิ่มขึ้นทุกปี ($29bn → $38-42bn → $52-56bn) ส่งผลต่อ free cash flow จริงๆ อย่างไร? TSMC ยัง generate free cash flow บวกไหมหลังหักลงทุน?
-5. ราคาที่คุณคิดจะซื้อ implied valuation เท่าไหร่? P/E เทียบกับ growth rate (EPS +39.9% YoY) สมเหตุสมผลไหม?
+- backlog visibility เป็นอย่างไร ลูกค้ากำลัง double-order อยู่หรือไม่ — ทั้ง bull ที่ว่า HPC=66% ยืนบนข้อนี้ แต่ brief ไม่มีข้อมูลเลย
+- capex 2026 committed เท่าไหร่ vs flexible เท่าไหร่ — ตัวกำหนดว่าถ้า demand air-pocket มาหลังจ่ายเงินไปแล้วจะเจ็บแค่ไหน
+- overseas fab จะเลิกเป็นตัวกด margin เมื่อไหร่ — management บอกว่า dilution จะ "ขยาย" เป็น 3–4% ก่อนดีขึ้น แล้วกี่ปีถึงจะกลับ
+- ถ้า AI-capex ของ hyperscaler ชะลอ TSM จะโดนหนักแค่ไหนเมื่อ HPC เป็น 66% ของรายได้
+- geopolitics ไต้หวันจะกระทบ supply chain และตัวเราในฐานะผู้ถือยาวอย่างไร — เรารับความเสี่ยงนี้ได้ไหม
 
 ## Verdict (Neon)
 
-**BUY**
+**BUY** — ผ่านครบ 5 ข้อ
 
-ความได้เปรียบแกร่งสุดในอุตสาหกรรมจาก switching cost + scale ที่คู่แข่งลอกไม่ได้
+- **Moat:** ✅ Scale economies + leading-edge tech leadership = Strong — เจ้าเดียวที่ volume-produce 3nm/2nm ได้ AI ทั้งอุตสาหกรรมต้องพึ่ง
+- **Growth:** ✅ AI/HPC secular demand (HPC 66% + N2 leg ถัดไป), FY2026 rev >40%
+- **Macro:** ✅ ไม่พึ่ง — driver คือ AI-capex structural ไม่ใช่ Fed/rate; geopolitics เป็น tail risk ไม่ใช่ thesis หลัก
+- **Momentum trap:** ✅ ผ่าน — fundamental รองรับเต็ม (rev record +36% YoY, margin 67.7%); หุ้นร่วง ~15% แม้ผลดี = ราคาไม่ได้วิ่งนำ
+- **Kill conditions:** ✅ ตั้งได้ 5 ข้อ วัดได้จริง
 
-### เกณฑ์ 5 ข้อ
-- Moat: ✅ switching cost + scale economies = Strong — ขึ้นราคา 5-10% ได้โดยลูกค้าหลักยังอยู่ คือหลักฐานจับต้องได้
-- Growth: ✅ AI/HPC compute demand (structural) — โตทนยาว (revenue +33.9%, EPS +39.9% YoY และ demand ยืนยาว)
-- Macro: ✅ ไม่พึ่ง Fed — AI demand เป็น structural ไม่ใช่ rate-sensitive; growth พิสูจน์ก่อนราคาวิ่ง
-- Momentum trap: ✅ ผ่าน — revenue/EPS โตก่อนและสอดคล้องกับ demand จริง ไม่ใช่ราคาล้ำหน้า fundamental
-- Kill conditions: ✅ 5 ข้อวัดได้จริง มี threshold ชัด
-
-### Risk ก่อน DCA
-- Capex intensity ทำให้ free cash flow บางกว่าที่ gross margin บอก
-- Geopolitical risk เป็น binary event (หุ้นลง 20-30%+ ได้โดย fundamental ไม่เปลี่ยน) — ตอบคำถาม #3 ใน "What to ask" ให้ได้ก่อนซื้อ
-
-_verdict นี้มาจากข้อมูลใน brief วันที่ 2026-06-28 — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
+_verdict นี้มาจากข้อมูลใน brief วันที่ 2026-07-16 — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
 
 ## Fact Check (Eve)
 
-**Source files checked:**
-- `sources/TSM/20-f-latest.md` (Form 20-F FY2024 + 6-K Q4 2024)
-- `sources/TSM/q-latest-call.md` (Q1 2026 earnings call transcript)
-- `sources/TSM/news-latest.md` (news digest 2026-06-28)
+**30 confirmed / 0 unconfirmed / 0 uncheckable** — ทุกตัวเลขใน brief trace กลับไปที่ไฟล์ใน `sources/TSM/` ได้
 
-**37 confirmed / 5 reconciled:**
-
-- ⚠️ Bear case capex ratios (33% และ ~46%) — derived calculations จากตัวเลขที่ confirm แล้ว ไม่ได้ระบุเป็น ratio ใน source ตรงๆ → ระบุว่า "อัตราส่วนคำนวณ" ไว้แล้วใน body
-- ⚠️ "Japan mature node" จาก Rey's original — **ผิด** ตาม q-latest-call.md (Japan second fab รัน 3nm) → แก้แล้วใน body
-- ⚠️ "Europe automotive slowdown" — ไม่มีใน source files ที่มีอยู่ → ระบุว่า "ไม่มีข้อมูลใน source files" ไว้แล้วใน body
-- ⚠️ Timeline "2027-2028" จาก Rey's original — CFO ระบุ "widening later" แต่ไม่ได้ระบุ year ตรงๆ → ลบออกแล้ว
-- ✅ Kill condition thresholds — เป็น analytical thresholds ไม่ใช่ factual claims จาก source ไม่ต้อง verify
+- Q2 2026: revenue US$40.20B / NT$1,270.38B (+36% YoY, +12% QoQ), net income NT$706.56B (+77.4%), EPS NT$27.25/US$4.31 ADR, margins 67.7%/60.3%/55.6%, node mix 5nm 33%/3nm 30%/2nm 3%, HPC 66%/smartphone 22% — ✅ ทั้งหมด (sources/TSM/q-latest-call.md)
+- Guidance Q3 (rev US$44.6–45.8B, GM 65–67%, op 56–58%), FY2026 >40%, capex US$60–64B, margin dilution N2 3–4 pts + overseas 2–3%, Arizona +US$100B/รวม US$265B — ✅ (sources/TSM/q-latest-call.md, news-latest.md)
+- FY2024 20-F: revenue NT$2,894bn (+33.9%, 2023 -4.5%), GM 56.1%/op 45.7%, net cash (cash+ST NT$2,128bn > debt NT$1,047bn), capex NT$956bn/US$29.8bn, dividend NT$363bn — ✅ (sources/TSM/20-f-latest.md)
+- หมายเหตุ: news file อ้าง Q2 revenue ~$39.63B (Reuters USD conversion) ต่างจาก official $40.20B — brief ใช้เลขจาก earnings release ถูกต้องแล้ว ไม่ conflict
