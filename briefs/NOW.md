@@ -1,100 +1,83 @@
 # NOW — ServiceNow, Inc.
-_Brief generated: 2026-06-29_
+_Brief generated: 2026-07-23_
 
 ## อ่านง่าย
 
-**ทำอะไร:** ServiceNow ทำโปรแกรมให้บริษัทใหญ่และหน่วยงานรัฐ เปลี่ยนงานที่คนต้องทำมือ เช่น เปิด ticket แจ้งซ่อม IT, ขออนุมัติเอกสาร HR, จัดการคำร้องภายในองค์กร ให้กลายเป็นระบบอัตโนมัติ รายได้มาจากค่าสมัครสมาชิกรายปีที่ลูกค้าจ่ายซ้ำทุกปี
+**ทำอะไร:** ServiceNow ทำโปรแกรมคลาวด์ชื่อ "Now Platform" ขายให้บริษัทใหญ่และหน่วยงานรัฐเอาไปเปลี่ยนงานที่คนต้องทำมือ เช่น แจ้งซ่อม IT, ขออนุมัติเอกสาร HR, งานลูกค้าสัมพันธ์ และงานความปลอดภัย ให้กลายเป็นระบบอัตโนมัติ รวมงานหลายแผนกไว้ที่เดียว เงินเกือบทั้งหมด (~97%) มาจากค่าสมาชิกรายปีที่ลูกค้าจ่ายซ้ำทุกปี ไม่ใช่ขายครั้งเดียวจบ
 
-**ทำไมน่าสนใจ:** ลูกค้าที่ใช้แล้วแทบไม่ย้ายออก เพราะระบบฝังลึกอยู่ในองค์กรมากจนถอดออกยากมาก — ทุกปี 97 ใน 100 รายต่ออายุสัญญาใหม่ นอกจากนั้น AI ที่กำลัง roll out อยู่เปิดโอกาสให้เก็บเงินเพิ่มจากลูกค้าเดิมได้โดยไม่ต้องพึ่งหาลูกค้าใหม่ก่อน
+**ทำไมน่าสนใจ:** ลูกค้าที่ใช้แล้วแทบไม่ย้ายออก เพราะระบบฝังลึกอยู่หลายแผนกจนถอดออกยากมาก — ทุกปี 98 ใน 100 รายต่อสัญญาใหม่ และตอนนี้กำลังดัน AI (Now Assist) ขายเพิ่มบนฐานลูกค้าเดิม ทำให้เก็บเงินเพิ่มได้โดยไม่ต้องออกไปหาลูกค้าใหม่ก่อน
 
-**ต้องระวัง:** ค่าใช้จ่ายในการรัน AI สูง ถ้าพุ่งเร็วกว่ารายได้ก็กัดกำไรได้เงียบๆ และลูกค้าบางส่วนที่จ่ายตามการใช้งานจริงสามารถลดการใช้ได้โดยไม่มีสัญญาณเตือนล่วงหน้า
+**ต้องระวัง:** สามข้อหลัก — (1) การเติบโตเริ่มชะลอลงเล็กน้อยเพราะฐานรายได้ใหญ่มากแล้ว โตเร็วเท่าเดิมยากขึ้น (2) Microsoft อาจแถมฟีเจอร์คล้ายๆ กันเข้าแพ็กเกจที่ลูกค้าหลายเจ้าจ่ายอยู่แล้ว กลายเป็นคู่แข่งที่กดดันได้ (3) ต้นทุนการรัน AI สูง กดกำไรขั้นต้น (กำไรก่อนหักค่าใช้จ่ายอื่น) ลงมานิดหน่อย
 
-**สรุปสั้นๆ:** โดยรวมเป็นบริษัทที่รายได้คาดเดาได้สูง ลูกค้าออกยาก และ AI เป็น upside จริงไม่ใช่แค่ buzz Neon ให้ verdict เป็น BUY เพราะ thesis ไม่ได้ขึ้นกับภาวะเศรษฐกิจ และมีเงื่อนไขวัดได้ชัดเจนว่าเมื่อไหรควรกลับมาทบทวนใหม่
+**งบไตรมาสล่าสุด (Q2 ปี 2026 ออก 22 ก.ค. 2026):** รายได้ $3.99 พันล้าน โต +24% กำไรออกมาดีกว่าที่ตลาดคาด และยอดมูลค่าสัญญาที่มาจาก AI ทะลุ $1 พันล้านเป็นครั้งแรก บริษัทมั่นใจถึงขั้นปรับเป้าทั้งปีขึ้น ถือว่าเป็นไตรมาสที่แข็งแรงและ AI เริ่มทำเงินจริง
 
----
+**สรุปสั้นๆ:** โดยรวมเป็นบริษัทที่รายได้คาดเดาได้สูง ลูกค้าออกยาก และ AI กำลังกลายเป็นตัวทำเงินจริงไม่ใช่แค่กระแส ข้อควรจำคือ brief นี้ยังไม่มีราคาหุ้น จึงยังบอกไม่ได้ว่าตอนนี้แพงหรือถูก ต้องเช็กราคาปัจจุบันก่อนถึงจะประเมินความคุ้มค่าได้
 
 ## 1. Company snapshot
-
-ServiceNow ทำซอฟต์แวร์คลาวด์ที่ให้บริษัทใหญ่และหน่วยงานรัฐเปลี่ยน workflow ที่ทำมือ (email, ticket, spreadsheet) เป็นระบบอัตโนมัติดิจิทัล ครอบคลุมตั้งแต่ IT service management, HR workflows, security incident routing ไปถึง customer service case management ลูกค้าถูกล็อคไว้กับแพลตฟอร์มผ่านสัญญา multi-year เพราะ integration ฝังลึกในระดับ operations ทั้งองค์กร รายได้ 97% เป็น subscription ที่เก็บซ้ำทุกปี ไม่ใช่จ่ายครั้งเดียวจบ ปัจจุบัน monetize AI ผ่าน "Now Assist" และ "AI Agents" เป็น add-on ชั้นบน subscription เดิม โดยเปลี่ยน pricing model จาก seat-based ไป usage/token-based
+ServiceNow ขายซอฟต์แวร์คลาวด์ตัวเดียวชื่อ "Now Platform" ที่ช่วยองค์กรทำงานอัตโนมัติผ่าน workflow เดียว — ครอบคลุม IT, customer service, HR, และ security แทนที่ขั้นตอนที่เคยทำมือหรือกระจัดกระจาย ลูกค้าคือองค์กรใหญ่และหน่วยงานรัฐที่เซ็นสัญญา subscription หลายปี รายได้ ~97% เป็น subscription แบบ recurring (รายได้ประจำที่จ่ายซ้ำทุกปี) ที่เหลือเป็น professional services ช่วงหลังบริษัทดัน AI (Now Assist, AI Agents) ที่ฝังในแพลตฟอร์มเป็นตัวขายเพิ่ม
 
 ## 2. Fundamentals signal
+_ตัวเลขในหัวข้อนี้มาจาก 10-K FY2025 (ปีเต็มก่อนหน้า) ไม่ใช่ไตรมาสล่าสุด — ดูตัวเลขไตรมาสล่าสุดในหัวข้อ 3_
 
-- **Revenue เติบโตต่อเนื่องขนาดใหญ่:** FY2025 $13,278M (+21% YoY) จาก FY2024 $10,984M และ FY2023 $9,011M (+23.8%) — บริษัท $13B+ ที่ยังโตอัตรานี้ผิดปกติในทางบวก (source: sources/NOW/10-k-latest.md)
-- **FCF แข็งแกร่งกว่าที่ตัวเลข GAAP บอก:** FCF FY2025 $4,636M (35% margin), operating cash flow $5,444M — GAAP operating income ดูต่ำกว่าความเป็นจริงเพราะ stock-based compensation หนัก ดู FCF เป็นตัวชี้วัดหลัก (source: sources/NOW/10-k-latest.md)
-- **Backlog ล็อคไว้แล้ว 2 ปีล่วงหน้า:** Total RPO $28,200M (+26.5% YoY) = 2x+ ของรายได้ต่อปี หมายความว่ารายได้ที่จะเห็นปีหน้าส่วนใหญ่ "เซ็นไว้แล้ว" ลด demand risk ระยะสั้น (source: sources/NOW/10-k-latest.md)
-- **Balance sheet สบาย:** Cash $3,726M + long-term marketable securities $3,771M vs long-term debt $1,491M = net cash ไม่มีความเสี่ยงด้านหนี้ (source: sources/NOW/10-k-latest.md)
-- **Capital allocation เน้น buyback:** Board อนุมัติ $5B repurchase program (รวม $2B accelerated tranche) ซื้อกลับ $597M ใน Q4 2025 เพียงไตรมาสเดียว ไม่จ่าย dividend (source: sources/NOW/10-k-latest.md)
+- **Revenue โตเลขสองหลักต่อเนื่อง:** FY2025 +21% YoY แตะ $13.3B; subscription เป็นแกนหลักโตในอัตราเดียวกัน — ทิศทางคือโตต่อเนื่อง (ตัวเลข ตรวจสอบใน 10-K ล่าสุด)
+- **Backlog หนุน growth (ตัวเลข FY2025):** cRPO +25% YoY, total RPO +26.5% YoY โตเร็วกว่ารายได้ปัจจุบัน = demand ยัง healthy — แต่ดูหัวข้อ 3: ในไตรมาสล่าสุดตัวเลขนี้ชะลอลงเหลือ +21% (ตัวเลข ตรวจสอบใน 10-K ล่าสุด)
+- **Margin ระดับ software ชั้นดี:** non-GAAP gross margin ~81%, GAAP operating margin ขยับขึ้น 12.5%→13.5% แต่ GAAP gross margin ขยับ *ลง* เล็กน้อย 79.2%→77.5% — ควรจับตาว่ามาจาก cost of AI/infra ไหม (ตัวเลข ตรวจสอบใน 10-K ล่าสุด)
+- **Balance sheet แข็งแรง:** cash $3.7B + marketable securities $3.8B ≈ $7.5B เทียบ long-term debt สุทธิ ~$1.5B — สภาพคล่องเหลือเฟือ ไม่มีความเสี่ยงเรื่องหนี้ (ตัวเลข derived จากผลรวม + ตรวจสอบใน 10-K ล่าสุด)
+- **Capital allocation:** FCF margin ~35% ($4.6B FY2025) เป็นเงินสดจริงไม่ใช่กำไรบัญชี; เริ่มซื้อหุ้นคืน ($5B authorization + $2B ASR) ไม่มีปันผล (ตัวเลข ตรวจสอบใน 10-K ล่าสุด)
 
-## 3. Latest earnings (Q1 2026 — reported Apr 22, 2026)
-
-- Subscription revenue $3.671B (+19% constant currency) เกิน guidance (source: sources/NOW/q-latest-call.md)
-- cRPO $12.64B (+21% cc) สูงกว่า guidance 100 bps — ตัวชี้วัดล่วงหน้าที่บอกว่าลูกค้ายังลงชื่อซื้อต่อเนื่อง (source: sources/NOW/q-latest-call.md)
-- Total RPO Q1 2026 $27.7B (+23.5% cc) — pipeline build เร็วกว่า revenue recognition (source: sources/NOW/q-latest-call.md)
-- Non-GAAP operating margin 32% (50 bps เกิน guidance), FCF margin 44%, renewal rate 97% (source: sources/NOW/q-latest-call.md)
-- AI traction เริ่มเห็น: AI revenue target ปรับขึ้นเป็น $1.5B FY2026 (จาก $1B เดิม) — 50% ของ net new business มาจาก non-seat pricing (token/connector) ซึ่งเป็นการเปลี่ยน pricing model ครั้งสำคัญ; Now Assist deals ที่มี 3+ products ใน suite โต 70% YoY; Sales CRM NNACV grew 5x+ YoY (source: sources/NOW/q-latest-call.md)
-- Guidance FY2026 (ปรับขึ้นหลัง Q1 beat): Subscription $15.735–15.775B (+20.5–21% cc), op margin 31.5%, subscription gross margin 81.5% — มี Armis acquisition headwind 75 bps ฝังอยู่แล้ว (source: sources/NOW/q-latest-call.md)
-- **หมายเหตุ:** Q1 2026 มีการปิด acquisition พร้อมกัน 3 ราย (Armis, Veza, Pyramid Analytics) ทั้งหมดให้ "minimal revenue" ใน Q1 — management กำลัง absorb cost และ distraction ของ integration ทั้ง 3 ในช่วงเดียวกับที่ต้องพิสูจน์ AI monetization (source: sources/NOW/q-latest-call.md)
+## 3. Latest earnings — Q2 FY2026 (รายงาน 22 ก.ค. 2026)
+- Total revenue $3,987M (+24% YoY); subscription revenue $3,877M (+24.5% YoY, +23% cc — ~150bps เหนือ guidance) (source: sources/NOW/q-latest-call.md)
+- RPO $29.0B (+21% YoY); cRPO $13.20B (+21% YoY, beat ~200bps) (source: sources/NOW/q-latest-call.md)
+- Non-GAAP operating margin 29.5% (~300bps เหนือ guidance); GAAP operating margin 4% (ช่องว่างส่วนใหญ่เป็น stock-based comp ตามปกติของหุ้น SaaS) (source: sources/NOW/q-latest-call.md)
+- Non-GAAP diluted EPS $0.90; GAAP diluted EPS $0.29; FCF $634M (margin 16%) (source: sources/NOW/q-latest-call.md)
+- AI momentum: ServiceNow AI ACV ทะลุ $1B (มูลค่าสัญญา ยังเป็น bookings ไม่ใช่ recognized revenue), เป้า $1.5B สิ้นปี 2026; AI net new ACV โต >40% QoQ; renewal rate 98%; 123 deals >$1M net new ACV (+40% YoY); 658 ลูกค้า >$5M ACV (source: sources/NOW/q-latest-call.md)
+- Guidance RAISED: FY2026 subscription revenue $15,760–15,780M (+22.5% YoY); non-GAAP operating margin 31.5%; FCF margin 35% (source: sources/NOW/q-latest-call.md)
+- Q3 2026 guide: subscription $3,975–3,980M (+20.5% YoY); cRPO growth ~20%; non-GAAP op margin 31% (source: sources/NOW/q-latest-call.md)
 
 ## 4. Bull case / Bear case
 
-**Bull case:**
-- **Switching cost moat แข็งมาก:** enterprise ที่ย้าย IT workflow ทั้งหมดไปอยู่บน ServiceNow ต้นทุนเปลี่ยน vendor สูงมาก renewal 97% บน base $12.9B สะท้อนว่าลูกค้าไม่แค่พอใจ แต่ไม่อยากแบกต้นทุน migration
-- **AI monetization เปลี่ยนโครงสร้างรายได้จริง:** การขยับจาก seat-based ไป usage/token-based ทำให้ revenue ceiling เดิมหายไป — ยิ่งลูกค้าใช้ AI ยิ่งจ่ายมากขึ้นโดยอัตโนมัติ ไม่ต้องขาย seat ใหม่
-- **Revenue visibility สูงผิดปกติ:** RPO $28.2B (+26.5% YoY) = 2x+ ของรายได้ต่อปี ลูกค้า >$5M ACV เพิ่มจาก 502 เป็น 603 รายในปีเดียว (source: sources/NOW/10-k-latest.md)
+**Bull:**
+- **Platform consolidation moat (switching cost):** ลูกค้าองค์กรฝัง workflow หลายแผนกไว้บน Now Platform ย้ายออกยากและแพง — renewal rate 98% สะท้อน stickiness ตรงๆ
+- **AI เป็น expansion lever บนฐานลูกค้าเดิม (land-and-expand):** AI ACV $1B และโตเร็ว เก็บเงินเพิ่มจากลูกค้าที่มีอยู่แล้วโดยไม่ต้องหาลูกค้าใหม่ก่อน
+- **เงินสดแข็ง + FCF margin สูง:** ลงทุน R&D และซื้อหุ้นคืนได้โดยไม่พึ่งหนี้
 
-**Bear case:**
-- **Buyback อาจแค่ล้าง dilution ไม่ใช่ส่งเงินคืน:** GAAP operating income $1,824M vs Non-GAAP $4,149M — ช่องว่าง ~$2.325B (calculated: $4,149M - $1,824M; รวม SBC + amortization of intangibles) buyback ที่ ~$2.4B annualized แค่ net-neutral กับ dilution จาก SBC ผู้ถือหุ้นเก่าได้ economics น้อยกว่า FCF 35% ที่เห็น (source: sources/NOW/10-k-latest.md)
-- **AI inference cost กำลังกัด gross margin แล้ว ก่อนที่ AI revenue จะ offset:** GAAP gross margin ลง 170 bps YoY จาก 79.2% เป็น 77.5% — 10-K ระบุว่าเพราะ AI infrastructure spend FY2026 guide เหลือแค่ 81.5% (non-GAAP) และยังมี 25 bps Armis headwind อีก bull case บอก AI = upside แต่ cost side เริ่มเห็นแล้วในตัวเลข (source: sources/NOW/10-k-latest.md)
-- **Non-seat pricing 50% เป็นแค่ net new business ไม่ใช่ฐาน $12.8B เดิม:** Usage-based token revenue ลูกค้าสามารถลด AI consumption ได้โดยไม่ต้องยกเลิกสัญญา — cRPO และ renewal rate 97% วัด contract commitment ไม่ใช่ actual usage การลดใช้ AI เงียบๆ จะไม่ปรากฏในตัวชี้วัดล่วงหน้าจนกว่าจะ miss แล้ว (source: sources/NOW/q-latest-call.md)
+**Bear:**
+- **RPO growth ตอนนี้แทบไม่เร็วกว่ารายได้แล้ว — เบาะรองรับ demand กำลังบางลง และ guide ยืนยันการชะลอ:** Q2 FY2026 cRPO โต +21% ขณะ subscription revenue โต +24.5% — รายได้กำลังโต *เร็วกว่า* backlog ที่ควรจะป้อนมัน ตรงข้ามกับ tailwind ที่หัวข้อ 2 (FY2025) เคยชี้ และ guide เองบอก subscription จะชะลอเป็น +22.5% FY2026 (ช้ากว่า +24.5% ที่เพิ่งทำได้) — กำลังซื้อบริษัทที่โตช้าลงจากฐานสูง
+- **AI story เป็นรายได้จริงแต่ตัวเลขเล็กและ soft กว่าที่พาดหัวชวนคิด:** AI ACV $1B เป็นแค่ ~3-4% ของ total RPO $29.0B — เป็น lever ไม่ใช่เครื่องยนต์; และ ACV เป็น bookings/commitment ไม่ใช่ recognized GAAP revenue จึง verify กับ income statement ไม่ได้ เป้า $1.5B เป็นคำสัญญาของผู้บริหาร ไม่ใช่ผลจริง; ขณะเดียวกัน GAAP gross margin ไหลลง 79.2%→77.5% ซึ่งอาจเป็นต้นทุน AI/infra ที่กด margin ตัวที่ใช้ justify multiple
+- **Microsoft bundle workflow หลักของ ServiceNow เข้า agreement ที่ลูกค้าจ่ายอยู่แล้วได้เกือบฟรี:** ITSM, HR workflow, security เป็นพื้นที่ที่ Microsoft แนบเข้า E5/Copilot enterprise agreement ราคาเพิ่มเกือบศูนย์ได้ สำหรับ CIO ที่ all-in Microsoft อยู่แล้ว "ดีพอและเกือบฟรี" ชนะ "ดีที่สุดแต่จ่ายแยก"; renewal 98% พิสูจน์แค่ว่าลูกค้า *เดิม* อยู่ต่อ — ไม่ได้การันตี new expansion ที่เป็นเครื่องยนต์การโต
 
-**ความเสี่ยงที่ thesis ไม่ได้พูดถึง:** รัฐบาลเป็น customer segment หลัก แต่ federal IT budget exposure ภายใต้ความกดดัน US spending ยังไม่ถูก address ใน thesis — on-premise government deals ทำให้เกิด 75 bps headwind ใน Q1 แล้ว (Middle East); domestic federal risk ยังเปิดอยู่ (source: sources/NOW/q-latest-call.md)
+_หมายเหตุ: brief นี้ยังไม่มีราคา/valuation — "หุ้นแพงไหม" ตอบไม่ได้จนกว่าจะรู้ราคาปัจจุบันและ forward EV/FCF ผมไม่เขียน bear เรื่อง valuation บนข้อมูลศูนย์_
 
 ## 5. Kill conditions
+- **cRPO growth ตกต่ำกว่า ~15% YoY, หรือ revenue growth > cRPO growth 2 ไตรมาสติด:** ตอนนี้ cRPO +21% และเริ่มโตช้ากว่า revenue (+24.5%) แล้ว = ธงเหลือง ไม่ใช่ธงขาย; แต่ถ้า cRPO YoY หลุดต่ำกว่า 15% ไตรมาสไหน = เครื่องยนต์ backlog กำลัง stall นี่คือตัวเลขเดียวที่จะหัก demand thesis — รายงานทุก earnings call
+- **AI ACV พลาดเป้า $1.5B สิ้นปี 2026, หรือ net-new AI ACV โต QoQ ติดลบ:** ผู้บริหารเอา credibility ค้ำเป้า $1.5B ไว้ ถ้าเลิกรายงาน/ถอยคำ/Q4 FY2026 ต่ำกว่า $1.5B ชัดเจน (เช่นต่ำกว่า ~$1.3B) = AI-as-growth-driver ถูกหักล้าง; ถ้า net-new ACV QoQ flat หรือติดลบ 2 ไตรมาส = demand AI พีคแล้ว
+- **Non-GAAP operating margin ลด YoY 2 ไตรมาสติด ขณะ gross margin ยังไหลลง:** op margin ตอนนี้ 29.5% และ guide ให้ขึ้นเป็น 31.5% — มันควร *ขึ้น*; ถ้ากลับ *ลด* YoY 2 ไตรมาสติดขณะ GAAP gross margin ยังต่ำกว่า 77.5% = ยืนยัน bear #2 ว่าต้นทุน AI/infra กำลังกินโครงสร้าง margin
 
-- **cRPO YoY growth ต่ำกว่า 15% cc สองไตรมาสติดกัน** — ตอนนี้อยู่ที่ 21% cc ถ้าหลุด 15% sustained revenue growth จะตามลงมาไม่ถึง 18-20% ใน 2-3 ไตรมาส ซึ่ง multiple ปัจจุบันรองรับไม่ได้ (source: sources/NOW/q-latest-call.md)
-- **Non-GAAP subscription gross margin ต่ำกว่า 80.0% สองใน 4 ไตรมาสข้างหน้า** — FY2026 guide อยู่ที่ 81.5% ถ้าหลุด 80% หมายความว่า AI inference cost กำลังกัด economics หลักของ platform เร็วกว่า AI pricing ที่เข้ามา offset (source: sources/NOW/q-latest-call.md)
-- **FY2026 full-year AI revenue ต่ำกว่า $1.05B (miss >30% จาก $1.5B target) หรือ management เปลี่ยนนิยาม "AI revenue" กลางปี** — ทั้งสองกรณีหมายความว่า token pricing model ไม่ได้ convert ที่ scale; การเปลี่ยนนิยาม mid-year คือ kill signal ในตัวเอง (source: sources/NOW/q-latest-call.md)
+_ไม่เอา "renewal rate ตก" เป็น kill condition: ที่ 98% มันเป็น metric ที่อิ่มตัวและ lagging — จะเป็นสิ่งสุดท้ายที่พัง หลัง cRPO และ net-new ACV เตือนไปนานแล้ว ใช้ข้อ 1-2 แทน มันพลิกก่อน_
 
 ## 6. What to ask before owning it
-
-1. ทำไม renewal rate 97% ถึงเป็นหัวใจของ business model — ถ้า renewal ตกเหลือ 92% เกิดอะไรขึ้นกับรายได้ในปีหน้า?
-2. Armis, Veza, Pyramid Analytics คืออะไร ServiceNow ซื้อมา 3 บริษัทพร้อมกันทำไม และจะรู้ได้ยังไงว่า integration สำเร็จหรือล้มเหลว?
-3. Valuation ตั้งอยู่บนสมมติฐาน growth ~20% ต่อปี ถ้า growth ลงเหลือ 15% หรือ 12% ราคาที่ซื้อได้วันนี้ยังสมเหตุสมผลไหม?
-4. Non-seat pricing ทำงานยังไง ลูกค้าจ่ายตาม token ที่ใช้เหมือน electricity bill ไหม และถ้าลูกค้าประหยัดการใช้ AI ได้ผลกระทบต่อรายได้ NOW ยังไง?
-5. ถ้า Microsoft Copilot หรือ Google ออก enterprise workflow automation ที่ถูกกว่ามาก ลูกค้า ServiceNow จะออกได้ง่ายแค่ไหน ต้นทุนเปลี่ยนตัวจริงคือเท่าไหร่?
-
----
+- valuation ปัจจุบันเทียบ growth ที่กำลังชะลอ คุ้มไหม? (ต้องรู้ราคาและ forward EV/FCF ก่อน)
+- ServiceNow กัน Microsoft bundle (ที่แนบทุกอย่างเข้า E5/Copilot) ได้จริงแค่ไหนในดีล *ใหม่* ไม่ใช่แค่ต่อสัญญาเดิม?
+- AI ACV $1B จะแปลงเป็น recognized revenue ได้เท่าไรและเมื่อไร — และถ้าไม่ถึงเป้า $1.5B กระทบ thesis แค่ไหน?
+- GAAP gross margin ที่ไหลลง (79.2%→77.5%) มาจากต้นทุน AI/infra จริงไหม และจะกดลงต่ออีกแค่ไหน?
 
 ## Verdict (Neon)
 
-**BUY**
+**BUY** — ServiceNow มี switching cost แข็งจาก workflow หลายแผนกฝังลึก, renewal 98%, โตทนยาวเลขสองหลัก
 
-switching cost ฝังระดับ workflow พิสูจน์ด้วย renewal 97% + RPO $28B ที่ล็อกรายได้เกิน 2 ปี
+เกณฑ์ 5 ข้อ:
+- **Moat: ✅** Switching cost = Strong — workflow IT/HR/security ฝังหลายแผนกบน Now Platform ย้ายออกยาก renewal 98%
+- **Growth: ✅** AI expansion (Now Assist) + land-and-expand บนฐานเดิม, subscription +22.5% guide — โตทนยาว
+- **Macro: ✅** ไม่พึ่ง — thesis ขับด้วย subscription recurring + backlog ไม่ใช่ Fed/macro
+- **Momentum trap: ✅** ผ่าน — fundamental รองรับ (cRPO +21%, FCF margin 35%, guide raised) ไม่ใช่ราคาวิ่งอย่างเดียว
+- **Kill conditions: ✅** 3 ข้อวัดได้ — cRPO <15%, AI ACV พลาด $1.5B, op margin ลด YoY 2Q ติด
 
-### เกณฑ์ 5 ข้อ
-- Moat: ✅ switching cost (enterprise workflow integration ที่ฝังลึก) = Strong — renewal 97% และ RPO โตเร็วกว่า revenue
-- Growth: ✅ enterprise digitization + AI adoption — โตทนยาว (base subscription $12.9B, RPO $28B ล็อกรายได้ล่วงหน้า)
-- Macro: ✅ ไม่พึ่ง Fed — thesis ขึ้นกับ enterprise digitization ไม่ใช่ interest rate
-- Momentum trap: ✅ ผ่าน — fundamentals ทุกตัวรองรับ thesis ชัด
-- Kill conditions: ✅ วัดได้ทุกไตรมาส (cRPO growth, subscription gross margin, AI revenue)
-
-### Risk ก่อน DCA
-- AI inference cost กำลังกัด gross margin จริงแล้ว — ติดตาม subscription gross margin ทุกไตรมาส
-- usage-based consumption อาจลดเงียบๆ โดยไม่มีสัญญาณเตือนล่วงหน้า — ติดตาม cRPO
-
-_verdict นี้มาจากข้อมูลใน brief วันที่ 2026-06-29 — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
-
----
+_verdict นี้มาจากข้อมูลใน brief วันที่ 2026-07-23 — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
 
 ## Fact Check (Eve)
 
-**Source files:** sources/NOW/10-k-latest.md (FY2025 10-K), sources/NOW/q-latest-call.md (Q1 2026 earnings call), sources/NOW/news-latest.md (ไม่มีตัวเลขการเงิน)
+ตรวจกับ source files ใน `sources/NOW/`: **29 confirmed / 1 derived / 0 no-source**
 
-**ผลตรวจ:** 45 confirmed / 3 unconfirmed (reconciled แล้วใน brief ด้านบน) / 0 no-source
-
-**รายการที่แก้ระหว่าง reconcile:**
-- FY2023 revenue growth แก้จาก "+24%" เป็น "+23.8%" ให้ตรงกับ source (U1)
-- SBC gap ~$2.325B เพิ่มคำอธิบาย "(calculated: $4,149M - $1,824M; รวม SBC + amortization of intangibles)" — figure ไม่ได้อยู่ใน 10-K ตรงๆ เป็น derived calculation (U2)
-- "Sales CRM grew 5x" แก้เป็น "Sales CRM NNACV grew 5x+ YoY" ให้ตรงกับ metric และ qualifier ใน source (U3)
-
-**หมายเหตุ:** ตัวเลข enterprise software spending +14.7% มาจาก Tracer/news (Gartner via media) ไม่ได้อยู่ใน 10-K หรือ earnings transcript — ไม่ได้ใช้ใน body brief
+- **Confirmed ✅ (29):** ตัวเลขหัวข้อ 2 ทั้งหมดตรงกับ `10-k-latest.md` (revenue +21% $13.3B, cRPO +25%, RPO +26.5%, gross/op margin, debt $1.49B, FCF $4.6B, buyback $5B+$2B ASR); ตัวเลข Q2 FY2026 ทั้งหมดตรงกับ `q-latest-call.md` (revenue $3,987M, subscription $3,877M, RPO $29.0B, cRPO $13.20B, margins, EPS $0.90/$0.29, FCF $634M, AI ACV $1B, renewal 98%, deals, guidance ทั้ง FY และ Q3)
+- **Derived ⚠️ (1):** "cash + securities ~$7.5B" ไม่ได้เป็นตัวเลขเดี่ยวใน source — เป็นผลรวม cash $3,726M + marketable securities $3,771M = $7,497M (ถูกต้องตามเลขคณิต) แก้ใน body แล้วให้แสดงเป็นผลรวม
+- **หมายเหตุถ้อยคำ:** AI net new ACV — source เขียน ">40% QoQ" (แก้ใน body ให้ตรงแล้ว)
