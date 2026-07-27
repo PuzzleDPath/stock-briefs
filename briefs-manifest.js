@@ -208,6 +208,15 @@ window.MANIFEST = [
         "srcFile":  "10-k-latest.md"
     },
     {
+        "tk":  "RKLB",
+        "co":  "Rocket Lab Corporation",
+        "date":  "2026-07-27",
+        "verdict":  "watch",
+        "one":  "",
+        "src":  "2026-07-27",
+        "srcFile":  "news-latest.md"
+    },
+    {
         "tk":  "TSLA",
         "co":  "Tesla Inc",
         "date":  "",
