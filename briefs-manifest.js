@@ -174,8 +174,8 @@ window.MANIFEST = [
     {
         "tk":  "NVDA",
         "co":  "NVIDIA Corporation",
-        "date":  "2026-06-30",
-        "verdict":  "buy",
+        "date":  "2026-07-31",
+        "verdict":  "watch",
         "one":  "ผู้นำ AI infrastructure ที่ชัดเจนที่สุด แต่ราคาซื้ออนาคต 2-3 ปีไว้แล้ว",
         "src":  "2026-06-07",
         "srcFile":  "10-k-latest.md"
