@@ -217,6 +217,15 @@ window.MANIFEST = [
         "srcFile":  "news-latest.md"
     },
     {
+        "tk":  "STRL",
+        "co":  "Sterling Infrastructure, Inc.",
+        "date":  "2026-08-06",
+        "verdict":  "watch",
+        "one":  "Moat ❌ (Moderate ไม่ถึง Strong)",
+        "src":  "2026-08-06",
+        "srcFile":  "10-k-latest.md"
+    },
+    {
         "tk":  "TSLA",
         "co":  "Tesla Inc",
         "date":  "",
