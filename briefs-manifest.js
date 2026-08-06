@@ -118,6 +118,15 @@ window.MANIFEST = [
         "srcFile":  "10-k-latest.md"
     },
     {
+        "tk":  "KO",
+        "co":  "The Coca-Cola Company",
+        "date":  "2026-08-06",
+        "verdict":  "watch",
+        "one":  "Moat ✅ (Strong)",
+        "src":  "2026-08-06",
+        "srcFile":  "10-k-latest.md"
+    },
+    {
         "tk":  "LLY",
         "co":  "Eli Lilly and Company",
         "date":  "",
