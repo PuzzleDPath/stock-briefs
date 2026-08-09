@@ -236,7 +236,7 @@ window.MANIFEST = [
     },
     {
         "tk":  "SNDK",
-        "co":  "Sandisk Corporation",
+        "co":  "Sandisk Corp",
         "date":  "2026-08-09",
         "verdict":  "pass",
         "one":  "ไม่มี fab เป็นของตัวเอง กำไรมาจากราคา NAND ตามรอบ ไม่ใช่ข้อได้เปรียบที่ลอกไม่ได้",
