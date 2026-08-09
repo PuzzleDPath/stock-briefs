@@ -226,6 +226,15 @@ window.MANIFEST = [
         "srcFile":  "news-latest.md"
     },
     {
+        "tk":  "SKHY",
+        "co":  "SK hynix Inc.",
+        "date":  "2026-08-09",
+        "verdict":  "pass",
+        "one":  "กำไรรอบนี้มาจากราคาชิปขึ้นเป็นหลัก moat ยังไม่มีหลักฐาน และงบยังไม่มีใครตรวจสอบ",
+        "src":  "2026-08-09",
+        "srcFile":  "news-latest.md"
+    },
+    {
         "tk":  "STRL",
         "co":  "Sterling Infrastructure, Inc.",
         "date":  "2026-08-06",
