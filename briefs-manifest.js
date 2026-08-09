@@ -235,6 +235,15 @@ window.MANIFEST = [
         "srcFile":  "news-latest.md"
     },
     {
+        "tk":  "SNDK",
+        "co":  "Sandisk Corporation",
+        "date":  "2026-08-09",
+        "verdict":  "pass",
+        "one":  "ไม่มี fab เป็นของตัวเอง กำไรมาจากราคา NAND ตามรอบ ไม่ใช่ข้อได้เปรียบที่ลอกไม่ได้",
+        "src":  "2026-08-09",
+        "srcFile":  "10-k-latest.md"
+    },
+    {
         "tk":  "STRL",
         "co":  "Sterling Infrastructure, Inc.",
         "date":  "2026-08-06",
