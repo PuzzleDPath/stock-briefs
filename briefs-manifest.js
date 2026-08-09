@@ -227,9 +227,9 @@ window.MANIFEST = [
     },
     {
         "tk":  "SKHY",
-        "co":  "SK hynix Inc.",
+        "co":  "SK Hynix Inc.",
         "date":  "2026-08-09",
-        "verdict":  "pass",
+        "verdict":  "watch",
         "one":  "กำไรรอบนี้มาจากราคาชิปขึ้นเป็นหลัก moat ยังไม่มีหลักฐาน และงบยังไม่มีใครตรวจสอบ",
         "src":  "2026-08-09",
         "srcFile":  "news-latest.md"
