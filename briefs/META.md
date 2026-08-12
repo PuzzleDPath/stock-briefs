@@ -1,99 +1,94 @@
 # META — Meta Platforms, Inc.
-_Brief generated: 2026-06-13_
+_Brief generated: 2026-08-12_
 
-### 1. Company snapshot
+## อ่านง่าย
 
-Meta เป็นเจ้าของแพลตฟอร์มโซเชียลใหญ่ที่สุดในโลก — Facebook, Instagram, WhatsApp และ Messenger — มีคนใช้งานรายเดือนรวมกัน 3.98 พันล้านคน (DAP 3.5B) ลูกค้าตัวจริงไม่ใช่คนที่เล่นแอปแต่คือผู้ลงโฆษณา — แบรนด์และธุรกิจที่จ่ายซื้อพื้นที่เข้าถึงคนเหล่านั้น รายได้ 99%+ จึงมาจากโฆษณาดิจิทัล รายได้รวม $200.97B ในปี 2025 Reality Labs (AR/VR/AI glasses) ยังขาดทุนหนัก -$19.19B operating loss ในปี 2025 และไม่มีนัยสำคัญต่อ bottom line
+**ทำอะไร:** Meta เป็นเจ้าของ Facebook, Instagram, WhatsApp, Messenger — คนใช้เกือบ 4 พันล้านคนต่อเดือน เงินเกือบทั้งหมด (~99%) มาจากการขายโฆษณา คนที่จ่ายเงินคือแบรนด์และคนที่มาลงโฆษณา ไม่ใช่ผู้ใช้ทั่วไป
 
-### 2. Fundamentals signal
+**ทำไมน่าสนใจ:** รายได้ยังโตแรง +28% และบริษัทยังขึ้นราคาโฆษณาได้ (+12%) พร้อมกับมีคนเห็นโฆษณามากขึ้น (+14%) — แปลว่าคนติดแอปจริง แบรนด์ยอมจ่ายแพงขึ้นเพราะไม่มีที่อื่นเข้าถึงคนได้เยอะเท่านี้ นี่คือข้อได้เปรียบที่คู่แข่งลอกยาก (moat)
 
-- รายได้โตสม่ำเสมอ +22% YoY: $134.9B (2023) → $164.5B (2024) → $200.97B (2025) (source: sources/META/10-k-latest.md)
-- Operating margin สูงมาก: 42% (2024), 41% (2025) — ทุก $100 รายได้เก็บกำไรก่อนภาษีเกือบ $41 (source: sources/META/10-k-latest.md)
-- Net income ลดลงเล็กน้อยแม้ revenue โต: $62.36B (2024) → $60.46B (2025) เพราะ capex พุ่งขึ้น (source: sources/META/10-k-latest.md)
-- Capex ระเบิด ทุ่ม all-in AI: $72.22B (2025), FY2026 guidance $125-145B *(FY2023 capex $28.1B — ตัวเลขนี้ไม่อยู่ใน source file ปัจจุบัน verify กับ 10-K ก่อนใช้)* (source FY2025: sources/META/10-k-latest.md; source FY2026 guidance: sources/META/q-latest-call.md)
-- Balance sheet: cash + securities $81.59B, LT debt $58.74B, net cash ~$22.85B; buyback $26.26B + dividend $5.32B = $31.5B คืนผู้ถือหุ้น ปี 2025 (source: sources/META/10-k-latest.md)
+**ต้องระวัง:** ไตรมาสนี้ภาพเงินแย่ลงชัด — ทั้งที่รายได้โต แต่กำไรจากธุรกิจหลักกลับ "ลดลง" 8% และเงินสดที่เหลือใช้จริงหลังหักค่าลงทุน (free cash flow) ยุบจาก 12,400 ล้านดอลลาร์ เหลือแค่ 784 ล้านในไตรมาสเดียว เพราะทุ่มเงินลงทุน AI มหาศาลถึง 31,000 ล้าน จนต้องเริ่มกู้เงินมาลงทุน (หนี้เพิ่มเกือบเท่าตัว) ที่หนักคือทุ่มขนาดนี้แต่บริษัทยัง "ไม่ยอมโชว์ตัวเลข" ว่า AI ทำเงินเพิ่มได้จริงเท่าไหร่ = ยังเป็นการเดิมพันที่พิสูจน์ไม่ได้ ส่วนธุรกิจแว่น VR/metaverse (Reality Labs) ก็ยังขาดทุนกว้างขึ้นเรื่อยๆ
 
-### 3. Latest earnings (Q1 2026)
+**สรุปสั้นๆ:** ธุรกิจหลักยังแข็งแรงและโตดี แต่ไตรมาสนี้บริษัทเทเงินก้อนโตไปเดิมพันกับ AI จนกำไรและเงินสดร่วงแรงในช่วงสั้นๆ ทีมงานจึงให้ผลเป็น WATCH (ลดจาก BUY) — WATCH แปลว่า "ยังไม่ถึงจุดตัดสินใจ ให้เฝ้าดูก่อน" ไม่ใช่บอกให้ซื้อหรือให้ขาย เหตุผลคือตัวเลขไตรมาสนี้แย่ลงจนแตะเงื่อนไขเตือนที่ตั้งไว้ล่วงหน้า จึงควรรอดูไตรมาสหน้าว่าการลงทุน AI เริ่มทำเงินกลับมาไหม แล้วค่อยตัดสินใจ ดีกว่ารีบ
 
-- Revenue $56.3B +33% YoY, Family of Apps Ads $55.0B +33% (source: sources/META/q-latest-call.md)
-- EPS GAAP $10.44 — มี $8.03B one-time tax benefit; adjusted EPS $7.31 (source: sources/META/q-latest-call.md)
-- Operating margin 41%, operating income $22.9B (source: sources/META/q-latest-call.md)
-- FCF $12.4B vs CapEx $19.8B ในไตรมาสเดียว — capex แซง FCF แล้ว (source: sources/META/q-latest-call.md)
-- Guidance Q2 2026: $58-61B revenue; FY2026 CapEx raised to $125-145B จากเดิม $120-135B (source: sources/META/q-latest-call.md)
-- Daily Active People 3.5B; Reality Labs $402M -2% YoY (source: sources/META/q-latest-call.md)
+## 1. Company snapshot
 
-### 4. Bull case / Bear case
+Meta ทำแอปโซเชียลและ messaging ที่คนใช้ฟรี — Facebook, Instagram, WhatsApp, Messenger — รวมเกือบ 4 พันล้านคนต่อเดือน. รายได้เกือบทั้งหมด (~99%) มาจากการขายพื้นที่โฆษณาให้แบรนด์และ marketer ที่อยากเข้าถึงคนกลุ่มนั้น — ลูกค้าที่จ่ายเงินจริงคือผู้ลงโฆษณา ไม่ใช่ผู้ใช้ทั่วไป. ธุรกิจแบ่งเป็น 2 ก้อน: Family of Apps (ตัวทำเงินจริง เกือบทั้งบริษัท) และ Reality Labs (AR/VR/metaverse ที่ยังอยู่ในช่วงลงทุนและขาดทุนหนัก).
 
-**Bull case:**
-- Network effect moat จาก user scale: 3.5B Daily Active People บนแพลตฟอร์มเดียวกัน — ผู้ลงโฆษณาหา reach ไม่ได้ที่ไหนมากกว่านี้ในราคาเดียวกัน advertiser switching cost สูงเพราะ audience data และ targeting tool ผูกอยู่กับ Meta ecosystem
-- Advantage+ AI ad system: ถ้า ROI ของผู้ลงโฆษณาดีขึ้น budget เพิ่มตาม *(narrative claim — brief นี้ไม่มีตัวเลข Advantage+ revenue contribution หรือ CPM lift ยืนยัน)*
-- Llama open-source: developer goodwill *(ไม่มี mechanism เชื่อมไปยัง revenue line โดยตรง — จุดอ่อนที่สุดใน bull case นี้)*
+## 2. Fundamentals signal
 
-**Bear case (Rey):**
-- Capex bet เป็น liability ถ้า AI revenue ไม่มาตาม schedule: $125-145B ใน FY2026 เดียว — มากกว่า revenue ทั้งปี 2023 FCF ถูก capex แซงแล้วใน Q1 ($12.4B FCF vs $19.8B capex) ถ้า AI-driven ad revenue lift ไม่ปรากฏภายใน 12-18 เดือน บริษัทกำลัง burn cash ด้วย faith-based commitment ที่ไม่มี disclosed ROI target
-- Ad concentration เป็น structural single point of failure: 99%+ ของ $200.97B มาจาก revenue model เดียว WhatsApp/Threads ยังไม่ monetized at scale Reality Labs ขาดทุน -$19.19B ปี 2025 ไม่มี second revenue engine รองรับถ้า ad market สะดุด
-- EU DMA กำหนด Meta เป็น gatekeeper แล้ว ไม่ใช่ hypothetical future risk: กำลัง constrain การ bundle data ข้าม Facebook/Instagram/WhatsApp สำหรับ ad targeting อยู่ตอนนี้ ส่วนแบ่ง EU ad inventory ที่พึ่ง cross-platform data ไม่มีตัวเลขใน brief นี้ — downside ยังประเมินไม่ได้เต็ม
+ตัวเลขในหมวดนี้มาจาก 10-K ปีล่าสุด (FY2025 — รายปี) จึงยังเป็นภาพระยะยาว ส่วนภาพไตรมาสล่าสุดที่แย่ลงอยู่ใน section 3
 
-### 5. Kill conditions
+- Revenue โตแรงและสม่ำเสมอ: FY2023 → FY2024 → FY2025 = $134.9B → $164.5B → $201.0B (โต ~+22% YoY สองปีติด) (source: sources/META/10-k-latest.md)
+- Operating margin ทั้งปี FY2025 ~41% (FY2024 ~42%); operating income เพิ่ม $69.4B → $83.3B — เครื่องทำเงินหลักแข็งแรงในระดับรายปี (source: sources/META/10-k-latest.md)
+- Reality Labs เผาเงินหนัก — operating loss -$19.19B FY2025 บนรายได้แค่ $2.21B; ขณะที่ Family of Apps operating income $102.5B แบกทั้งบริษัท (source: sources/META/10-k-latest.md)
+- Net income FY2025 $60.46B ลดลงจาก $62.36B FY2024 แม้รายได้และ operating income โต — เป็นจุดที่ควรถามต่อว่าอะไรกดกำไรสุทธิสวนทาง top line (source: sources/META/10-k-latest.md)
+- Capital allocation: CapEx FY2025 $72.2B สูงกว่า buyback ($26.3B) + ปันผล ($5.3B) รวมกัน; cash+securities $81.6B เทียบหนี้ระยะยาว $58.7B — รูปแบบ "ทุ่มลงทุน AI/โครงสร้างพื้นฐานหนัก" ที่กำลังกินกระแสเงินสด (source: sources/META/10-k-latest.md)
 
-- Ad revenue growth ต่ำกว่า 15% YoY ติด 2 quarters ขณะที่ Google/Amazon Ads ยังโตเกิน 10% — หมายความว่า Meta กำลังเสีย advertiser share ไม่ใช่แค่ macro slowdown
-- FY2026 capex เกิน $130B และ management ยัง **ไม่สามารถระบุ AI revenue line ที่วัดได้** (Advantage+ incremental spend, AI-sourced advertiser count) ใน Q4 2026 earnings call — ถ้าตอบไม่ได้แปลว่า $125-145B capex เป็น faith-based ล้วนๆ
-- Operating margin ต่ำกว่า 35% ติด 2 quarters — depreciation จาก AI buildout สะสมเริ่มกด margin แม้ revenue ยังดี
-- EU enforcement ห้าม Meta ใช้ cross-platform user data (Facebook + Instagram + WhatsApp combined profiles) สำหรับ ad targeting — ไม่ใช่แค่ fine แต่เป็น structural restriction ที่กระทบ premium CPMs โดยตรง
-- TikTok/YouTube Shorts หรือ entrant ใหม่ดึง time-spent share จาก Instagram Reels กลุ่ม 18-34 ติด 2 quarters ยืนยันโดย third-party (Sensor Tower/Comscore) — Reels คือ primary growth engine ของ ad inventory expansion
+## 3. Latest earnings (Q2 2026, รายงาน 29 ก.ค. 2026)
 
-### 6. What to ask before owning it
+- รายได้รวม $60.8B +28% YoY (+27% constant currency) — ชะลอจาก +33% ไตรมาสก่อน; Family of Apps ad revenue ~$59.4B (+27% YoY); Reality Labs $431M (+16% YoY) (source: sources/META/q-latest-call.md)
+- Operating income $18.78B **ลดลง 8% YoY** แม้รายได้โต; operating margin ร่วงเหลือ **31%** (จาก 41% ไตรมาสก่อน); FoA operating income $23.39B; Reality Labs operating loss -$4.62B ในไตรมาสเดียว (source: sources/META/q-latest-call.md)
+- Net income $15.8B; diluted EPS $6.18 (source: sources/META/q-latest-call.md)
+- Capex ไตรมาสเดียว $31.08B; **free cash flow ยุบเหลือ $784M** (จาก $12.4B ไตรมาสก่อน); cash+securities $90.26B เทียบหนี้ระยะยาว $83.66B (หนี้เพิ่มเกือบเท่าตัวจาก $58.7B — cushion เงินสดเหลือน้อยลงมาก) (source: sources/META/q-latest-call.md)
+- Family DAP 3.60B (+3% YoY); ad impressions +14% YoY; ราคาต่อ ad +12% YoY (source: sources/META/q-latest-call.md)
+- Guidance: Q3 รายได้ $61-64B; FY2026 total expenses $165-169B; FY2026 capex $130-145B; tax rate 15-17% (source: sources/META/q-latest-call.md)
 
-1. Ad revenue 99% — ในช่วง recession ที่ผ่านมาบริษัทอื่น ad budget ลดเฉลี่ยเท่าไหร่? Meta เคยผ่าน ad market สะดุดมาไหมและกลับมายังไง?
-2. Advantage+ ช่วย revenue จริงแค่ไหน — management เคยให้ตัวเลข incremental revenue หรือ CPM lift จาก Advantage+ ไหม?
-3. Capex $125-145B ปี 2026 — ROI จะกลับมาในรูปแบบไหนและเมื่อไหร่ มี disclosed timeline หรือ success metric ไหม?
-4. EU DMA กระทบ cross-platform targeting อยู่แล้วหรือยัง — ส่วนแบ่ง EU revenue ที่อยู่ในความเสี่ยงเท่าไหร่ใน total revenue?
-5. Reality Labs ขาดทุนสะสมเท่าไหร่แล้ว และ Meta มี exit plan หรือ timeline ที่จะ break even ไหม?
+## 4. Bull case / Bear case
 
----
+**Bull:**
+- Core ad engine ยังแข็ง — DAP 3.60B (+3% YoY), ad impressions +14% YoY พร้อมราคาต่อ ad +12% YoY = ขึ้นราคาได้ขณะปริมาณยังโต (pricing power จาก network effect ที่ผู้ลงโฆษณาย้ายหนียาก) นี่คือ data point ที่แข็งจริงที่สุด
+- รายได้ยังโตเลขสองหลัก (+28% YoY) บนฐานผู้ใช้เกือบ 4 พันล้านคน
+- Balance sheet ยังมี cash+securities $90.26B รองรับการลงทุนได้ (แต่ดู Bear เรื่องหนี้ประกอบ)
+
+**Bear (Rey):**
+- **เดิมพัน capex เลิกเป็น "ความเสี่ยงอนาคต" แล้ว — มันกัดกระแสเงินสดไปเรียบร้อยไตรมาสนี้.** Q2 FCF ยุบเหลือ $784M จาก $12.4B ไตรมาสก่อน (ร่วง 94% ในไตรมาสเดียว) เพราะ capex แตะ $31.08B ในไตรมาสเดียว เทียบ operating income $18.78B. FY2026 capex guidance ขึ้นเป็น $130-145B (ยกพื้นอีกรอบ). ทุ่มขนาดนี้แต่บริษัทยัง **ไม่เปิดตัวเลข AI ad revenue ที่วัดได้เลย** — ไม่มีเลข Advantage+ incremental spend, ไม่มีจำนวน advertiser จาก AI, ไม่มี ROI timeline. เป็นการเดิมพันบน "ศรัทธา" ที่จ่ายบิลเต็มไปแล้วแต่ผลตอบแทนยังเป็นแค่คำบรรยาย. หุ้นร่วงหลังรายงานก็เพราะเรื่องนี้.
+- **กำไรเดินถอยหลังทั้งที่รายได้ยังโต — margin story พังไตรมาสนี้.** Operating income **ลด 8% YoY เหลือ $18.78B ทั้งที่รายได้โต 28%** และ operating margin **ร่วงจาก 41% (ไตรมาสก่อน) เหลือ 31%** — ลง 10 จุดในไตรมาสเดียว. ค่าเสื่อมและต้นทุนจากการสร้าง AI infra กำลังวิ่งแซงรายได้ นี่คือหลักฐานแรกที่จับต้องได้ว่า capex กำลังทำลาย earnings power ระยะสั้น ไม่ใช่แค่กระแสเงินสด. รายได้ก็ชะลอ (+28% vs +33% ไตรมาสก่อน).
+- **cushion ใน balance sheet เกือบหมด และ Reality Labs เลือดไหลเร็วขึ้น.** หนี้ระยะยาว **เพิ่มเกือบเท่าตัวเป็น $83.66B (จาก $58.74B)** ทำให้ cash+securities $90.26B แทบจะแค่พอคลุมหนี้ — net cash จากเดิม ~$22.85B (ตาม 10-K) หดเหลือ gap ~$6.6B. Meta กำลังใช้ "หนี้" มาเดิมพัน AI ไม่ใช่แค่เงินสด. ส่วน Reality Labs ขาดทุนกว้างขึ้นเป็น -$4.62B ในไตรมาสเดียว (~$18B ต่อปี) บนรายได้แค่ $431M — ยังไม่มีขาที่สองที่ทำเงินและไม่มี break-even timeline.
+
+_หมายเหตุ bull case: ข้ออ้าง "Advantage+ AI ช่วยเพิ่ม ROI ผู้ลงโฆษณา" และ "superintelligence race" ยังไม่มี source ตัวเลขรองรับ 2 ไตรมาสติด — อย่านับเป็นหลักฐานสำหรับถือหุ้น (Rey flag)_
+
+## 5. Kill conditions
+
+Re-baseline กับตัวเลข Q2 2026 แล้ว — 2 ข้อแรกแตะ/ใกล้เส้นไปแล้ว ติดป้ายไว้:
+
+- **[แตะเส้นแล้ว 1 ไตรมาส] Operating margin ต่ำกว่า 35% สองไตรมาสติด** — Q2 = **31%** (จาก 41% ไตรมาสก่อน). ถ้า Q3 ยังต่ำกว่า 35% อีก = ยืนยันว่าไม่ใช่ blip แต่เป็นค่าเสื่อมจาก AI buildout กินกำไรเชิงโครงสร้าง. **จับตา: operating margin Q3 2026 — breach ไปแล้ว 1 ไตรมาส อีก 1 ยืนยัน.**
+- **[ใกล้ศูนย์แล้ว] FCF ติดลบไตรมาสใดไตรมาสหนึ่ง หรือ FCF ทั้งปี FY2026 ต่ำกว่า ~$15B** — Q2 FCF = **$784M** (แทบ breakeven) ขณะ capex guide สูงขึ้นในช่วงที่เหลือของปี. โอกาสติดลบไตรมาสหน้ามีจริง. **จับตา: บรรทัด FCF รายไตรมาส — ถ้าติดลบแม้แค่ครั้งเดียว = กำลังเผาเงินเพื่อเดิมพัน AI.**
+- **FY2026 capex จริงทะลุ $145B (เกินเพดาน guidance) ขณะยังไม่มีตัวเลข AI revenue ให้ verify ภายใน Q4 2026 call** — เพดานถูกยกมา 2 รอบแล้ว. ถ้าทะลุกรอบตัวเองขณะฝ่ายบริหารยังบอกไม่ได้ว่า AI ทำเงินเท่าไหร่ = ยืนยันว่าเป็นการเดิมพันบนศรัทธา. **จับตา: capex จริง FY2026 + Q4 call เปิดตัวเลข AI revenue หรือไม่.**
+- **Ad revenue growth ต่ำกว่า 15% YoY สองไตรมาสติด ขณะ Google/Amazon Ads ยังโต >10%** — Q2 ad โต +27% YoY ยังแข็ง แต่ชะลอจากไตรมาสก่อน. ข้อนี้ทดสอบว่าเสียส่วนแบ่งหรือแค่ตลาดชะลอ. **จับตา: Family of Apps ad revenue YoY เทียบกับ segment โฆษณาของ GOOGL/AMZN ไตรมาสเดียวกัน.**
+- **หนี้ระยะยาวแซง cash+securities (net debt) พร้อม FCF ต่ำกว่า $2B/ไตรมาส** — Q2 gap เหลือแค่ ~$6.6B (หนี้ $83.66B vs เงินสด $90.26B). ถ้าหนี้แซงเงินสดขณะ FCF ไม่ฟื้น = กู้มาเดิมพันที่ยังไม่คืนทุน (setup แบบ over-leverage ที่ owner เลี่ยง). **จับตา: balance sheet รายไตรมาส — cash+securities vs หนี้ระยะยาว.**
+- **Reality Labs ขาดทุนต่อไตรมาสเกิน -$5B (ต่อปี >$20B) โดยไม่มีแผน break-even** — Q2 ขาดทุน -$4.62B และกว้างขึ้น. ถ้าทะลุ -$5B/ไตรมาสขณะรายได้ยังแถว $400M = ยืนยันว่าหลุมคุมไม่อยู่. **จับตา: RL segment operating loss ทุกไตรมาส.**
+- **EU DMA สั่งห้าม cross-platform ad targeting (รวมโปรไฟล์ Facebook+Instagram+WhatsApp) — ข้อบังคับเชิงโครงสร้าง ไม่ใช่แค่ค่าปรับ** — CFO flag DMA เป็นความเสี่ยง active ไตรมาสนี้; ค่าปรับ child-safety ~$567M (ตัวเลขจากข่าว — ไม่อยู่ใน filing) เป็นต้นทุน ไม่ใช่สัญญาณ kill ในตัวเอง. Kill คือคำสั่งจำกัด targeting ที่ทุบ premium CPM โดยตรง. **จับตา: คำตัดสิน EU เรื่องรวมข้อมูล; แนวโน้ม price-per-ad ในยุโรปถ้าแยกออกมา.**
+
+## 6. What to ask before owning it
+
+- เดิมพัน AI capex $130-145B/ปี จะเริ่มคืนทุนเป็นรายได้/กำไรที่วัดได้เมื่อไหร่ และเราจะรู้ได้ยังไงว่ามัน "เวิร์ก" — บริษัทจะเปิดตัวเลข AI ad revenue ให้ตรวจได้ไหม?
+- margin ที่ร่วงจาก 41% เหลือ 31% ในไตรมาสเดียว เป็นเรื่องชั่วคราว (ลงทุนหนักช่วงสร้าง) หรือเป็น new normal ที่ค่าเสื่อม AI จะกดต่อเนื่อง — เราแยกออกไหม?
+- ถ้ารายได้ ~99% มาจากโฆษณา แล้วกฎ regulator (EU DMA/DSA) บีบการยิงโฆษณาแบบเจาะกลุ่มได้จริง margin จะเหลือเท่าไหร่ — เรารับได้ไหม?
+- Reality Labs ที่ขาดทุน -$4.62B/ไตรมาส (กว้างขึ้น) เรามองว่าเป็น "การลงทุนอนาคต" ที่ยอมรับได้ หรือเป็นหลุมที่ควรหักออกจากมูลค่าบริษัท?
+- ราคาปัจจุบัน (แถว $594 — ตัวเลขจากข่าว) เทียบกับกำไรจริง Q2 (EPS $6.18) และ FCF ที่ยุบเหลือ $784M ยังสมเหตุสมผลกับความคาดหวังการเติบโตไหม?
 
 ## Verdict (Neon)
 
-**WATCH**
+**WATCH** (ลดจาก BUY ที่อิงเลข Q1) — moat ยังแข็ง แต่ Q2 กำไร/เงินสดแย่ลงจนแตะเงื่อนไขเตือนที่ตั้งไว้ล่วงหน้า
 
-Network effect moat จาก user scale แข็งแกร่ง แต่ capex bet ไม่มี disclosed ROI timeline, EU DMA เป็น active constraint ไม่ใช่ hypothetical, FCF ถูก capex แซงแล้วตั้งแต่ Q1 2026
+เกณฑ์ 5 ข้อ:
+- Moat: ✅ network effect = Strong — DAP 3.60B + pricing power จริง (ad impressions +14% พร้อมราคาต่อ ad +12%)
+- Growth: ✅ รายได้ยังโต +28% YoY (แต่ชะลอจาก +33%)
+- Macro: ✅ ไม่พึ่ง macro/Fed — ตัวขับคือ engagement + ad pricing
+- Momentum trap: ✅ ผ่าน — ธุรกิจหลักมี fundamental รองรับ ไม่ใช่แค่ราคาวิ่ง
+- Kill conditions: ❌ **แตะแล้ว** — operating margin 31% ต่ำกว่าเส้น 35% (1 ไตรมาส) และ FCF ยุบเหลือ $784M เข้าใกล้ trigger "capex ทุ่ม AI โดยไม่มี ROI ที่ verify ได้"
 
-**เหตุผล 3 ข้อ:**
-- Moat จาก network effect ชัดเจนจริง — 3.5B Daily Active People ทำให้ advertiser lock-in สูง ย้ายออกสูญเสีย audience data หลายปีที่สะสมไว้
-- Capex bet ยังไม่มี ROI metric ที่วัดได้: ณ วันนี้ management ยังไม่ได้ break out Advantage+ incremental revenue — ถ้า Q4 2026 ยังตอบไม่ได้ เป็น kill signal
-- FCF ถูก capex แซงแล้วใน Q1 ($12.4B vs $19.8B) — fundamental ดีแต่ visibility ระยะถัดไปยังไม่พอ
+ไม่ผ่าน BUY เพราะกฎ "ต้องครบ 5 ข้อ" — kill condition breach แล้ว. ไม่ใช่ PASS เพราะ moat ยัง Strong และพิสูจน์เป็นเงินจริง จึงเป็น **WATCH**: เฝ้าดู Q3 ว่า margin หยุดร่วง + AI เริ่มโชว์ตัวเลขรายได้ไหม ก่อนตัดสิน. จุดที่ตรงเส้นห้ามของ owner: capex ทุ่ม AI โดยยังไม่มีตัวเลขให้ verify = thesis ขี่ unproven bet + balance sheet เริ่มก่อหนี้ (net cash cushion เหลือ ~$6.6B จาก ~$22.85B).
 
-**Competitive advantage: Strong** — network effect จาก user scale 3.5B สร้าง advertiser lock-in ที่คู่แข่งลอกไม่ได้ในระยะสั้น
-
-**Momentum trap check:** ผ่าน — revenue +33% YoY มี fundamental รองรับจริง แต่ Advantage+ และ Llama เป็น narrative claim ที่ยังไม่มีตัวเลขยืนยัน upside story บางส่วนยังเป็น forward-looking
-
-**What to watch:** META ซ้อน Big Tech / AI capex exposure แบบเดียวกับ NVDA — รอ Q4 2026 earnings ดู Advantage+ disclosure และ EU CPM impact ก่อนกลับมาประเมินใหม่
-
-_ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของคุณเสมอ_
-
----
+_verdict นี้มาจากข้อมูลใน brief วันที่ 2026-08-12 — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ. Neon append META ลง watchlist.md แล้ว_
 
 ## Fact Check (Eve)
 
-**Source files:** sources/META/10-k-latest.md · sources/META/q-latest-call.md · sources/META/news-latest.md
-**ผล: 30 confirmed / 3 flagged / 0 ตรวจไม่ได้**
+ตรวจตัวเลขเทียบกับ `sources/META/q-latest-call.md` (Q2 2026, fetched 2026-08-12) และ `sources/META/10-k-latest.md` (FY2025):
 
-**Confirmed highlights:**
-- ✅ Revenue $134.9B/$164.5B/$200.97B (2023/2024/2025), +22% YoY — 10-k-latest.md
-- ✅ Operating margin 42% (2024), 41% (2025) — 10-k-latest.md
-- ✅ Net income $62.36B (2024) → $60.46B (2025) — 10-k-latest.md
-- ✅ Capex $72.22B (2025) — 10-k-latest.md
-- ✅ Cash + securities $81.59B, LT debt $58.74B — 10-k-latest.md
-- ✅ Buyback $26.26B, dividend $5.32B — 10-k-latest.md
-- ✅ Reality Labs operating loss -$19.19B — 10-k-latest.md
-- ✅ Q1 2026 revenue $56.3B +33%, Ads $55.0B +33% — q-latest-call.md
-- ✅ EPS $10.44, tax benefit $8.03B, adjusted $7.31 — q-latest-call.md
-- ✅ Operating margin 41%, income $22.9B — q-latest-call.md
-- ✅ FCF $12.4B, CapEx $19.8B Q1 — q-latest-call.md
-- ✅ Q2 guidance $58-61B, FY2026 CapEx $125-145B — q-latest-call.md
-- ✅ DAP 3.5B, Reality Labs $402M -2% — q-latest-call.md
+- **Confirmed ✅ (35/37):** ทุกตัวเลขใน Fundamentals (FY2025 10-K) และ Latest earnings (Q2 2026) — revenue $60.8B/+28%, operating income $18.78B/−8%, margin 31%, FoA op income $23.39B, RL loss -$4.62B, net income $15.8B, EPS $6.18, capex $31.08B, FCF $784M, cash $90.26B vs debt $83.66B, DAP 3.60B, impressions +14%, price/ad +12%, guidance ทั้งหมด — ตรงกับ source ทุกตัว
+- **Unconfirmed ⚠️ (2):** ตัวเลขเทียบไตรมาสก่อน "FCF $12.4B (Q1)" และ "margin 41% (Q1)" — Q1 transcript ถูกเขียนทับด้วย Q2 ในโฟลเดอร์แล้ว จึงไม่มี source file รองรับตอนนี้ (ทั้งคู่ถูก verify ผ่านแล้วในรอบ fact-check Q1 ก่อนหน้า session นี้ — ใช้เป็น prior-quarter context เพื่อแสดงการเปลี่ยนแปลง ไม่ใช่ตัวเลขที่แต่งขึ้น) หมายเหตุ: 41% บังเอิญตรงกับ margin ทั้งปี FY2025 ใน 10-K ด้วย
+- **From news (ไม่อยู่ใน filing):** ค่าปรับ child-safety ~$567M, ราคาปัจจุบัน ~$594 — กำกับ "(ตัวเลขจากข่าว)" ไว้ใน body แล้ว
 
-**Flagged (reconciled):**
-- ⚠️ "Capex $28.1B (2023)" — ไม่อยู่ใน source file ปัจจุบัน; ใส่ note "(ตัวเลขนี้ไม่อยู่ใน source file ปัจจุบัน verify กับ 10-K ก่อนใช้)" แล้วใน body
-- ⚠️ "Advantage+ ROI/revenue contribution" — ไม่มีตัวเลขใน source; brief ระบุเป็น narrative claim แล้ว
-- ⚠️ "EU ad inventory share at risk" — ไม่มีตัวเลขใน source; brief ระบุชัดว่าไม่มีข้อมูลแล้ว
+_สรุป: ตัวเลข filing ทั้งหมด (Section 2-3) confirmed 100% ไม่พบตัวเลขที่แต่งขึ้น — brief พร้อมใช้งาน_

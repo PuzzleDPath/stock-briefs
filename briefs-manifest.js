@@ -138,7 +138,7 @@ window.MANIFEST = [
     {
         "tk":  "META",
         "co":  "Meta Platforms, Inc.",
-        "date":  "2026-06-13",
+        "date":  "2026-08-12",
         "verdict":  "watch",
         "one":  "Network effect moat จาก user scale แข็งแกร่ง แต่ capex bet ไม่มี disclosed ROI t",
         "src":  "2026-06-13",
