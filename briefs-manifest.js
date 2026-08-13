@@ -109,6 +109,15 @@ window.MANIFEST = [
         "srcFile":  "10-k-latest.md"
     },
     {
+        "tk":  "HOOD",
+        "co":  "Robinhood Markets, Inc.",
+        "date":  "2026-08-13",
+        "verdict":  "watch",
+        "one":  "โตจริงและงบแข็ง แต่ moat ยังแค่ Moderate และ thesis พึ่ง macro/อารมณ์ตลาดสูง จึง",
+        "src":  "2026-08-13",
+        "srcFile":  "10-k-latest.md"
+    },
+    {
         "tk":  "IREN",
         "co":  "Iris Energy Limited",
         "date":  "2026-06-29",
