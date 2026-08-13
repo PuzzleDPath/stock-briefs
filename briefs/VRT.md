@@ -1,80 +1,82 @@
-# Vertiv Holdings Co (VRT) — Brief
-Generated: 2026-06-09
+# VRT — Vertiv Holdings Co
+_Brief generated: 2026-08-13_
 
----
+## อ่านง่าย
+
+**ทำอะไร:** Vertiv (VRT) ขายอุปกรณ์ที่ทำให้ศูนย์ข้อมูล (data center — โกดังเซิร์ฟเวอร์ยักษ์ที่เก็บและประมวลผลข้อมูล) ไม่ดับและไม่ร้อนเกิน คือระบบไฟสำรองกับระบบทำความเย็น รวมถึงการระบายความร้อนด้วยของเหลว (liquid cooling — เอาน้ำยาไปหล่อเย็นชิปโดยตรง) สำหรับชิป AI ที่ร้อนจัด. ลูกค้าหลักคือเจ้าของคลาวด์รายใหญ่ระดับโลก (hyperscaler เช่น Amazon, Microsoft, Google).
+
+**ทำไมน่าสนใจ:** ธุรกิจโตเร็วมากตามคลื่น AI — ยิ่งขายมากยิ่งได้กำไรต่อชิ้นดีขึ้น กำไรเลยโตแรงกว่ายอดขาย. แถมพลิกจากเดิมที่เผาเงินมาเป็นปั๊มเงินสดเข้าบริษัทได้ และหนี้แทบหมด (ตอนนี้มีเงินสดมากกว่าหนี้แล้ว).
+
+**ต้องระวัง:** พึ่งลูกค้ารายใหญ่แค่ไม่กี่เจ้ามาก ถ้าพวกนี้ลดงบลงทุนก็สะเทือนทันที. คู่แข่งใหญ่ (Schneider, Eaton) กำลังตามเข้ามาในตลาดระบายความร้อน AI ด้วย — ตอนนี้ Vertiv นำเรื่องตัวสินค้า แต่ยังไม่ได้ผูกลูกค้าไว้แบบย้ายหนียาก.
+
+**สรุปสั้นๆ:** ไตรมาสล่าสุด (Q2 2026) กำไรต่อหุ้นโต +60% แต่ยอดขายต่ำกว่าที่นักวิเคราะห์คาด เพราะส่งมอบงานบางส่วนช้าจากปัญหาห่วงโซ่อุปทานชั่วคราว (บริษัทบอกว่าครึ่งปีหลังจะดีขึ้น) — หุ้นเลยร่วงแรงวันประกาศงบทั้งที่บริษัทปรับเป้าทั้งปีขึ้น. ระบบให้เป็น WATCH (เฝ้าดู ยังไม่ใช่ซื้อทันที) เพราะความได้เปรียบยังนำหน้าแค่ตัวสินค้า ยังไม่แข็งถึงขั้นผูกขาดที่คู่แข่งลอกไม่ได้.
 
 ## 1. Company snapshot
 
-Vertiv Holdings ขายอุปกรณ์ "หลังบ้าน" ให้กับ data center ทั่วโลก ได้แก่ ระบบ power (UPS, switchgear), cooling (precision air, liquid cooling, CDUs) และ IT infrastructure (racks, monitoring software) ลูกค้าหลักคือ hyperscaler ชั้นนำและ colocation operator ทั่วโลก ทุก AI data center ต้องมีสิ่งที่ Vertiv ขายก่อนจะเดินเครื่องได้ รายได้แบ่งเป็น products ~80% และ services ~20% ที่โตเร็วกว่าและสร้าง recurring revenue จากการ maintenance และ monitoring
+Vertiv ขายโครงสร้างพื้นฐานสำคัญให้ศูนย์ข้อมูล พูดง่ายๆ คือทำอุปกรณ์ที่ทำให้ data center ไม่ดับและไม่ร้อนเกิน — ระบบไฟ (UPS ไฟสำรอง, สวิตช์เกียร์, การจ่ายไฟ), ระบบทำความเย็น (รวม liquid cooling สำหรับชิป AI ที่ร้อนจัด), และ IT rack/enclosure. ลูกค้าหลักคือ hyperscale (เจ้าของคลาวด์รายใหญ่), colocation, telecom, การเงิน และ healthcare.
 
----
+รายได้มาจากสองก้อน: **Products ~80%** (ตัวอุปกรณ์) และ **Services ~20%** (บำรุงรักษา, บริการ UPS/แบตเตอรี่ ซึ่งเป็นรายได้ต่อเนื่องผูกกับฐานอุปกรณ์ที่ติดตั้งไปแล้ว). แบ่งตามภูมิภาค: Americas ~56%, Asia Pacific ~22%, EMEA ~22%.
 
 ## 2. Fundamentals signal
 
-- **Revenue โตต่อเนื่อง** — FY2022 $5.7B → FY2023 $6.9B (+20.6%) → FY2024 $8.0B (+16.7%); backlog $7.2B (+30% YoY) ณ ปลาย FY2024 ให้ visibility ล่วงหน้าสูง (source: sources/VRT/10-k-latest.md)
-- **Gross margin ฟื้นชัด** — 28.4% (FY2022) → 35.0% (FY2023) → 36.6% (FY2024); operating margin กระโดด 3.9% → 12.7% → 17.1% ใน 2 ปี (source: sources/VRT/10-k-latest.md)
-- **FCF พลิกจากลบมาบวกแรง** — -$253M (FY2022) → +$773M (FY2023) → +$1.15B (FY2024); guided $2.2B FY2026 (source: sources/VRT/10-k-latest.md)
-- **Debt แทบหมดแล้ว** — net leverage 1.0x FY2024 → 0.2x Q1 2026; ได้ investment-grade credit rating ใหม่; เข้า S&P 500 (source: sources/VRT/10-k-latest.md, sources/VRT/q-latest-call.md)
-- **Operating leverage compound ชัดมาก** — margin ขึ้นแรงกว่า revenue โต ถ้า volume ยังโต FCF โตเร็วกว่า revenue (source: sources/VRT/10-k-latest.md)
+- **Revenue — ขาขึ้นและเร่งตัว:** $5,692M (FY22) → $6,863M (FY23) → $8,012M (FY24), +17% YoY ทุก segment โตสองหลัก — ตัวขับคือคลื่น data center/AI (source: sources/VRT/10-k-latest.md)
+- **Margin — ดีขึ้นแรงทั้งสองชั้น:** Gross 28.4% → 35.0% → 36.6%; Operating 3.9% → 12.7% → 17.1% ใน 2 ปี = operating leverage (รายได้โตแต่ต้นทุนคงที่ไม่โตตาม) (source: sources/VRT/10-k-latest.md)
+- **Balance sheet — แข็งขึ้นเร็ว:** net leverage ~1.9x → ~1.0x (FY24) และล่าสุด Q2'26 พลิกเป็น net cash (-0.1x = เงินสดมากกว่าหนี้) (source: sources/VRT/10-k-latest.md, sources/VRT/q-latest-call.md)
+- **Cash flow — พลิกจากติดลบเป็นปั๊มเงินสด:** FCF -$252.8M (FY22) → $772.6M → $1,152M (FY24), OCF $1,319M, capex ต่ำ ~$167M (source: sources/VRT/10-k-latest.md)
+- **Capital allocation — สาย deleveraging + reinvest:** buyback+dividend รวมแค่ ~$42.8M FY24 (จิ๊บจ๊อยเทียบ FCF $1.15B) เงินส่วนใหญ่ไปลดหนี้และขยายกำลังผลิต — เลือกโตกับ demand มากกว่าคืนเงินผู้ถือหุ้น (source: sources/VRT/10-k-latest.md)
+- **Leading indicator — backlog พุ่ง:** order backlog $5,526.7M → $7,178.8M (+30% YoY สิ้นปี 2024) (source: sources/VRT/10-k-latest.md). *ข่าวล่าสุดพูดถึง backlog ~$15B — ตัวเลขจากข่าว ไม่อยู่ใน 10-K/transcript และ earnings call Q2 ไม่ได้เปิดเผยตัวเลข backlog เป็นดอลลาร์*
 
----
+## 3. Latest earnings (Q2 2026)
 
-## 3. Latest earnings (Q1 2026 — April 22, 2026)
-
-- Revenue $2.65B (+30% YoY, +23% organic); Americas $1.81B (+44% organic) (source: sources/VRT/q-latest-call.md)
-- Adj operating margin 20.8% (+430bps YoY, 180bps above own guidance); Adj EPS $1.17 (+83% YoY) beat consensus $1.00 (+17%) (source: sources/VRT/q-latest-call.md)
-- FCF $653M (+$147M YoY); net leverage 0.2x; เข้า S&P 500; investment-grade rating (source: sources/VRT/q-latest-call.md)
-- FY2026 guidance raised: revenue $13.75B (+34%), adj EPS $6.35 (+51%), adj op margin 23.3% (+290bps), FCF $2.2B (source: sources/VRT/q-latest-call.md)
-- EMEA -29% organic (management ระบุเป็น timing issue); H2 acceleration expected เมื่อ capacity investments เริ่ม hit (source: sources/VRT/q-latest-call.md)
-
----
+- Net sales **$3.274B, +24% YoY** (organic +18%, acquisition +5%, FX +1%) — **แต่ต่ำกว่าที่นักวิเคราะห์คาด ~$3.38B** (ตัวเลข consensus จากข่าว — ไม่อยู่ใน transcript) (source: sources/VRT/q-latest-call.md)
+- Adj diluted EPS **$1.52 (+60% YoY)**, adj operating profit $738M (+51%), adj operating margin 22.6% (+410bps) (source: sources/VRT/q-latest-call.md)
+- Adj free cash flow $925M (+234% YoY), conversion >150%, net leverage -0.1x (net cash) (source: sources/VRT/q-latest-call.md)
+- Segment: Americas $2.071B (+29%), APAC $720M (+29%), **EMEA $484M (+2%, organic -2%)** — growth กระจุกที่ Americas/APAC ไม่กว้าง (source: sources/VRT/q-latest-call.md)
+- FY2026 guidance ปรับขึ้นทุกเมตริก: revenue ~$14B (+37%), adj EPS $6.70 mid, adj op margin 23.8%, adj FCF $2.5B, organic +31%; Q3 guide revenue $3.75B (+40%), adj EPS $1.80 (source: sources/VRT/q-latest-call.md)
+- Management โทษ "timing shift" จาก multiphase project + supply chain ชั่วคราว คาดคลี่คลาย H2 → หุ้นร่วง ~10-17% วันงบแม้ขึ้น guidance (% การร่วงจากข่าว) (source: sources/VRT/q-latest-call.md)
 
 ## 4. Bull case / Bear case
 
-**Bull**
-- **Scale Economies + Integrated Solution** — ยิ่ง scale มาก cost ต่อ unit ลด; SmartRun/One Core รวม power+cooling+software ในชุดเดียว hyperscaler ต้องการ single vendor ที่ deploy ครบ; ลดความซับซ้อนของ deployment ทำให้ Vertiv sticky ใน procurement cycle
-- **AI buildout ยังเนิ่น** — CEO ยืนยัน "still early stages"; backlog $7.2B (+30%) ให้ visibility สูง; orders คาดโตทุก quarter ตลอด FY2026
-- **Operating leverage กำลัง compound** — margin 3.9% → 23.3% guided FY2026 ใน 4 ปี; FCF $2.2B guided ปีนี้ — ยิ่ง revenue โต margin ขยายเร็วกว่า
+**Bull case**
+- ผู้นำ liquid cooling ยุค AI — ข่าวระบุถือ 70%+ volume share ของ NVIDIA GB200 racks ล็อตแรก และร่วมมือ NVIDIA ทำ 800V DC (ตัวเลข share จากข่าว — ไม่อยู่ใน 10-K/transcript). moat มาจาก **scale + engineering lead** ในระบบไฟ+ความเย็นครบวงจร
+- Operating leverage ทำงานจริง + FCF conversion >150% + งบดุล net cash = ลงทุนขยายได้โดยไม่ต้องกู้
+- Backlog ใหญ่ + deferred revenue โตจาก $1.457B เป็น $3.634B = มองเห็น demand ล่วงหน้า (source: sources/VRT/q-latest-call.md)
 
-**Bear**
-- **Hyperscaler CapEx concentration — สัญญาณมาก่อน revenue** — ถ้า 2 ใน 4 hyperscaler (MSFT/GOOGL/META/AMZN) พูดถึง CapEx revision ลงใน earnings quarter เดียวกัน order Vertiv จะโดน cancel/push ก่อนเพราะ lead time สั้นกว่า semiconductor; บริษัทนี้ไม่สามารถชะลอ hyperscaler ได้
-- **EMEA -29% organic ยังพิสูจน์ไม่ได้** — ถ้า Q2 2026 EMEA ไม่ rebound กลับมาเป็นบวก "timing issue" ไม่ใช่คำอธิบายที่ถูกต้อง และ demand อ่อนแอใน EMEA จริง; Eaton/Schneider มี competitive position ที่แข็งกว่าในยุโรป
-- **Gross margin pressure จาก tariff + competition** — Vertiv ผลิต component ใน Asia; ถ้า Eaton/Schneider เริ่ม dual-source ในกลุ่ม liquid cooling pricing power จะลด; gross margin จะโดนก่อน adj op margin ที่รายงาน
+**Bear case (Rey)**
+- **Q2 revenue miss คือสัญญาณ ไม่ใช่ guidance raise.** ยอดขาย $3.274B ต่ำกว่าคาด ~$3.38B ขณะ EPS beat จาก margin = บริษัทรีดกำไรจากรายได้ที่น้อยกว่าที่ควร. management โทษ "timing shift" + supply chain — เป็นปัญหา execution ในบริษัทที่ thesis ทั้งหมดคือ "ผลิตและส่งของทันคลื่น AI ได้ไหม". ตลาดไม่เชื่อ guidance raise — หุ้นร่วงวันที่เป้าขึ้น
+- **Moat บางกว่าตัวเลข 70% GB200.** เป็น product lead ในสินค้าฮาร์ดแวร์ ไม่ใช่ structural lock-in. Schneider, Eaton, nVent, Rittal, Stulz ดันเข้าตลาด high-density AI cooling; ลูกค้าคือ hyperscaler ที่ dual-source โดยตั้งใจ; Products ~80% ของรายได้ = recurring น้อย ป้องกัน margin ได้จำกัดเมื่อคู่แข่งตามทัน
+- **Concentration = single-point-of-failure.** ทั้ง thesis พึ่ง hyperscaler capex ที่ Vertiv คุมไม่ได้ และ brief เองก็ flag ความเสี่ยง capex ชะลอปี 2027. EMEA organic -2% แล้วใน Q2 = growth ไม่กว้าง เป็น Americas hyperscale ที่แบกไตรมาสนี้ ถ้า hyperscaler ไม่กี่เจ้าเลื่อน order ทั้ง backlog และ guidance สั่นพร้อมกัน
 
----
+## 5. Kill conditions (Rey)
 
-## 5. Kill conditions
-
-- **Backlog หยุดโต หรือ book-to-bill ต่ำกว่า 1.0x** — incoming order น้อยกว่า revenue ที่ ship แม้แค่ไตรมาสเดียว; backlog คือ leading indicator ที่สำคัญที่สุด ถ้าตัวนี้พัง thesis พัง; checkpoint แรก **Q2 2026 earnings ~ส.ค. 2026**
-- **Revenue growth ต่ำกว่า 20% YoY ใน Q3 หรือ Q4 2026** — guidance +34%; ถ้า growth ต่ำกว่า 20% โดยไม่มี one-time อธิบาย = guidance ทำไม่ได้ growth story ชะลอเร็วกว่าคาด
-- **Gross margin ต่ำกว่า 35% สองไตรมาสติดกัน** — tariff/competition กินต้นทุนจริง pricing power ลด; ดู gross margin โดยตรง ไม่ใช่แค่ adj op margin
-- **EMEA Q2 2026 organic ยังติดลบหรือต่ำกว่า +10% YoY** — "timing issue" ไม่ใช่คำตอบ; review international thesis ใหม่; ดูใน Q2 earnings call ส.ค. 2026
-- **Hyperscaler CapEx guidance ลดพร้อมกัน 2 ใน 4 ราย** — ติดตาม earnings MSFT/GOOGL/META/AMZN; ถ้า 2 รายพูดถึง revision ลงใน quarter เดียวกัน review position ทันที
-
----
+- **Order/backlog rollover:** ถ้า book-to-bill ต่ำกว่า 1.0x สองไตรมาสติด หรือ organic backlog **ลดลง QoQ** → thesis "มองเห็น demand 12-18 เดือน" พังทันที ควรเลิกถือ (backlog คือตัวเลขแข็งตัวเดียวที่ค้ำ thesis — จับตรงนี้ ไม่ใช่ narrative AI)
+- **Q2 miss ซ้ำแทนที่จะหาย:** management สัญญาว่า timing/supply chain "คลี่คลาย H2". ถ้า Vertiv miss revenue consensus **อีกใน Q3 2026** หรือ Q4 organic growth ไม่เร่งเหนือ ~18% (organic rate ของ Q2) → "timing" จริงๆ คือเสีย share/demand ควรออก ไม่ต้องรอไตรมาสที่สาม
+- **Margin compression จากการแข่ง:** ถ้า adj operating margin ลดเกิน ~200bps QoQ จากระดับ 22.6% **ขณะที่รายได้ยังโต** = Vertiv ตัดราคาเพื่อรักษา share สู้ Schneider/Eaton = moat กร่อนที่ราคา (margin ลดตอนรายได้ลด = วัฏจักรปกติ; margin ลดตอนรายได้โต = สงครามราคา นั่นคือ kill)
 
 ## 6. What to ask before owning it
 
-1. Hyperscaler top 5 คิดเป็น % เท่าไหร่ของ order backlog? ถ้า top 2 ชะลอ CapEx revenue จะลดกี่ %?
-2. Liquid cooling market share — Vertiv อยู่อันดับเท่าไหร่? CoolIT, Schneider, Eaton กำลังตีตลาดยังไง?
-3. EMEA -29% organic Q1 จริงๆ คือ timing หรือ structural demand softness? Q2 ต้องกลับมาเท่าไหร่ถึงจะเชื่อได้?
-4. Tariff component จาก Asia — ถ้า tariff เพิ่มอีก 10-15% pricing power พอที่จะ pass ให้ลูกค้าไหม? gross margin FY2023 ตอน supply chain หนักสุดเคยต่ำแค่ไหน?
-5. P/E forward ปัจจุบันคือเท่าไหร่? ถ้าตลาด price-in FY2026 guidance ไปหมดแล้ว upside ที่เหลือจากจุดนี้คือเท่าไหร่?
-
----
+- backlog จริงตอนนี้เท่าไหร่ และ book-to-bill ยังเกิน 1.0x อยู่ไหม — ตัวเลข $15B มาจากข่าว ยังไม่มีในงบ/transcript ต้องหาตัวเลขที่บริษัทเปิดเผยเองก่อนเชื่อ
+- รายได้ที่เลื่อนไปจาก "timing shift" กลับมาจริงใน H2 ไหม หรือกลายเป็นยอดที่หายถาวร (ดู Q3)
+- ลูกค้า hyperscaler กระจุกแค่ไหน — ถ้า top-3 ลดงบลงทุนปี 2027 รายได้จะหายกี่ %
+- Services (รายได้ต่อเนื่อง) โตเป็นสัดส่วนมากขึ้นไหม — ถ้ายังติดที่ ~20% แปลว่ายังไม่ได้ผูกลูกค้าไว้แน่น
+- ที่ margin โตแรง มาจาก operating leverage จริง หรือมาจากราคาวัตถุดิบ/ช่วงพีคของ cycle ที่ย้อนกลับได้
 
 ## Verdict (Neon)
 
-**WATCH**
+**VRT — WATCH**
 
-Fundamentals แข็งจริง — revenue +20% ต่อเนื่อง, FCF พลิกจาก -$253M เป็น +$1.15B, operating margin กระโดดจาก 3.9% เป็น 23.3% guided ใน 4 ปี operating leverage กำลัง compound อยู่จริง Kill conditions ถูก name ไว้ชัดและ observable ครบ แต่ยังมี 2 ตัวที่ยังไม่รู้คำตอบ: EMEA Q2 2026 rebound ได้จริงไหม และ P/E forward ตอนนี้ price-in ไปแล้วแค่ไหน — ซื้อโดยไม่รู้ตัวเลข valuation entry คือ entry ที่ไม่เข้าใจ
+ติดข้อเดียว: **Moat = Moderate ไม่ถึง Strong** — power ระบุได้ (scale + engineering lead ใน liquid cooling, ข่าวว่า 70% GB200 share) จึงไม่ PASS แต่ยังไม่ใช่ structural lock-in: ลูกค้า dual-source โดยตั้งใจ, Products 80% ของรายได้ recurring น้อย, คู่แข่งใหญ่ (Schneider/Eaton/nVent) ขยายเข้ามา. อีก 4 ข้อผ่านหมด — Growth โตเร็ว (FY26 +37%, backlog +30% FY24), ไม่พึ่ง macro/Fed, ไม่ใช่ momentum trap (หุ้นร่วง 10-17% วันงบ ไม่ได้วิ่งนำ), kill conditions verify ได้ 3 ข้อ.
 
-รอดู Q2 2026 earnings **~ส.ค. 2026** — ตรวจ EMEA rebound, backlog direction, และ gross margin; บวกกับ hyperscaler CapEx tone จาก Q2 earnings ของ MSFT/GOOGL/META/AMZN ก่อนตัดสินใจ entry
+**จุดเสี่ยงหลัก:** concentration ผูก hyperscaler capex ทั้งก้อน (2027 slowdown risk, EMEA organic ติดลบแล้ว) + execution/supply-chain risk จาก Q2 revenue miss.
 
-**Competitive Advantage Score: Strong (operational)** | คำถามที่ยังขาด: liquid cooling market share vs Eaton/Schneider
+**จะ flip เป็น BUY เมื่อ:** Services โตเกิน ~30% ของรายได้ (switching cost เพิ่ม) หรือ book-to-bill >1.0x + organic backlog โต QoQ 2 ไตรมาสติด พร้อม adj op margin ยืน/ขึ้นจาก 22.6% (พิสูจน์ pricing power = ได้ share โดยไม่ตัดราคา)
 
-**Next reassess: Q2 2026 Earnings ~2026-08-05**
+_ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
 
----
+## Fact Check (Eve)
 
-_Research summary only — ไม่ใช่คำแนะนำซื้อขาย_
+- **Confirmed: 30 / Unconfirmed: 0 / No source: 0**
+- ตัวเลข Fundamentals (section 2) ทุกตัว trace กลับ 10-K FY2024 ได้ครบ: revenue, gross/operating margin, net leverage, FCF/OCF/capex, buyback+div, backlog FY24, guidance FY25
+- ตัวเลข Q2 2026 (section 3) ทุกตัว trace กลับ transcript ได้ครบ: net sales + องค์ประกอบ, segment, adj EPS/op profit/margin, adj FCF, deferred revenue, FY26 + Q3 guidance
+- **ตัวเลขจากข่าว (ไม่อยู่ใน 10-K/transcript — กำกับในบอดี้แล้ว):** consensus ~$3.38B, หุ้นร่วง 10-17%, backlog ~$15B, Q4'25 orders +252% / book-to-bill 2.9x, Morgan Stanley PT $200, 70% GB200 share
+- **2 ข้อควรรู้เรื่อง source:** (1) วันประกาศงบไม่ตรงกัน — ข่าวว่า July 29, header transcript ว่า Aug 7; (2) earnings call ไม่ได้เปิดเผยตัวเลข backlog เป็นดอลลาร์เลย — $15B พึ่งข่าวล้วน
