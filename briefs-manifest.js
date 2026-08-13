@@ -145,6 +145,15 @@ window.MANIFEST = [
         "srcFile":  "10-k-latest.md"
     },
     {
+        "tk":  "MELI",
+        "co":  "MercadoLibre, Inc.",
+        "date":  "2026-08-13",
+        "verdict":  "watch",
+        "one":  "",
+        "src":  "2026-08-13",
+        "srcFile":  "10-k-latest.md"
+    },
+    {
         "tk":  "META",
         "co":  "Meta Platforms, Inc.",
         "date":  "2026-08-12",
