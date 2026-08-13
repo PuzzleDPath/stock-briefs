@@ -63,7 +63,7 @@ Vertiv ขายโครงสร้างพื้นฐานสำคัญ�
 
 ## Verdict (Neon)
 
-**VRT — WATCH**
+**WATCH**
 
 ติดข้อเดียว: **Moat = Moderate ไม่ถึง Strong** — power ระบุได้ (scale + engineering lead ใน liquid cooling, ข่าวว่า 70% GB200 share) จึงไม่ PASS แต่ยังไม่ใช่ structural lock-in: ลูกค้า dual-source โดยตั้งใจ, Products 80% ของรายได้ recurring น้อย, คู่แข่งใหญ่ (Schneider/Eaton/nVent) ขยายเข้ามา. อีก 4 ข้อผ่านหมด — Growth โตเร็ว (FY26 +37%, backlog +30% FY24), ไม่พึ่ง macro/Fed, ไม่ใช่ momentum trap (หุ้นร่วง 10-17% วันงบ ไม่ได้วิ่งนำ), kill conditions verify ได้ 3 ข้อ.
 
@@ -71,7 +71,7 @@ Vertiv ขายโครงสร้างพื้นฐานสำคัญ�
 
 **จะ flip เป็น BUY เมื่อ:** Services โตเกิน ~30% ของรายได้ (switching cost เพิ่ม) หรือ book-to-bill >1.0x + organic backlog โต QoQ 2 ไตรมาสติด พร้อม adj op margin ยืน/ขึ้นจาก 22.6% (พิสูจน์ pricing power = ได้ share โดยไม่ตัดราคา)
 
-_ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
+_verdict นี้มาจากข้อมูลใน brief วันที่ 2026-08-13 — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
 
 ## Fact Check (Eve)
 

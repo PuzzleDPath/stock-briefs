@@ -283,7 +283,7 @@ window.MANIFEST = [
         "tk":  "VRT",
         "co":  "Vertiv Holdings Co",
         "date":  "2026-08-13",
-        "verdict":  "none",
+        "verdict":  "watch",
         "one":  "Fundamentals แข็งจริง",
         "src":  "2026-06-09",
         "srcFile":  "10-k-latest.md"
