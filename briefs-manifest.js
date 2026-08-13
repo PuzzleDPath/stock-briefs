@@ -151,7 +151,7 @@ window.MANIFEST = [
         "verdict":  "watch",
         "one":  "Network effect moat จาก user scale แข็งแกร่ง แต่ capex bet ไม่มี disclosed ROI t",
         "src":  "2026-06-13",
-        "srcFile":  "10-k-latest.md"
+        "srcFile":  "news-latest.md"
     },
     {
         "tk":  "MRVL",
