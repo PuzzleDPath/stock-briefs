@@ -65,11 +65,21 @@ Vertiv ขายโครงสร้างพื้นฐานสำคัญ�
 
 **WATCH**
 
-ติดข้อเดียว: **Moat = Moderate ไม่ถึง Strong** — power ระบุได้ (scale + engineering lead ใน liquid cooling, ข่าวว่า 70% GB200 share) จึงไม่ PASS แต่ยังไม่ใช่ structural lock-in: ลูกค้า dual-source โดยตั้งใจ, Products 80% ของรายได้ recurring น้อย, คู่แข่งใหญ่ (Schneider/Eaton/nVent) ขยายเข้ามา. อีก 4 ข้อผ่านหมด — Growth โตเร็ว (FY26 +37%, backlog +30% FY24), ไม่พึ่ง macro/Fed, ไม่ใช่ momentum trap (หุ้นร่วง 10-17% วันงบ ไม่ได้วิ่งนำ), kill conditions verify ได้ 3 ข้อ.
+โตเร็วและงบแข็ง แต่ moat ยังแค่ Moderate ไม่ถึงขั้นผูกขาด จึงขอเฝ้าดูก่อน
 
-**จุดเสี่ยงหลัก:** concentration ผูก hyperscaler capex ทั้งก้อน (2027 slowdown risk, EMEA organic ติดลบแล้ว) + execution/supply-chain risk จาก Q2 revenue miss.
+### เกณฑ์ 5 ข้อ
+- Moat: ❌ scale + engineering lead = Moderate — product lead ไม่ใช่ lock-in, ลูกค้า hyperscaler dual-source, Products 80% recurring น้อย
+- Growth: ✅ AI data center demand — โตเร็ว (FY26 revenue +37%, backlog +30% FY24)
+- Macro: ✅ ไม่พึ่ง — thesis อยู่กับ AI capex ของลูกค้า ไม่ใช่ Fed/ดอกเบี้ย
+- Momentum trap: ✅ ผ่าน — หุ้นร่วง 10-17% วันงบ ไม่ได้วิ่งนำก่อนพื้นฐาน
+- Kill conditions: ✅ 3 ข้อวัดได้ — book-to-bill, Q3 revenue miss ซ้ำ, margin compression
 
-**จะ flip เป็น BUY เมื่อ:** Services โตเกิน ~30% ของรายได้ (switching cost เพิ่ม) หรือ book-to-bill >1.0x + organic backlog โต QoQ 2 ไตรมาสติด พร้อม adj op margin ยืน/ขึ้นจาก 22.6% (พิสูจน์ pricing power = ได้ share โดยไม่ตัดราคา)
+### Risk ก่อน DCA
+- Concentration ผูก hyperscaler capex ทั้งก้อน — 2027 capex slowdown risk, EMEA organic ติดลบแล้วใน Q2
+- Execution/supply-chain risk จาก Q2 revenue miss (ส่งมอบงานบางส่วนช้า) — ต้องพิสูจน์ว่ากลับมาจริงใน H2
+
+### จะเป็น BUY เมื่อ
+Services โตเกิน ~30% ของรายได้ (switching cost เพิ่ม) หรือ book-to-bill >1.0x + organic backlog โต QoQ 2 ไตรมาสติด พร้อม adj op margin ยืน/ขึ้นจาก 22.6% (พิสูจน์ pricing power = ได้ share โดยไม่ตัดราคา)
 
 _verdict นี้มาจากข้อมูลใน brief วันที่ 2026-08-13 — ไม่ใช่คำแนะนำการลงทุน การตัดสินใจสุดท้ายเป็นของ owner เสมอ_
 
